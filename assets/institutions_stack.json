@@ -1,0 +1,7088 @@
+[
+  {
+    "name": "institutions",
+    "title": "מה נמצא קרוב?",
+    "subtitle": "במרחק הליכה מהעסק",
+    "tags": [
+      "מיקום",
+      "נקודות עניין",
+      "הזדמנויות"
+    ],
+    "scheme": "green",
+    "owner": {
+      "name": "אדם קריב",
+      "title": "מחלקת המלצות ואירועים",
+      "avatar": "https://s.gravatar.com/avatar/cd511289b5773fff5e7efe328846eef3?s=300"
+    },
+    "map": true,
+    "cards": [
+      {
+        "title": "אולם מופעים, היכל תרבות",
+        "pointGeometry": {
+          "type": "FeatureCollection",
+          "features": [
+            {
+              "geometry": {
+                "coordinates": [
+                  34.800504,
+                  31.248102
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שז\"ר זלמן 10",
+                "title": "ב\"ש"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.798041,
+                  31.249537
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "זלמן שז\"ר 36",
+                "title": "בית יד לבנים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.801369,
+                  31.251947
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "השלום 15",
+                "title": "בת דור מרכז עירוני לאומנות המחול"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.798141,
+                  31.248374
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יצחק רגר 32",
+                "title": "היכל התרבות לאומנות חברה וקהילה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795358,
+                  31.246066
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ויצמן 1",
+                "title": "מרכז וייצמן"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.786775,
+                  31.238246
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הרצל 12",
+                "title": "מרכז לתרבות אומנות ותקשורת"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.796563,
+                  31.251454
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שדרות רגר יצחק 41",
+                "title": "משכן לאומניות הבמה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795922,
+                  31.251614
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דרך המשחררים 10",
+                "title": "קונסרבטוריון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795261,
+                  31.251612
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דרך המשחררים 12",
+                "title": "שחמט עירוני"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.784593,
+                  31.245048
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שד טוביהו דוד 65",
+                "title": "תחנת הרכבת הטורקית"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.787903,
+                  31.237014
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אנילביץ 15",
+                "title": "תיאטרון הפרינג'"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.800504,
+                  31.248102
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שז\"ר זלמן 10",
+                "title": "ב\"ש"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.798041,
+                  31.249537
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "זלמן שז\"ר 36",
+                "title": "בית יד לבנים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.801369,
+                  31.251947
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "השלום 15",
+                "title": "בת דור מרכז עירוני לאומנות המחול"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.798141,
+                  31.248374
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יצחק רגר 32",
+                "title": "היכל התרבות לאומנות חברה וקהילה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795358,
+                  31.246066
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ויצמן 1",
+                "title": "מרכז וייצמן"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.786775,
+                  31.238246
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הרצל 12",
+                "title": "מרכז לתרבות אומנות ותקשורת"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.796563,
+                  31.251454
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שדרות רגר יצחק 41",
+                "title": "משכן לאומניות הבמה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795922,
+                  31.251614
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דרך המשחררים 10",
+                "title": "קונסרבטוריון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795261,
+                  31.251612
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דרך המשחררים 12",
+                "title": "שחמט עירוני"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.784593,
+                  31.245048
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שד טוביהו דוד 65",
+                "title": "תחנת הרכבת הטורקית"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.787903,
+                  31.237014
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אנילביץ 15",
+                "title": "תיאטרון הפרינג'"
+              },
+              "type": "Feature"
+            }
+          ]
+        },
+        "content": "&nbsp;"
+      },
+      {
+        "title": "איצטדיון",
+        "pointGeometry": {
+          "type": "FeatureCollection",
+          "features": [
+            {
+              "geometry": {
+                "coordinates": [
+                  34.778904,
+                  31.272978
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ארתור וסרמיל 1",
+                "title": "איצטדיון טוטו טרנר"
+              },
+              "type": "Feature"
+            }
+          ]
+        },
+        "content": "&nbsp;"
+      },
+      {
+        "title": "בית כנסת",
+        "pointGeometry": {
+          "type": "FeatureCollection",
+          "features": [
+            {
+              "geometry": {
+                "coordinates": [
+                  34.802225,
+                  31.265423
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הרב אסף שמחה 33",
+                "title": "אביר יעקב"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.797876,
+                  31.268494
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שדרות יצחק ליד 148",
+                "title": "אברהם אבינו/ מחזק הדת"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.794969,
+                  31.26081
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ככר הקניזי 11",
+                "title": "אהבה ואחוה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.783742,
+                  31.271316
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רמב\"ן 34",
+                "title": "אהבת השלום והרחמים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.757069,
+                  31.265319
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ברוד מקס 13",
+                "title": "אהבת חנה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.79888,
+                  31.25459
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שדרות יצחק 67",
+                "title": "אהבת חנה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.809252,
+                  31.252079
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "חיבת ציון 14",
+                "title": "אהבת ישראל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.778345,
+                  31.250294
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יעלים 71",
+                "title": "אהבת ישראל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.794828,
+                  31.266816
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יטבתה 3",
+                "title": "אהבת ישראל/ אדרת אליהו"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.767666,
+                  31.253289
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "החידא 55",
+                "title": "אהבת שלום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.806102,
+                  31.254865
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "וינגייט 31",
+                "title": "אהבת שלום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.787021,
+                  31.268107
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רש\"י 3",
+                "title": "אהבת שלום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.794451,
+                  31.261773
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יעקב אבינו 14",
+                "title": "אהבת תורה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.809886,
+                  31.253551
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "קלישר 46",
+                "title": "אהל אברהם"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.777031,
+                  31.260048
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אבנר 6א",
+                "title": "אהלי יעקב - ליוצאי קווקז"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.770711,
+                  31.230175
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בז 24",
+                "title": "אוהל אברהם"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.777181,
+                  31.268544
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אבוחצירא 6",
+                "title": "אוהל בנימין"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.788557,
+                  31.253159
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הרמן שטרוק 5",
+                "title": "אוהל יעקב"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.79508,
+                  31.271515
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הרב גאבי מנחם 15",
+                "title": "אוהל משה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.777189,
+                  31.250525
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "האיילה 36",
+                "title": "אוהל רחל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.792602,
+                  31.259458
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רבי טרפון ליד 4",
+                "title": "אוהל שלמה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.788643,
+                  31.271657
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "התלמוד 2",
+                "title": "אוהל שלמה - בית כנסת היכל יצחק"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.779514,
+                  31.223576
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "צביה ויצחק פינת רוט אגון",
+                "title": "אוהל שרה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.791577,
+                  31.263414
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בר גיורא 2",
+                "title": "אוצר האמונה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795357,
+                  31.248735
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מונטיפיורי 7",
+                "title": "אוצרות אשר עזרא"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.793941,
+                  31.267841
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "המכתשים 7",
+                "title": "אור אבנר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.78512,
+                  31.239873
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "האבות 67",
+                "title": "אור החיים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.809797,
+                  31.257456
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "חנה סנש 16",
+                "title": "אור השלום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.823404,
+                  31.275399
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אברהם אמיר 32",
+                "title": "אור לדוד"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795861,
+                  31.268262
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סוכות 8",
+                "title": "אור מאיר חי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.786827,
+                  31.252667
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יהודה הלוי 8",
+                "title": "אור שמעון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.77424,
+                  31.268886
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ד\"ר משה זמורה 14",
+                "title": "אורות הזוהר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.805886,
+                  31.251329
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "השלום 42",
+                "title": "אורות השלום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.793876,
+                  31.256234
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שדרות הסופרים 7",
+                "title": "אורות ישראל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.766574,
+                  31.260076
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הרצוג 38",
+                "title": "אורח חיים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.796478,
+                  31.283361
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הרב שושנה 1",
+                "title": "אח ורע"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.805717,
+                  31.27402
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "גינצבורג דוד 15",
+                "title": "אחדות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.804438,
+                  31.273456
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "המדע 41",
+                "title": "אימרי יוסף"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.792209,
+                  31.260621
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בר גיורא 40",
+                "title": "אלי כהן"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.793312,
+                  31.245996
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "השומר 0",
+                "title": "אליהו הנביא"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.777232,
+                  31.255052
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סטרומה 40",
+                "title": "אסתרהמלכה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.80617,
+                  31.273579
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דוד גינצבורג 2",
+                "title": "אפיקי תימן"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.775695,
+                  31.244378
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ירושלים 39",
+                "title": "אריאל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.780758,
+                  31.267086
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הרב פרנק 1",
+                "title": "אשת חיל בית כנסת"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.775478,
+                  31.269088
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "גיוטיין דוד 9",
+                "title": "באר הגאולה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.793796,
+                  31.250489
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "כצנלסון 19",
+                "title": "באש ובמים - ברסלב"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795682,
+                  31.263509
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אלכסנדר ינאי 16",
+                "title": "בבאסאלי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.788663,
+                  31.250391
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בזל 52",
+                "title": "בית אברהם"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.792627,
+                  31.231916
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שיזף 2",
+                "title": "בית אברהם"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.769611,
+                  31.254909
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "עוזיאל 26",
+                "title": "בית אהרון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.793684,
+                  31.27142
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הלל הזקן 14",
+                "title": "בית אל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.792734,
+                  31.255797
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שלום עליכם 9",
+                "title": "בית אל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.764171,
+                  31.268933
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "נעמי 2",
+                "title": "בית אל - בית מדרש ותלמוד תורה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.761548,
+                  31.266272
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שרה אהרונסון 8א",
+                "title": "בית אל אהל משה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.802553,
+                  31.250057
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הכ\"ג 2",
+                "title": "בית אל לעולי לוב"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.800477,
+                  31.266698
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ארניה אסוולדו 7",
+                "title": "בית אליהו"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.800447,
+                  31.266283
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ארניה אסוולדו 7",
+                "title": "בית אליהו"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.760166,
+                  31.252027
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הגאונים 17",
+                "title": "בית חב\"ד נאות לון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.802,
+                  31.254068
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "גולומב 20",
+                "title": "בית חי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.766751,
+                  31.251401
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "עכו 45",
+                "title": "בית יאיר מזוז"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795965,
+                  31.266044
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סמטת קדש 12",
+                "title": "בית יוסף"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.79919,
+                  31.270581
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יצחק שיפר 14",
+                "title": "בית יעקב"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.810115,
+                  31.254174
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "קלישר 40",
+                "title": "בית יעקב"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.789657,
+                  31.251224
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "תל חי 6",
+                "title": "בית יצחק"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.773723,
+                  31.260073
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מבצע עובדה 45",
+                "title": "בית ישראל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.792164,
+                  31.246867
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מנדלי מוכר ספרים 9",
+                "title": "בית ישראל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.773868,
+                  31.253715
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "טבנקין ליד 13",
+                "title": "בית כנסת"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.811376,
+                  31.25379
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שרעבי 21",
+                "title": "בית כנסת"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.78917,
+                  31.264047
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דוד המלך 20",
+                "title": "בית כנסת - בית יוסף"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.765351,
+                  31.23629
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הרצל רוזנבלום 7",
+                "title": "בית כנסת בבנייה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.770227,
+                  31.269404
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "פרופ צבי אבידוב 9",
+                "title": "בית כנסת חסידי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.784657,
+                  31.249557
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ורבורג 9",
+                "title": "בית כנסת ישורון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.764206,
+                  31.245602
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שמחה הולצברג 6",
+                "title": "בית כנסת לון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795465,
+                  31.248104
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שבזי 9",
+                "title": "בית כנסת ליוצאי לוב"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.792295,
+                  31.272228
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סמטת בן זכאי 12",
+                "title": "בית כנסת עמית"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.810547,
+                  31.27637
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הר תבור 6",
+                "title": "בית כנסת רמות אור"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.782391,
+                  31.237429
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מיכה 1",
+                "title": "בית כנסת שערי צדק"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.788376,
+                  31.251283
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "תל חי 16",
+                "title": "בית כנסת שערי ציון לעולי טוניס"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.788459,
+                  31.268247
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רש\"י מול 106",
+                "title": "בית מדרש ע\"ש רבי כליפה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.78992,
+                  31.246319
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בלפור 48",
+                "title": "בית מיכאל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.781538,
+                  31.245146
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שדרות ירושלים 2",
+                "title": "בית מנחם - קהילת נאות ספיר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.771287,
+                  31.255637
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רד\"ק ליד 44",
+                "title": "בית משה דוד"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.768614,
+                  31.256989
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "השלה 16",
+                "title": "בית משיח חב\"ד"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.762461,
+                  31.234855
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "התורה הגואלת 2",
+                "title": "בית רבקה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.764433,
+                  31.246261
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שמחה הולצברג 60",
+                "title": "בית שלמה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.810884,
+                  31.253473
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הנדיב 11",
+                "title": "בית שמואל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.776495,
+                  31.246212
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ירושלים 38",
+                "title": "בית שמואל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.761408,
+                  31.246738
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הגאונים ליד הצומת עם אגרנט שמעון",
+                "title": "בית תפילה ע\"ש רבי שמעון בריוחאי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.789376,
+                  31.245947
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סוקולוב 15",
+                "title": "בני ציון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.779219,
+                  31.237924
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "לוין קיפניס 1",
+                "title": "בני שלמה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795079,
+                  31.271777
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יוספטל גיורא פינת גבאי מנחם",
+                "title": "ברית שלום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.785155,
+                  31.229484
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אטד 56",
+                "title": "ברכת הלבנה (שבת אחים)"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.783548,
+                  31.244034
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "קנדל הנרי 4",
+                "title": "ברכת שלום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.806297,
+                  31.273354
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רודולף בלוך 45",
+                "title": "ברסלב"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.804053,
+                  31.250287
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בסקין 8",
+                "title": "בת  אל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.780586,
+                  31.251501
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שאר ישוב 6",
+                "title": "גאולה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.790086,
+                  31.27066
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סנהדרין ליד 80",
+                "title": "גבללי ע\"ש יצחק אלוש"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.78061,
+                  31.253097
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "קפריסין 4",
+                "title": "גל יעקב"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.780457,
+                  31.24967
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "העליה 1",
+                "title": "גני יעלים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.788384,
+                  31.254196
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בצלאל 353",
+                "title": "דרכי שאול"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795107,
+                  31.248274
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שבזי 5",
+                "title": "האבות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.769088,
+                  31.26591
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "פריץ אלברט 12",
+                "title": "הארי הקדוש"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.793958,
+                  31.271205
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הרב גבאי מנחם 17",
+                "title": "הבוכרי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795472,
+                  31.26588
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "משעול הנבטים 5",
+                "title": "הדיגת"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.790108,
+                  31.241666
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "גרשון 37",
+                "title": "הדסה ע\"ש חללי הר הצופים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.779613,
+                  31.232054
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דודאים 6",
+                "title": "הודיה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.794576,
+                  31.264344
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אריסטובולוס 2",
+                "title": "היהודים הקראים ישראל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.767459,
+                  31.236595
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "גרוסמן מאיר 22",
+                "title": "היכל דויד"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.76661,
+                  31.270393
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "עמיר אנדה פינת רוזנסקי שמואל",
+                "title": "היכל דויד ומשה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.78481,
+                  31.257747
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בני אור ליד 23",
+                "title": "היכל קדושי ישראל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.798068,
+                  31.267836
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "קלאוזנר 22",
+                "title": "היכל שלמה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.794116,
+                  31.263846
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רוסי אלפרד 2",
+                "title": "הישועה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.777236,
+                  31.249425
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "משעול עופרים 7",
+                "title": "הכיפה בית מדרש"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.777352,
+                  31.249254
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "משעול עופרים 7",
+                "title": "הכיפה/ היכל אהרון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.793217,
+                  31.246032
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "השומר 7",
+                "title": "הלה בר יוסף"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.7919,
+                  31.266373
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "האיסיים 21",
+                "title": "המלאך רפאל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.784866,
+                  31.240305
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "האבות 80",
+                "title": "המעיין בנגב"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.784709,
+                  31.240142
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "האבות 69",
+                "title": "המרכזי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.775996,
+                  31.258962
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מבצע עובדה 25",
+                "title": "המרכזי מצדה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795726,
+                  31.248376
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מונטיפיורי 5",
+                "title": "המרכזי ע\"ש אליהו חלצי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.793744,
+                  31.262528
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "כיכר הקיני 9",
+                "title": "המרכזי ע\"ש קדושי אושוויץ"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.79079,
+                  31.260986
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בר גיורא 18א",
+                "title": "השל\"ה הקדוש"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.809621,
+                  31.256725
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "חנה סנש 14",
+                "title": "וישכם אברהם"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.792953,
+                  31.268244
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אברהם אבינו 48/1",
+                "title": "וישמח משה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.801931,
+                  31.275333
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רנה קסין 64",
+                "title": "זוהר הרקיע זכור לאברהם"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.753608,
+                  31.264594
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "פינקל שמעון 34",
+                "title": "זכור לאברהם"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.762176,
+                  31.235025
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "התורה הגואלת 2",
+                "title": "זכור לאברהם - אשכנזי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.76226,
+                  31.235062
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "התורה הגואלת 2",
+                "title": "זכור לאברהם - ספרדי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.774813,
+                  31.221116
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "חזמה יעקב 13",
+                "title": "חב\"ד"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.783821,
+                  31.236784
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ההגנה 10",
+                "title": "חברון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.758384,
+                  31.260354
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שיבא 4",
+                "title": "חוני המעגל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.781359,
+                  31.271092
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רמב\"ן 72",
+                "title": "חיבת ציון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.81074,
+                  31.252742
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "חיבת ציון 20",
+                "title": "חליוה אבנר/ וקהל משה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.789373,
+                  31.253658
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הוברמן 24",
+                "title": "חללי שלום נגליל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.770036,
+                  31.258221
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שאול המלך 133",
+                "title": "חסד יעקב"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.761868,
+                  31.238154
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בר ניסן 1",
+                "title": "חסד לאברהם"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.769959,
+                  31.236206
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יוהנה ז'בוטיסקי 58",
+                "title": "יביע אומר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.789351,
+                  31.241853
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "גרשון 43",
+                "title": "יגל יעקב ישמח ישראל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795275,
+                  31.24841
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מונטיפיורי 7",
+                "title": "יד רמה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.793197,
+                  31.245707
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "השומר 5",
+                "title": "יוסף חי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.763658,
+                  31.264097
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דוד אלרואי 1",
+                "title": "יוסף חיים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795307,
+                  31.248185
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שבזי 7",
+                "title": "יוצאי תיכון שבזי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.777717,
+                  31.266255
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דוד אלעזר 4",
+                "title": "ישיבת קרית האבות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.782352,
+                  31.236744
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ראובן 1",
+                "title": "כתר תורה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.78777,
+                  31.245834
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ביאליק 125",
+                "title": "לב מלכים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.786333,
+                  31.23599
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "החלוץ 8",
+                "title": "לג'ריבה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.793849,
+                  31.264991
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יוחנן הורקנוס 21",
+                "title": "ליוצאי טוניס"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.76685,
+                  31.270809
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רודנסקי שמואל 128",
+                "title": "למען שמו באהבה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.784597,
+                  31.270264
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אבן עזרה 30",
+                "title": "לעולי גרוזיה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.7875,
+                  31.257052
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יהודה הלוי 2",
+                "title": "מאיר לב מלכים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.806916,
+                  31.258466
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "גוש עציון 6",
+                "title": "מגן אברהם"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.794893,
+                  31.263849
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רוסי אלפרד 5",
+                "title": "מגן אברהם"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.806112,
+                  31.254865
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "וינגייט 31",
+                "title": "מגן דוד"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.793548,
+                  31.266604
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אברהם אבינו 42",
+                "title": "מגן דויד"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.776537,
+                  31.255456
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סטרומה 23",
+                "title": "מגן חסידים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.776494,
+                  31.246275
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ירושלים 38",
+                "title": "מולדת"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.803138,
+                  31.250771
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הלפרין מיכאל 51",
+                "title": "מורשת אבות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.764629,
+                  31.231183
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "לרון אפרים מול 49",
+                "title": "ממזרח שמש"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.769516,
+                  31.236746
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דוד ניב 1",
+                "title": "מנחת יהודה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795413,
+                  31.264951
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יוחנן הורקנוס 2ב",
+                "title": "מנחת יעקב"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.790738,
+                  31.256116
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רמח\"ל 10",
+                "title": "מסילות אור"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.773457,
+                  31.254003
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יצחק טבנקין 15",
+                "title": "מעיין"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.784607,
+                  31.270264
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אבן עזרא 30",
+                "title": "מעיין חים לעולי גרוזיה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.791967,
+                  31.260638
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שמעון בר גיורא 29",
+                "title": "מעיינות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.79641,
+                  31.24808
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שבזי 17",
+                "title": "מעשי ניסים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.763578,
+                  31.258686
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ציזלינג 1",
+                "title": "מרדכי היהודי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.796123,
+                  31.268254
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סמטת קדש ליד 12",
+                "title": "מרדכי הצדיק"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.799469,
+                  31.278906
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "משה פרייבס 6",
+                "title": "מרום אל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.791149,
+                  31.263034
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אליעזר בן יאיר 9",
+                "title": "משה שלום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.780894,
+                  31.267068
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הרב פרנק 1",
+                "title": "משכן שמעון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.759956,
+                  31.252045
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יהודה דה בוטון 3",
+                "title": "נווה יוסף חיים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.788144,
+                  31.268273
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רש\"י מול 106",
+                "title": "נחלת יצחק ואוהל משה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.789076,
+                  31.256778
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סעדיה גאון 12",
+                "title": "נצח ישראל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.783257,
+                  31.262179
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יהואש 28",
+                "title": "נתיבות שלום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.790463,
+                  31.239674
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מורדי הגטאות 35",
+                "title": "סוכת שלום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.790844,
+                  31.24854
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סוקולוב 6",
+                "title": "סטרומה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.796193,
+                  31.256909
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אבן גבירול 32",
+                "title": "סיני"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.802336,
+                  31.241777
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הנגרים 6",
+                "title": "ע\"ש אליהו"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.780865,
+                  31.257066
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מבצע עובדה 31",
+                "title": "ע\"ש בנימין"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.79203,
+                  31.27036
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שפרינצק 12",
+                "title": "ע\"ש דוד בז ברוך"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.793197,
+                  31.272348
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "משעול בר יוחאי ליד 50",
+                "title": "ע\"ש הרב מסעוד אלקבץ וצוקייל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.781076,
+                  31.252179
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שאר ישוב 4",
+                "title": "ע\"ש זלמן בן אהרון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.792862,
+                  31.231015
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יסמין 11",
+                "title": "ע\"ש כהן משה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.771976,
+                  31.261212
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אבא אחימאיר פינת שאול המלך",
+                "title": "עוד יוסף חי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.772295,
+                  31.246477
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שד' ירושלים 68",
+                "title": "עוז ותעצומות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.793292,
+                  31.265061
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יוחנן הורקנוס 5",
+                "title": "עולי איראן"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.786686,
+                  31.23692
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סמילנסקי 27",
+                "title": "עולי טורקיה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795802,
+                  31.247943
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שבזי 13",
+                "title": "עולי פרס"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.79626,
+                  31.268137
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סמטת קדש 12",
+                "title": "עזרא ה סופר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.802447,
+                  31.250146
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הכ\"ג 4",
+                "title": "עזרה הסופר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.793154,
+                  31.246149
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "השומר 9",
+                "title": "עזרת אחים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.773913,
+                  31.262355
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שמגר השופט 108",
+                "title": "עטרת שלמה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.79265,
+                  31.2316
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שיזף 1",
+                "title": "עץ חיים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.802569,
+                  31.248785
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הגאולים 5",
+                "title": "פורת יוסף"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.780985,
+                  31.253748
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "העלייה 30",
+                "title": "פקודת אלעזר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.792679,
+                  31.270723
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הרב מנחם גבאי 33",
+                "title": "קול אליהו לזכר חללי צה\"ל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.8055,
+                  31.270619
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ילין דוד 43",
+                "title": "קול ברמה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.793184,
+                  31.256141
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דובנוב 9",
+                "title": "קול יהודה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.80384,
+                  31.280687
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דידנר מנחם 13",
+                "title": "קול רינה וישועה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.804079,
+                  31.283872
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הנגבי 8",
+                "title": "קול רינה וישועה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.791544,
+                  31.26621
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "האיסיים 19",
+                "title": "רבי אליעזר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.760929,
+                  31.254853
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שיטרית 63",
+                "title": "רבי ישועה ללום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.772564,
+                  31.251808
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הגלבוע 1",
+                "title": "רינת ירושלים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.800158,
+                  31.274895
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אביגד 5",
+                "title": "רינת מרים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.764181,
+                  31.268933
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "נעמי 2",
+                "title": "רינת רחל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.806755,
+                  31.276855
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הר רמון 74",
+                "title": "רמות אור ע\"ש רפאל דוד מלכהז\"ל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.804609,
+                  31.272781
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שירמן חיים 43",
+                "title": "רמות אל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.809505,
+                  31.266934
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יצחק מודעי 32",
+                "title": "רמות שלום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.799689,
+                  31.279114
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "פריבס משה 4",
+                "title": "רמות שלמה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.770873,
+                  31.247428
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ירושלים 72",
+                "title": "רפורמי אשל אברהם"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.782384,
+                  31.25322
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יציאת אירופה 5",
+                "title": "רשב\"י"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.785478,
+                  31.239459
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שרה אמנו 8",
+                "title": "שארית הפליטה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.78081,
+                  31.236639
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "לוי 1",
+                "title": "שארית ישראל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.772615,
+                  31.261368
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מבצע עובדה פינת שאול המלך",
+                "title": "שבו בנים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795432,
+                  31.248474
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שבזי 9",
+                "title": "שבזי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.810925,
+                  31.253636
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הנדיב 13",
+                "title": "שבחי ירושלים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.784141,
+                  31.247617
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הכותל המערבי 41",
+                "title": "שבטי ישראל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.767099,
+                  31.262233
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רוקח 30",
+                "title": "שבטי ישראל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.767644,
+                  31.253361
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "החידא 55",
+                "title": "שבת אחים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.787696,
+                  31.25065
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בזל 51",
+                "title": "שושן של עולי אירן"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.815102,
+                  31.274328
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הכט ראובן 75",
+                "title": "שיבת ציון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.781118,
+                  31.242728
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "המכבים 19",
+                "title": "שיבת ציון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795854,
+                  31.260037
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שלמה המלך 10",
+                "title": "שמחת יצחק"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.781564,
+                  31.253317
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "העליה 22",
+                "title": "שמעון שלום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.789916,
+                  31.261524
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רבי עקיבא 138",
+                "title": "שנות חיים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.810063,
+                  31.253976
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הנדיב 44",
+                "title": "שער ה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.805908,
+                  31.25592
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "גוש עציון 39",
+                "title": "שער השמים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.815625,
+                  31.272363
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אלישר 1",
+                "title": "שערי אדגר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.786787,
+                  31.247445
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הכותל המערבי 10",
+                "title": "שערי בנימין"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.776267,
+                  31.266403
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דוד אלעזר 4",
+                "title": "שערי ניסים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.803407,
+                  31.254145
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "חומה ומגדל 15",
+                "title": "שערי צדק"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795633,
+                  31.248024
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שבזי 11",
+                "title": "שערי צדק"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.78735,
+                  31.269659
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בעלי התוספות 6",
+                "title": "שערי רחמים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.777449,
+                  31.253412
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "קפריסין 22",
+                "title": "שערי רחמים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.758261,
+                  31.266369
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שאול ואליהו 4",
+                "title": "שערי רחמים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.805763,
+                  31.275544
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אברהם ברוור 109",
+                "title": "שערי שלום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.787759,
+                  31.269886
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "התלמוד 7",
+                "title": "שערי שלום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.806522,
+                  31.247255
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ז'בוטינסקי 2",
+                "title": "שערי שמים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.778692,
+                  31.268901
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מרדכי מקלף פינת אבוחציא",
+                "title": "שערי תפילה לחנה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.77795,
+                  31.254027
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סטרומה 24",
+                "title": "שערי תשובה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.760168,
+                  31.255941
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "חיים לנדאו 22א",
+                "title": "תהילה לדוד"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.787718,
+                  31.236139
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "כפר הדרום 4",
+                "title": "תומכי חב\"ד"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.775873,
+                  31.265374
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ירקוני עמוס 3",
+                "title": "תורה  וחסד"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.789436,
+                  31.253794
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הוברמן 24",
+                "title": "תורה וחיים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.778576,
+                  31.254849
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "העלייה 47",
+                "title": "תורה וחיים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.767708,
+                  31.253298
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "החיד\"א 55",
+                "title": "תורת משה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.809119,
+                  31.258789
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "נילי 3",
+                "title": "תורת משה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.776873,
+                  31.260065
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אבנר 6ב",
+                "title": "תלפיות חביבה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.78303,
+                  31.266011
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מבצע קדם 3",
+                "title": "תפארת דויד ושלמה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.794881,
+                  31.269152
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "המכתשים 40",
+                "title": "תפארת ישראל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.784606,
+                  31.249106
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הכתל המערבי 49",
+                "title": "תפילה למשה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.776163,
+                  31.259269
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מבצע עובדה 31",
+                "title": "תפילה למשה לעולי גרוזיה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.775414,
+                  31.239029
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אביגדור המאיר 10",
+                "title": "תפילת אליהו"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.806688,
+                  31.27285
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דה שליט עמוס 38",
+                "title": "תפילת חנה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.789768,
+                  31.271345
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "התלמוד 2",
+                "title": "תפילת לאה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.765194,
+                  31.256473
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מרדכי בן טוב 10",
+                "title": "תפילת מרים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795363,
+                  31.271687
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יוספטל גיורא פינת גבאי מנחם",
+                "title": "תקומת ישראל"
+              },
+              "type": "Feature"
+            }
+          ]
+        },
+        "content": "&nbsp;"
+      },
+      {
+        "title": "בית ספר",
+        "pointGeometry": {
+          "type": "FeatureCollection",
+          "features": [
+            {
+              "geometry": {
+                "coordinates": [
+                  34.800916,
+                  31.254759
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "וינגייט 63",
+                "title": "אולפנת אמי\"ת באר שבע"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.76988,
+                  31.255623
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הרב עוזיאל 24",
+                "title": "אולפנת בנ\"ע חן במדבר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.790366,
+                  31.266702
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "האיסיים 11",
+                "title": "אוצר החיים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.779485,
+                  31.265215
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יעקב דורי 27",
+                "title": "אוצר חיים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.785256,
+                  31.249415
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הכטתל המערבי 7",
+                "title": "אור מרגלית"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.764077,
+                  31.257362
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מאיר יערי 50",
+                "title": "אור ע\"ש זבולון המר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.774107,
+                  31.254212
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "טבנקין 7",
+                "title": "אוריין"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.790503,
+                  31.264195
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דוד המלך 16",
+                "title": "אורים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.785993,
+                  31.265606
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יהודה הלוי 6",
+                "title": "אמי\"ת"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.792334,
+                  31.272796
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בן זכאי 2",
+                "title": "אמי\"ת מרכז טכנולוגי דתי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.77178,
+                  31.246611
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ירושלים 70",
+                "title": "אמי\"ת נתיבי עם"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.798876,
+                  31.267802
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "קלאוזנר 9",
+                "title": "אמירים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.775878,
+                  31.243342
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מגידו 4",
+                "title": "אשכול"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.778243,
+                  31.265932
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סרנה יחזקאל 1",
+                "title": "באר יצחק"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.782302,
+                  31.240829
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "נגבה 49",
+                "title": "באר שבע"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.787476,
+                  31.243524
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שמחוני אסף 13א",
+                "title": "בארי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.785884,
+                  31.235511
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "החלוץ 2",
+                "title": "בית יעקב לבנות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.803058,
+                  31.286944
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שדרות אשכול פינת שרשבסקי",
+                "title": "בית ספר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.768631,
+                  31.269255
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "חנה רובינא יוכבד בת מרים",
+                "title": "בית ספר חב\"ד"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.792438,
+                  31.246453
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מנדלי מוכר ספרים 10",
+                "title": "בית ספר מוריה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.799708,
+                  31.252564
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "השלום 15",
+                "title": "בית ספר מקיף א"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.781941,
+                  31.267784
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מרדכי מקלף 24",
+                "title": "בית ספר נטע ארז (קורצ'אק)"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.804413,
+                  31.2544
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "חומה ומגדל 41",
+                "title": "בית ספר נטעים - מיתרים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.809529,
+                  31.268755
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מודעי יצחק 67",
+                "title": "בן גוריון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.781566,
+                  31.27176
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הצדיש מירושלים פינת זלמן כספי",
+                "title": "גשר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.807437,
+                  31.249287
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ז'בוטינסקי 17",
+                "title": "דגניה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.758861,
+                  31.263891
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "המלכים 10",
+                "title": "היובל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.779897,
+                  31.257559
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מבצע יואב 5",
+                "title": "המאוחד דתי אמי\"ת"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.790994,
+                  31.250317
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בזל 71",
+                "title": "המרכז התכנולוגי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.797376,
+                  31.284707
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הערים התאומות 43",
+                "title": "הרצוג"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.798482,
+                  31.264149
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יוסף בן מתיתיהו 28",
+                "title": "ח\"ת עץ חיים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.758219,
+                  31.266315
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שאול ואליהו 4",
+                "title": "חיה ורבקה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.754901,
+                  31.253145
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דרך אילן רמון 1",
+                "title": "טכני חיל האויר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.769847,
+                  31.244476
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שיבטה 14",
+                "title": "יובלים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.776534,
+                  31.237518
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "חטיבה 8 12",
+                "title": "יחדיו"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.787708,
+                  31.25744
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מנדלסון 40",
+                "title": "יסודות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.807355,
+                  31.286506
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שד צהל 121",
+                "title": "יפה נוף"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.767855,
+                  31.232682
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בורג יוסף 33",
+                "title": "יצחק נבון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.788841,
+                  31.272027
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "התלמוד 2",
+                "title": "ישיבת בני עקיבא אוהל שלמה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.791576,
+                  31.229946
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "פקועה 39",
+                "title": "כפר ילדים אשלים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.781715,
+                  31.266611
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יעקב דורי 3",
+                "title": "לבנות בנות חייל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.77507,
+                  31.252511
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בורלא יהודה 19",
+                "title": "מ\"מ אילנות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.783448,
+                  31.257003
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בני אור 10",
+                "title": "מ\"מ דקלים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.766571,
+                  31.26068
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "נמיר 6",
+                "title": "מ\"מ לאומניות אפיק"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.772916,
+                  31.236766
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מאפו אברהם 6",
+                "title": "מ\"מ נווה שלום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.77267,
+                  31.263262
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יעקב דורי 116",
+                "title": "מ\"מ קהילתי גולדה מאיר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.774397,
+                  31.259669
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מבצע עובדה 43",
+                "title": "מ\"מ שז\"ר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.783058,
+                  31.259734
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מבצע נחשון 23",
+                "title": "מ\"מ תומר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.782601,
+                  31.268183
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יהודה הלוי פינת מקלף מרדכי",
+                "title": "מגן"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.775116,
+                  31.246983
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ירושלים 46",
+                "title": "מולדת"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.794477,
+                  31.270341
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אברהם אבינו 93 א",
+                "title": "ממ\"ד בית המורה ע\"ש יוסף קארו"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.784071,
+                  31.234846
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "החלוץ 2",
+                "title": "ממלכתי בית יעקב לבנים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.807023,
+                  31.253028
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "גוש עציון 13",
+                "title": "ממלכתי חזון עובדיה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.784277,
+                  31.2429
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "העצמאות 79",
+                "title": "מעוף"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.768703,
+                  31.240008
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ניב דוד 26",
+                "title": "מעיינות- נווה זאב"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.789035,
+                  31.23011
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ככר הגנים 16",
+                "title": "מענית"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.790013,
+                  31.229788
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ככר הגנים 16",
+                "title": "מענית"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.788145,
+                  31.263169
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יהודה הלוי 82",
+                "title": "מצפה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.782422,
+                  31.256431
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דרך שמשון 8",
+                "title": "מקיף ג"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.77254,
+                  31.247921
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בית אל 6",
+                "title": "מקיף ו ע\"ש קוהל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.764976,
+                  31.258339
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "נמיר מרדכי 2",
+                "title": "מקיף י\"א ע\"ש רבין"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.791773,
+                  31.259366
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רבי טרפון 8",
+                "title": "משכן מאיר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.764506,
+                  31.237297
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ייבין יהושע 7",
+                "title": "נאות אברהם"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.763533,
+                  31.245825
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הולצברג שמחה 6",
+                "title": "נאות לון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.769164,
+                  31.263133
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מויאל 2",
+                "title": "נוה במדבר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.764048,
+                  31.268175
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רבקה 6",
+                "title": "נווה מנחם ע\"ש מנחם בגין"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795543,
+                  31.264184
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יצחק רגר 4",
+                "title": "סמינר תיכון בית יעקב החדש"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.790599,
+                  31.261544
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בן יאיר 19",
+                "title": "עוזיאל (חב\"ד)"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.77967,
+                  31.256765
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מבצע יואב 5",
+                "title": "עמל להנדסה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.801958,
+                  31.268957
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הדעת 87",
+                "title": "עמל רמות (מקיף ז')"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.76865,
+                  31.256015
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "חת\"ם סופר 5",
+                "title": "קהילתי גבים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.790239,
+                  31.269353
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יהודה הנשיא 18",
+                "title": "קהילתי על אזורי אולומות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.778598,
+                  31.252306
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "קפריסין 9",
+                "title": "קורצק"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.762306,
+                  31.256706
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דב יוסף 41",
+                "title": "רימונים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.804845,
+                  31.283937
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "נחום שריג 37",
+                "title": "רכסים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.780199,
+                  31.251202
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שאר ישוב 6",
+                "title": "רמב\"ם"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.803379,
+                  31.273047
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הדעת פינת המדע",
+                "title": "רמות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.785662,
+                  31.247712
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ורבורג 10",
+                "title": "רננות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.796121,
+                  31.256548
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אבן גבירול 32",
+                "title": "רננות מזור"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.771717,
+                  31.2627
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מבצע עובדה 113",
+                "title": "רעים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.781182,
+                  31.268521
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מרדכי מקלף 28",
+                "title": "שובו"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.791197,
+                  31.266416
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "האיסיים 9",
+                "title": "שחר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.785353,
+                  31.239315
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שרה אמנו 8",
+                "title": "ת\"ת באר יצחק"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.791066,
+                  31.269942
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יהודה הנשיא 1",
+                "title": "תורני לבנות בית יעקב (נתיב מאיר)"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.791201,
+                  31.251067
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בזל 71",
+                "title": "תיכון ברנקו-וייס"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.760001,
+                  31.262461
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דוד ראובני 27",
+                "title": "תיכון דוד טוביהו"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.80207,
+                  31.269833
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הדעת 89",
+                "title": "תיכון חדש רמות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.803925,
+                  31.288119
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "צומת שדרות צה\"ל ושדרות אשכול ליד הצומת",
+                "title": "תיכון מקיף זילברמן הרכס"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.801351,
+                  31.251234
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "השלום 18",
+                "title": "תל\"ם תיכון של המכללה למינהל"
+              },
+              "type": "Feature"
+            }
+          ]
+        },
+        "content": "&nbsp;"
+      },
+      {
+        "title": "מועדון נוער",
+        "pointGeometry": {
+          "type": "FeatureCollection",
+          "features": [
+            {
+              "geometry": {
+                "coordinates": [
+                  34.781256,
+                  31.249537
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "חגלה 37",
+                "title": "ron diver"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.780201,
+                  31.250634
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "העליה 10",
+                "title": "בית הידידות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.769248,
+                  31.240199
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רונאל דב 42",
+                "title": "בית פיס לנוער"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.789884,
+                  31.261686
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רבי עקיבא 13ד",
+                "title": "בית פרנק לוי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.794917,
+                  31.248689
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מונטיפיורי 11",
+                "title": "בני עקיבא"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.765465,
+                  31.236606
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רוזנבלום הרצל 9",
+                "title": "בני עקיבא פיס"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.770082,
+                  31.266617
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "פרץ אלברט 4",
+                "title": "גן בלה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795262,
+                  31.256256
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אבן גבירול ליד 7",
+                "title": "הנוער הלאומי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.778159,
+                  31.223761
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "צביה ויצחק 19",
+                "title": "יוצאי קווקז"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.802027,
+                  31.272574
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "לב דודוביץ' 34",
+                "title": "לב טוב"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.799695,
+                  31.272855
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "איזידור ריבי 2",
+                "title": "לצעירים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.773141,
+                  31.254191
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "טבנקין 11",
+                "title": "מועדון נוער"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.789005,
+                  31.253765
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בצלאל 24",
+                "title": "מועדון קהילתי לעדה הבוכרית"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.794071,
+                  31.252447
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שמעוני 23",
+                "title": "מועדון תנועת נוער מכבי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.799007,
+                  31.266576
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יעבץ יעקב 1",
+                "title": "מועדון תרבות ד מזרח"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.772904,
+                  31.246434
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ירושלים 66",
+                "title": "מכון עזריאלי  להעצמה חינוכית"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.801696,
+                  31.253959
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "גולומב 10",
+                "title": "מכינה קדם צבאית-ארז"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.767304,
+                  31.254216
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "החידא 14",
+                "title": "מעוז בית\"ר באר שבע"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.787587,
+                  31.237212
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מרדכי אנילביץ 19",
+                "title": "מרכז אומנות לנוער"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.768841,
+                  31.262491
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מויאל אליהו 4",
+                "title": "מרכז יעל מועדון נוער"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.770421,
+                  31.247499
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ירושלים 72",
+                "title": "נוער עובד ולומד"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.787287,
+                  31.257737
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בני אור 1",
+                "title": "ניצן"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.794958,
+                  31.248743
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מונטיפיורי 11",
+                "title": "פיס לנוער"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.770413,
+                  31.244712
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רחבת אופירה 17",
+                "title": "פיס לנוער"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.788171,
+                  31.247675
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הכותל המערבי 4",
+                "title": "צופים - ניצני הנגב"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.804741,
+                  31.271428
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "חנוך אלבק 38",
+                "title": "קן רמות הצעיר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.796972,
+                  31.278483
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "גד טדסקי 9",
+                "title": "שבט יואב צופי רמות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.78932,
+                  31.263353
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דוד המלך 44",
+                "title": "שבט צופים - הנהגת דרום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.767163,
+                  31.264362
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רופין 65",
+                "title": "שכונתי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.789426,
+                  31.260792
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רבי עקיבא 71",
+                "title": "תנועת בני עקיבא בישראל מחוז דרום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.800791,
+                  31.25447
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "גולומב 31",
+                "title": "תנועת עזרא"
+              },
+              "type": "Feature"
+            }
+          ]
+        },
+        "content": "&nbsp;"
+      },
+      {
+        "title": "מועדון קהילתי כולל מרכז צעירים",
+        "pointGeometry": {
+          "type": "FeatureCollection",
+          "features": [
+            {
+              "geometry": {
+                "coordinates": [
+                  34.800598,
+                  31.245631
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "וולפסון דוד 17",
+                "title": "אגודת אקים ב\"ש מועדון חברתי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.773079,
+                  31.247165
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בית אל 8",
+                "title": "אשכול פיס-מרכז"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.809396,
+                  31.275447
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הר בקע 13",
+                "title": "בית אידי - מעגן"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.808402,
+                  31.259652
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שד בן גוריון 14",
+                "title": "בית אנוש"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.78612,
+                  31.236792
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "כפר הדרום 2",
+                "title": "בית העולה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.773335,
+                  31.2554
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "טבנקין 34",
+                "title": "בית שולחן עגול"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.767825,
+                  31.255129
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "חתם סופר 3",
+                "title": "בית שמואל"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.798019,
+                  31.26458
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יוסף בן מתתיהו 28",
+                "title": "המרכז לחיים עצמאיים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.793881,
+                  31.269771
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אברהם אבינו 93",
+                "title": "המרכז לקהילה למשפחה ולמורשת"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.789929,
+                  31.263382
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אלעזר בן יאיר 2",
+                "title": "ידידות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.781288,
+                  31.258736
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מבצע נחשון 4",
+                "title": "יוצאי אתיופיה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.775155,
+                  31.256993
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יהודי סוריה 2",
+                "title": "יוצאי קווקז"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.790879,
+                  31.264657
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אליהו הנביא 3",
+                "title": "לוין"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.773755,
+                  31.260064
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מבצע עובדה 45",
+                "title": "ליוצאי קווקז"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.768411,
+                  31.262445
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מויאל אליהו 4",
+                "title": "מבנה בבניה - מועדון"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.779158,
+                  31.265538
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מבצע יקב 3",
+                "title": "מועדון  לילד ולמשפחה-בית אלוירה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.796792,
+                  31.264224
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אלכסנדר ינאי 14א",
+                "title": "מועדון יתד"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.776958,
+                  31.259768
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אבנר 8",
+                "title": "מועדון נוער שכונה ו"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.773875,
+                  31.222051
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "פרטוש עדן 29",
+                "title": "מועדון קהילתי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.811266,
+                  31.254962
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "קלישר 9",
+                "title": "מועדון קלישר"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.80816,
+                  31.259607
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שד בן גוריון 12",
+                "title": "מועדון שמע"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.774507,
+                  31.26086
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מבצע עובדה 88",
+                "title": "מועדונית ימית"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.784963,
+                  31.237212
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "כפר הדרום 29",
+                "title": "מרגליות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.791118,
+                  31.27244
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "תלמוד 3",
+                "title": "מרכז אומנות לחימה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.790605,
+                  31.264881
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אליהו הנביא 7",
+                "title": "מרכז לגיל הרך"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.784065,
+                  31.267042
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יעקב דורי 14",
+                "title": "מרכז לילד ולמשפחה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.800965,
+                  31.250764
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "השלום 16",
+                "title": "מרכז סטארט אפ"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.76822,
+                  31.256104
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "חת\"ם סופר 5",
+                "title": "מרכז ספורט קהילתי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.772995,
+                  31.21937
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אדמון ידידיה 14",
+                "title": "מרכז קהילתי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.787385,
+                  31.249909
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בזל 42",
+                "title": "מרכז קהילתי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.774582,
+                  31.223424
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "פאול בן חיים 42",
+                "title": "מרכז קהילתי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.780162,
+                  31.224128
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "צביה ויצחק 45",
+                "title": "מרכז קהילתי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.760385,
+                  31.265736
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "קדושי יאסי 4",
+                "title": "מרכז קהילתי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.774378,
+                  31.222143
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רות סמילן 25",
+                "title": "מרכז קהילתי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.793751,
+                  31.248757
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הרבי מלובביטש 2",
+                "title": "מרכז קהילתי בית חב\"ד מרכזי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.798236,
+                  31.267692
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "קלאוזנר 15",
+                "title": "מרכז קהילתי בית פאני קפלן"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.802734,
+                  31.254269
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "גולומב 43",
+                "title": "מרכז קהילתי התקווה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.770277,
+                  31.240112
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אונאל דב 46",
+                "title": "מרכז קהילתי זאב"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.763212,
+                  31.269705
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שפרה 1",
+                "title": "מרכז קהילתי מדור לדור"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.793575,
+                  31.231188
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יסמין 3",
+                "title": "מרכז קהילתי נוה קהילות בלגיה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.779462,
+                  31.225813
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "פרץ גולדשטיין 8",
+                "title": "מרכז קהילתי פעימ\"ה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.796048,
+                  31.26387
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אלכסנדר ינאי 12",
+                "title": "מרכז רב שירותים לחרשים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.789983,
+                  31.248718
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "כיכר קפלן 10",
+                "title": "מרכז רב שירותים לחרשים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.765586,
+                  31.260289
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "נמיר 11",
+                "title": "מתנ\"ס"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.782377,
+                  31.228744
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אטד 85",
+                "title": "מתנ\"ס נווה-נוי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.776881,
+                  31.225615
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בן יעקב צבי ליד 17",
+                "title": "מתנ\"ס ע\"ש ד\"ר יורי שטרן"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.778104,
+                  31.268881
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אבוחצירא ליד 4",
+                "title": "מתנס"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.789886,
+                  31.268513
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סנדרין 99",
+                "title": "נירים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.796136,
+                  31.267731
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סמטת קדש מול 3",
+                "title": "סיגלית"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.771236,
+                  31.264556
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "משה דיין 2",
+                "title": "עוגן קהילתי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.762533,
+                  31.262163
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אצל 27",
+                "title": "עולם נילד"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.807368,
+                  31.253246
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "גוש עציון 13",
+                "title": "פיס"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.772543,
+                  31.247317
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בית אל 8",
+                "title": "פיס מרכז לאומנויות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.775572,
+                  31.222652
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "משה חובב 8",
+                "title": "קו לחיים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.799653,
+                  31.280196
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הערים התואמות 20",
+                "title": "רמות ספורטיב"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.805514,
+                  31.257308
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "גוש עציון 49",
+                "title": "תאובל אומניות יהודי אתיופיה"
+              },
+              "type": "Feature"
+            }
+          ]
+        },
+        "content": "&nbsp;"
+      },
+      {
+        "title": "מועדון קשישים, מרכז לאזרחים ותיקים,מרכז יום לקשישים",
+        "pointGeometry": {
+          "type": "FeatureCollection",
+          "features": [
+            {
+              "geometry": {
+                "coordinates": [
+                  34.790074,
+                  31.263969
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דוד המלך 18",
+                "title": "ארגון גימלאי המשטרה והשבס - מועד"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.794898,
+                  31.260368
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ככר קניזי 7",
+                "title": "גיל הזהב לרוסים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.79477,
+                  31.248688
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מונטיפיורי 13",
+                "title": "גימלאי אגד"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.771089,
+                  31.220833
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "פאול בן חיים 1",
+                "title": "הוטרנים הרוסים סניף נחל בקע"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.806029,
+                  31.269583
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "קרוק גלעד 13",
+                "title": "הלשכה לרווחת הקשיש מועדון גיל הז"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795953,
+                  31.244462
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "לוין שמריהו 11",
+                "title": "לגימלאים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.781191,
+                  31.242836
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "המכבים 21",
+                "title": "מועדון גימלאים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795381,
+                  31.245687
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "וייצמן 1ב",
+                "title": "מועדון פיס לקשיש"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.775249,
+                  31.252331
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "בורלא 6",
+                "title": "מועדון קשישים מעיין"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.781873,
+                  31.264276
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יותם 13",
+                "title": "מעדון הקשיש בבניה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.771822,
+                  31.255638
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רדק 46",
+                "title": "מרכז יום לקשיש אור פז בבית"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.801745,
+                  31.252345
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אליהו גולומב 1",
+                "title": "מרכז יום לקשיש השלום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.771262,
+                  31.247412
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ירושלים 72",
+                "title": "מרכז יום לקשיש צרטקוף"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.791715,
+                  31.270458
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שפרינצק 11",
+                "title": "מרכז יום לקשישבית סקנדינביה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.782252,
+                  31.268561
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יהודה לוי פינת ד\"ר עזריאל ניצני",
+                "title": "סביונה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.794088,
+                  31.253385
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "רחל המשוררת 25",
+                "title": "פיס לגיל הזהב"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.771935,
+                  31.22163
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "תלמה 44",
+                "title": "קשישים שושנים"
+              },
+              "type": "Feature"
+            }
+          ]
+        },
+        "content": "&nbsp;"
+      },
+      {
+        "title": "מרפאה",
+        "pointGeometry": {
+          "type": "FeatureCollection",
+          "features": [
+            {
+              "geometry": {
+                "coordinates": [
+                  34.790139,
+                  31.253715
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ביאליק 26ב",
+                "title": "בן יאיר קופת חולים כללית"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.806202,
+                  31.251033
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "המעפילים 21",
+                "title": "כללית"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.813705,
+                  31.274594
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הר כנען 2",
+                "title": "כללית"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.797923,
+                  31.247625
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "התקווה 28",
+                "title": "כללית"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795476,
+                  31.269956
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אברהם אבינו 97",
+                "title": "כללית אורן ד' צפון באר שבע"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.790308,
+                  31.248701
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ככר קפלן 8",
+                "title": "כללית אלון באר שבע"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.780883,
+                  31.250871
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שאר ישוב ליד 11",
+                "title": "כללית ה' באר שבע"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.776351,
+                  31.245445
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ירושלים 27",
+                "title": "כללית ט' באר שבע"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.768846,
+                  31.256756
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "השלה 14",
+                "title": "כללית יא' באר שבע"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.801555,
+                  31.247618
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סולד הנרייטה 12",
+                "title": "כללית מחוזית מרכז לרפואה יועצת"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.77861,
+                  31.258908
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מבצע עובדה 5",
+                "title": "כללית מצדה באר שבע"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.79888,
+                  31.26681
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "קלאוזנר 131",
+                "title": "כללית מרפאה תעסוקתית מחוז הדרום"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.782674,
+                  31.239901
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סמילנסקי 77",
+                "title": "כללית מרפאת שתל באר שבע"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.790198,
+                  31.230745
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שיטה 42",
+                "title": "כללית נווה נוי באר שבע"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.801629,
+                  31.247565
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "סולד הנרייטה 12",
+                "title": "כללית סולד מכון רנטגן באר שבע"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.801566,
+                  31.247627
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "הנריאטה סולד 12",
+                "title": "כללית סולד מרכז בראיות האישה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.799645,
+                  31.254981
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "וינגייט 63",
+                "title": "מאוחדת וינגייט סניף ראשי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.773502,
+                  31.244191
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "מגידו 31",
+                "title": "מכבי שירותי בריאות"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.774725,
+                  31.256911
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "יהודי סוריה 6",
+                "title": "מרכז טיפולי סלעית"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.806425,
+                  31.270369
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "המדע 21",
+                "title": "מרכז שיקום ע\"ש קרן היסוד שבדיה"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.760619,
+                  31.267378
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "החשמונאים פינת חנה",
+                "title": "קופ\"ח כללית נחל עשן"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.808477,
+                  31.256676
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "חנה סנש 3",
+                "title": "קופת חולים כללית וינגייט באר שבע"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.79149,
+                  31.264244
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "אליהו הנביא 8",
+                "title": "שירותי בריאות כללית סמיילי"
+              },
+              "type": "Feature"
+            }
+          ]
+        },
+        "content": "&nbsp;"
+      },
+      {
+        "title": "ספרייה",
+        "pointGeometry": {
+          "type": "FeatureCollection",
+          "features": [
+            {
+              "geometry": {
+                "coordinates": [
+                  34.78777,
+                  31.245789
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "ביאליק 125",
+                "title": "הספרייה התורנית מוסדית לב מלכים"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.787372,
+                  31.243253
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "שמחוני אסף 13",
+                "title": "ספרייה עירונית בארי"
+              },
+              "type": "Feature"
+            },
+            {
+              "geometry": {
+                "coordinates": [
+                  34.795271,
+                  31.251612
+                ],
+                "type": "Point"
+              },
+              "properties": {
+                "address": "דרך המשחררים 12",
+                "title": "ספרייה עירונית ע\"ש יוסף מאירה"
+              },
+              "type": "Feature"
+            }
+          ]
+        },
+        "content": "&nbsp;"
+      }
+    ]
+  }
+]

@@ -1,0 +1,8799 @@
+[
+  {
+    "business_kind_count": 333,
+    "business_kind_name": "חנות בגדים",
+    "demand_category": [
+      [
+        "אופנה וטיפוח",
+        "רשת בגדים גדולה"
+      ],
+      [
+        "אופנה וטיפוח",
+        "אופנת בוטיק בגדי מעצבים"
+      ],
+      [
+        "אופנה וטיפוח",
+        "הלבשה תחתונה"
+      ],
+      [
+        "אופנה וטיפוח",
+        "הנעלה חנות נעליים"
+      ],
+      [
+        "אופנה וטיפוח",
+        "חנות בגדי יד שנייה"
+      ],
+      [
+        "אופנה וטיפוח",
+        "חנות בגדים מקומית"
+      ],
+      [
+        "הורים וילדים",
+        "בגדי ילדים"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 80,
+        "total": 301,
+        "value_id": "דיור מיוחד ומסחר (מבא\"ת)",
+        "value_name": "דיור מיוחד ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 62,
+        "total": 301,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 38,
+        "total": 301,
+        "value_id": "אזור משולב תעשיה, מלאכה ומסחר",
+        "value_name": "אזור משולב תעשיה, מלאכה ומסחר"
+      },
+      {
+        "count": 35,
+        "total": 301,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 18,
+        "total": 301,
+        "value_id": "אזור משולב לתעשיה עתירת ידע, משרדים ומסחר",
+        "value_name": "אזור משולב לתעשיה עתירת ידע, משרדים ומסחר"
+      },
+      {
+        "count": 9,
+        "total": 301,
+        "value_id": "מגורים ומסחר (מבא\"ת)",
+        "value_name": "מגורים ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 9,
+        "total": 301,
+        "value_id": "אזור משולב מסחר שרותים תעשייה ומלאכה",
+        "value_name": "אזור משולב מסחר שרותים תעשייה ומלאכה"
+      },
+      {
+        "count": 9,
+        "total": 301,
+        "value_id": "אזור מלונאות ונופש",
+        "value_name": "אזור מלונאות ונופש"
+      },
+      {
+        "count": 6,
+        "total": 301,
+        "value_id": "שטח ציבורי פתוח (מבא\"ת)",
+        "value_name": "שטח ציבורי פתוח (מבא\"ת)"
+      },
+      {
+        "count": 5,
+        "total": 301,
+        "value_id": "דרך מוצעת (מבא\"ת)",
+        "value_name": "דרך מוצעת (מבא\"ת)"
+      },
+      {
+        "count": 4,
+        "total": 301,
+        "value_id": "מסחר (מבא\"ת)",
+        "value_name": "מסחר (מבא\"ת)"
+      },
+      {
+        "count": 3,
+        "total": 301,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 3,
+        "total": 301,
+        "value_id": "חניה ציבורית",
+        "value_name": "חניה ציבורית"
+      },
+      {
+        "count": 2,
+        "total": 301,
+        "value_id": "שטח למגרש מיוחד",
+        "value_name": "שטח למגרש מיוחד"
+      },
+      {
+        "count": 2,
+        "total": 301,
+        "value_id": "מרכז תחבורה",
+        "value_name": "מרכז תחבורה"
+      },
+      {
+        "count": 2,
+        "total": 301,
+        "value_id": "מסחר ותיירות (מבא\"ת)",
+        "value_name": "מסחר ותיירות (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 301,
+        "value_id": "מגורים מיוחד+חז.מסחרית",
+        "value_name": "מגורים מיוחד+חז.מסחרית"
+      },
+      {
+        "count": 2,
+        "total": 301,
+        "value_id": "מגורים ג+חז.מסחרית",
+        "value_name": "מגורים ג+חז.מסחרית"
+      },
+      {
+        "count": 2,
+        "total": 301,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 3,
+        "total": 5,
+        "value_id": "6.2",
+        "value_name": "6.2"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 5,
+        "total": 9,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 3,
+        "total": 9,
+        "value_id": "police",
+        "value_name": "police"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1276,
+    "property_kind": [
+      {
+        "count": 328,
+        "total": 492,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 133,
+        "total": 492,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 25,
+        "total": 492,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 3,
+        "total": 492,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      }
+    ],
+    "sign_count": 18,
+    "sign_id": [
+      "925025100000001",
+      "930006000000020",
+      "925030000000006",
+      "930030300000001",
+      "925026000000030",
+      "924167000000039",
+      "930006900000026",
+      "930003800000013",
+      "930006600000005",
+      "924113000000014"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 205,
+    "business_kind_name": "קיוסק או מזנון",
+    "demand_category": [
+      [
+        "מסעדות ובתי קפה",
+        "מיצים טבעיים"
+      ],
+      [
+        "מסעדות ובתי קפה",
+        "פלאפל"
+      ],
+      [
+        "מסעדות ובתי קפה",
+        "גלידריה"
+      ],
+      [
+        "מצרכים ומוצרים",
+        "קיוסק פיצוציה"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 37,
+        "total": 167,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 16,
+        "total": 167,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      },
+      {
+        "count": 14,
+        "total": 167,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 9,
+        "total": 167,
+        "value_id": "דיור מיוחד ומסחר (מבא\"ת)",
+        "value_name": "דיור מיוחד ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 8,
+        "total": 167,
+        "value_id": "אזור משולב תעשיה, מלאכה ומסחר",
+        "value_name": "אזור משולב תעשיה, מלאכה ומסחר"
+      },
+      {
+        "count": 8,
+        "total": 167,
+        "value_id": "אזור מגורים א",
+        "value_name": "אזור מגורים א"
+      },
+      {
+        "count": 7,
+        "total": 167,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      },
+      {
+        "count": 7,
+        "total": 167,
+        "value_id": "מגורים מיוחד+חז.מסחרית",
+        "value_name": "מגורים מיוחד+חז.מסחרית"
+      },
+      {
+        "count": 6,
+        "total": 167,
+        "value_id": "שטח לבנייני ציבור",
+        "value_name": "שטח לבנייני ציבור"
+      },
+      {
+        "count": 5,
+        "total": 167,
+        "value_id": "מרכז תחבורה",
+        "value_name": "מרכז תחבורה"
+      },
+      {
+        "count": 5,
+        "total": 167,
+        "value_id": "מסחר (מבא\"ת)",
+        "value_name": "מסחר (מבא\"ת)"
+      },
+      {
+        "count": 4,
+        "total": 167,
+        "value_id": "מגורים ומסחר (מבא\"ת)",
+        "value_name": "מגורים ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 4,
+        "total": 167,
+        "value_id": "מבנים ומוסדות ציבור לבריאות (מבא\"ת)",
+        "value_name": "מבנים ומוסדות ציבור לבריאות (מבא\"ת)"
+      },
+      {
+        "count": 4,
+        "total": 167,
+        "value_id": "חניה ציבורית",
+        "value_name": "חניה ציבורית"
+      },
+      {
+        "count": 3,
+        "total": 167,
+        "value_id": "שטח ציבורי פתוח (מבא\"ת)",
+        "value_name": "שטח ציבורי פתוח (מבא\"ת)"
+      },
+      {
+        "count": 3,
+        "total": 167,
+        "value_id": "דרך מוצעת",
+        "value_name": "דרך מוצעת"
+      },
+      {
+        "count": 2,
+        "total": 167,
+        "value_id": "שטח ציבורי פתוח",
+        "value_name": "שטח ציבורי פתוח"
+      },
+      {
+        "count": 2,
+        "total": 167,
+        "value_id": "שטח למגרש מיוחד",
+        "value_name": "שטח למגרש מיוחד"
+      },
+      {
+        "count": 2,
+        "total": 167,
+        "value_id": "מסחר ותעסוקה (מב\"את)",
+        "value_name": "מסחר ותעסוקה (מב\"את)"
+      },
+      {
+        "count": 2,
+        "total": 167,
+        "value_id": "מסחר ומשרדים (מבא\"ת)",
+        "value_name": "מסחר ומשרדים (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 167,
+        "value_id": "אזור מגורים ב",
+        "value_name": "אזור מגורים ב"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 18,
+        "total": 52,
+        "value_id": "4.7 ב",
+        "value_name": "4.7 ב"
+      },
+      {
+        "count": 15,
+        "total": 52,
+        "value_id": "4.2 ב",
+        "value_name": "4.2 ב"
+      },
+      {
+        "count": 7,
+        "total": 52,
+        "value_id": "4.8",
+        "value_name": "4.8"
+      },
+      {
+        "count": 4,
+        "total": 52,
+        "value_id": "4.7 א",
+        "value_name": "4.7 א"
+      },
+      {
+        "count": 4,
+        "total": 52,
+        "value_id": "4.2 א",
+        "value_name": "4.2 א"
+      },
+      {
+        "count": 2,
+        "total": 52,
+        "value_id": "6.9 א",
+        "value_name": "6.9 א"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 52,
+        "total": 123,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 45,
+        "total": 123,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 26,
+        "total": 123,
+        "value_id": "police",
+        "value_name": "police"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1126,
+    "property_kind": [
+      {
+        "count": 196,
+        "total": 273,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 43,
+        "total": 273,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 24,
+        "total": 273,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 4,
+        "total": 273,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 4,
+        "total": 273,
+        "value_id": "ע.עתיקה פאבים מ.לילה בתי אוכל",
+        "value_name": "ע.עתיקה פאבים מ.לילה בתי אוכל"
+      },
+      {
+        "count": 2,
+        "total": 273,
+        "value_id": "מסחר/משרד עץ-פח",
+        "value_name": "מסחר/משרד עץ-פח"
+      }
+    ],
+    "sign_count": 19,
+    "sign_id": [
+      "971862000000003",
+      "965379000000028",
+      "978700201520023",
+      "965380000000036",
+      "927950000000031",
+      "963683000000007",
+      "927717500000024",
+      "965491000000007",
+      "926454000000034",
+      "927950000000014"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 202,
+    "business_kind_name": "מוסך",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 69,
+        "total": 161,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 36,
+        "total": 161,
+        "value_id": "אזור מלאכה ותעשיה זעירה",
+        "value_name": "אזור מלאכה ותעשיה זעירה"
+      },
+      {
+        "count": 10,
+        "total": 161,
+        "value_id": "אזור תעשיה ומלאכה",
+        "value_name": "אזור תעשיה ומלאכה"
+      },
+      {
+        "count": 9,
+        "total": 161,
+        "value_id": "מרכז מטרופוליני",
+        "value_name": "מרכז מטרופוליני"
+      },
+      {
+        "count": 9,
+        "total": 161,
+        "value_id": "אזור מלאכה ותעשיה ומתקני שרות",
+        "value_name": "אזור מלאכה ותעשיה ומתקני שרות"
+      },
+      {
+        "count": 6,
+        "total": 161,
+        "value_id": "תעשיה (מבא\"ת)",
+        "value_name": "תעשיה (מבא\"ת)"
+      },
+      {
+        "count": 5,
+        "total": 161,
+        "value_id": "חניה ציבורית",
+        "value_name": "חניה ציבורית"
+      },
+      {
+        "count": 3,
+        "total": 161,
+        "value_id": "תעשיה קלה ומלאכה (מבא\"ת)",
+        "value_name": "תעשיה קלה ומלאכה (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 161,
+        "value_id": "שטח לתכנון בעתיד",
+        "value_name": "שטח לתכנון בעתיד"
+      },
+      {
+        "count": 2,
+        "total": 161,
+        "value_id": "דרך קיימת/מאושרת",
+        "value_name": "דרך קיימת/מאושרת"
+      },
+      {
+        "count": 2,
+        "total": 161,
+        "value_id": "אזור לשרותי דרך",
+        "value_name": "אזור לשרותי דרך"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 14,
+        "total": 26,
+        "value_id": "8.9 א",
+        "value_name": "8.9 א"
+      },
+      {
+        "count": 7,
+        "total": 26,
+        "value_id": "8.9 ו",
+        "value_name": "8.9 ו"
+      },
+      {
+        "count": 4,
+        "total": 26,
+        "value_id": "8.9 ב",
+        "value_name": "8.9 ב"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 26,
+        "total": 69,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 15,
+        "total": 69,
+        "value_id": "economy",
+        "value_name": "economy"
+      },
+      {
+        "count": 14,
+        "total": 69,
+        "value_id": "police",
+        "value_name": "police"
+      },
+      {
+        "count": 14,
+        "total": 69,
+        "value_id": "environment",
+        "value_name": "environment"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1327,
+    "property_kind": [
+      {
+        "count": 199,
+        "total": 267,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 53,
+        "total": 267,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 9,
+        "total": 267,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 3,
+        "total": 267,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      }
+    ],
+    "sign_count": 17,
+    "sign_id": [
+      "925473800000002",
+      "925352200000015",
+      "979640000000026",
+      "979708000000004",
+      "925961200000015",
+      "925999000000023",
+      "925704500000040",
+      "979760900000017",
+      "979710400000010",
+      "925706000000023"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 195,
+    "business_kind_name": "בית קפה",
+    "demand_category": [
+      [
+        "מסעדות ובתי קפה",
+        "בית קפה שכונתי שהוא לא רשת"
+      ],
+      [
+        "מסעדות ובתי קפה",
+        "בית קפה של רשת מוכרת"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 29,
+        "total": 179,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 24,
+        "total": 179,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 14,
+        "total": 179,
+        "value_id": "אזור משולב תעשיה, מלאכה ומסחר",
+        "value_name": "אזור משולב תעשיה, מלאכה ומסחר"
+      },
+      {
+        "count": 9,
+        "total": 179,
+        "value_id": "דיור מיוחד ומסחר (מבא\"ת)",
+        "value_name": "דיור מיוחד ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 8,
+        "total": 179,
+        "value_id": "מרכז תחבורה",
+        "value_name": "מרכז תחבורה"
+      },
+      {
+        "count": 8,
+        "total": 179,
+        "value_id": "אזור מגורים משולב",
+        "value_name": "אזור מגורים משולב"
+      },
+      {
+        "count": 7,
+        "total": 179,
+        "value_id": "אזור משולב לתעשיה עתירת ידע, משרדים ומסחר",
+        "value_name": "אזור משולב לתעשיה עתירת ידע, משרדים ומסחר"
+      },
+      {
+        "count": 7,
+        "total": 179,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      },
+      {
+        "count": 6,
+        "total": 179,
+        "value_id": "שטח לבנייני ציבור",
+        "value_name": "שטח לבנייני ציבור"
+      },
+      {
+        "count": 5,
+        "total": 179,
+        "value_id": "מסחר (מבא\"ת)",
+        "value_name": "מסחר (מבא\"ת)"
+      },
+      {
+        "count": 5,
+        "total": 179,
+        "value_id": "מגורים ומסחר (מבא\"ת)",
+        "value_name": "מגורים ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 5,
+        "total": 179,
+        "value_id": "חניה ציבורית",
+        "value_name": "חניה ציבורית"
+      },
+      {
+        "count": 5,
+        "total": 179,
+        "value_id": "אזור משולב מסחר שרותים תעשייה ומלאכה",
+        "value_name": "אזור משולב מסחר שרותים תעשייה ומלאכה"
+      },
+      {
+        "count": 4,
+        "total": 179,
+        "value_id": "שטח ציבורי פתוח (מבא\"ת)",
+        "value_name": "שטח ציבורי פתוח (מבא\"ת)"
+      },
+      {
+        "count": 3,
+        "total": 179,
+        "value_id": "מגורים מיוחד+חז.מסחרית",
+        "value_name": "מגורים מיוחד+חז.מסחרית"
+      },
+      {
+        "count": 3,
+        "total": 179,
+        "value_id": "מבנים ומוסדות ציבור לבריאות (מבא\"ת)",
+        "value_name": "מבנים ומוסדות ציבור לבריאות (מבא\"ת)"
+      },
+      {
+        "count": 3,
+        "total": 179,
+        "value_id": "אזור משולב מסחר ומגורים מיוחד",
+        "value_name": "אזור משולב מסחר ומגורים מיוחד"
+      },
+      {
+        "count": 2,
+        "total": 179,
+        "value_id": "שטח ספורט",
+        "value_name": "שטח ספורט"
+      },
+      {
+        "count": 2,
+        "total": 179,
+        "value_id": "שטח לתכנון בעתיד",
+        "value_name": "שטח לתכנון בעתיד"
+      },
+      {
+        "count": 2,
+        "total": 179,
+        "value_id": "שטח למגרש מיוחד",
+        "value_name": "שטח למגרש מיוחד"
+      },
+      {
+        "count": 2,
+        "total": 179,
+        "value_id": "מסחר ותעסוקה (מב\"את)",
+        "value_name": "מסחר ותעסוקה (מב\"את)"
+      },
+      {
+        "count": 2,
+        "total": 179,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      },
+      {
+        "count": 2,
+        "total": 179,
+        "value_id": "מגורים ד' (מבא\"ת)",
+        "value_name": "מגורים ד' (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 179,
+        "value_id": "אזור מלאכה ותעשיה זעירה",
+        "value_name": "אזור מלאכה ותעשיה זעירה"
+      },
+      {
+        "count": 2,
+        "total": 179,
+        "value_id": "אזור לשרותי דרך",
+        "value_name": "אזור לשרותי דרך"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 17,
+        "total": 47,
+        "value_id": "4.2 ב",
+        "value_name": "4.2 ב"
+      },
+      {
+        "count": 17,
+        "total": 47,
+        "value_id": "4.2 א",
+        "value_name": "4.2 א"
+      },
+      {
+        "count": 5,
+        "total": 47,
+        "value_id": "4.8",
+        "value_name": "4.8"
+      },
+      {
+        "count": 3,
+        "total": 47,
+        "value_id": "4.7 ב",
+        "value_name": "4.7 ב"
+      },
+      {
+        "count": 3,
+        "total": 47,
+        "value_id": "4.7 א",
+        "value_name": "4.7 א"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 47,
+        "total": 129,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 41,
+        "total": 129,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 40,
+        "total": 129,
+        "value_id": "police",
+        "value_name": "police"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1589,
+    "property_kind": [
+      {
+        "count": 147,
+        "total": 307,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 52,
+        "total": 307,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 38,
+        "total": 307,
+        "value_id": "ע.עתיקה פאבים מ.לילה בתי אוכל",
+        "value_name": "ע.עתיקה פאבים מ.לילה בתי אוכל"
+      },
+      {
+        "count": 34,
+        "total": 307,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 14,
+        "total": 307,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 11,
+        "total": 307,
+        "value_id": "מסחר/משרד עץ-פח",
+        "value_name": "מסחר/משרד עץ-פח"
+      },
+      {
+        "count": 3,
+        "total": 307,
+        "value_id": "ע.ג.מוסדות",
+        "value_name": "ע.ג.מוסדות"
+      },
+      {
+        "count": 3,
+        "total": 307,
+        "value_id": "מחסן מסחר פח + עץ",
+        "value_name": "מחסן מסחר פח + עץ"
+      },
+      {
+        "count": 3,
+        "total": 307,
+        "value_id": "מ.ע.ג.מוס.",
+        "value_name": "מ.ע.ג.מוס."
+      }
+    ],
+    "sign_count": 18,
+    "sign_id": [
+      "969610000000009",
+      "907728000000025",
+      "924187000000006",
+      "926748201000005",
+      "940014000000011",
+      "923511200000004",
+      "925082500000033",
+      "925713800000018",
+      "971622000000005",
+      "914580000000001"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 192,
+    "business_kind_name": "מספרה",
+    "demand_category": [
+      [
+        "אופנה וטיפוח",
+        "מספרה עיצוב שיער"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 30,
+        "total": 169,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 23,
+        "total": 169,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      },
+      {
+        "count": 19,
+        "total": 169,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 14,
+        "total": 169,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      },
+      {
+        "count": 11,
+        "total": 169,
+        "value_id": "מגורים מיוחד+חז.מסחרית",
+        "value_name": "מגורים מיוחד+חז.מסחרית"
+      },
+      {
+        "count": 10,
+        "total": 169,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 10,
+        "total": 169,
+        "value_id": "אזור מגורים א",
+        "value_name": "אזור מגורים א"
+      },
+      {
+        "count": 9,
+        "total": 169,
+        "value_id": "מגורים ג+חז.מסחרית",
+        "value_name": "מגורים ג+חז.מסחרית"
+      },
+      {
+        "count": 8,
+        "total": 169,
+        "value_id": "מגורים ומסחר (מבא\"ת)",
+        "value_name": "מגורים ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 5,
+        "total": 169,
+        "value_id": "אזור משולב מסחר ומגורים מיוחד",
+        "value_name": "אזור משולב מסחר ומגורים מיוחד"
+      },
+      {
+        "count": 4,
+        "total": 169,
+        "value_id": "מגורים ב' (מבא\"ת)",
+        "value_name": "מגורים ב' (מבא\"ת)"
+      },
+      {
+        "count": 3,
+        "total": 169,
+        "value_id": "שטח לבנייני ציבור",
+        "value_name": "שטח לבנייני ציבור"
+      },
+      {
+        "count": 3,
+        "total": 169,
+        "value_id": "מגורים מיוחד משולב במסחר",
+        "value_name": "מגורים מיוחד משולב במסחר"
+      },
+      {
+        "count": 3,
+        "total": 169,
+        "value_id": "מגורים ד' (מבא\"ת)",
+        "value_name": "מגורים ד' (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 169,
+        "value_id": "מרכז שכונתי",
+        "value_name": "מרכז שכונתי"
+      },
+      {
+        "count": 2,
+        "total": 169,
+        "value_id": "מסחר (מבא\"ת)",
+        "value_name": "מסחר (מבא\"ת)"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 32,
+        "total": 36,
+        "value_id": "1.4 ב",
+        "value_name": "1.4 ב"
+      },
+      {
+        "count": 2,
+        "total": 36,
+        "value_id": "3.5 ב",
+        "value_name": "3.5 ב"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 36,
+        "total": 73,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 33,
+        "total": 73,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 3,
+        "total": 73,
+        "value_id": "agriculture",
+        "value_name": "agriculture"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 592,
+    "property_kind": [
+      {
+        "count": 186,
+        "total": 215,
+        "value_id": "מספרות",
+        "value_name": "מספרות"
+      },
+      {
+        "count": 11,
+        "total": 215,
+        "value_id": "מחסן מספרות",
+        "value_name": "מחסן מספרות"
+      },
+      {
+        "count": 7,
+        "total": 215,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 4,
+        "total": 215,
+        "value_id": "מגורים",
+        "value_name": "מגורים"
+      },
+      {
+        "count": 3,
+        "total": 215,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 2,
+        "total": 215,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      }
+    ],
+    "sign_count": 9,
+    "sign_id": [
+      "928023000000004",
+      "927868000000018",
+      "927751500000002",
+      "904904000000004",
+      "41500101010001",
+      "926263000000001",
+      "927868000000012",
+      "908010000000002",
+      "907583500000010",
+      "926123000000006"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "": 208.41
+    }
+  },
+  {
+    "business_kind_count": 174,
+    "business_kind_name": "מרפאה פרטית",
+    "demand_category": [
+      [
+        "קופת חולים ופארם",
+        "מוצרים אורטופדיים"
+      ],
+      [
+        "קופת חולים ופארם",
+        "רפואה אלטרנטיבית משלימה"
+      ],
+      [
+        "קופת חולים ופארם",
+        "מרפאת שיניים"
+      ],
+      [
+        "קופת חולים ופארם",
+        "דיאטה ותזונה"
+      ],
+      [
+        "קופת חולים ופארם",
+        "מרפאה פרטית - רפואת חרום"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 53,
+        "total": 156,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 19,
+        "total": 156,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      },
+      {
+        "count": 12,
+        "total": 156,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 9,
+        "total": 156,
+        "value_id": "שטח למגרש מיוחד",
+        "value_name": "שטח למגרש מיוחד"
+      },
+      {
+        "count": 7,
+        "total": 156,
+        "value_id": "אזור מגורים א",
+        "value_name": "אזור מגורים א"
+      },
+      {
+        "count": 6,
+        "total": 156,
+        "value_id": "מגורים ומסחר (מבא\"ת)",
+        "value_name": "מגורים ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 6,
+        "total": 156,
+        "value_id": "מגורים ג+חז.מסחרית",
+        "value_name": "מגורים ג+חז.מסחרית"
+      },
+      {
+        "count": 5,
+        "total": 156,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      },
+      {
+        "count": 4,
+        "total": 156,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 4,
+        "total": 156,
+        "value_id": "מסחר ומשרדים (מבא\"ת)",
+        "value_name": "מסחר ומשרדים (מבא\"ת)"
+      },
+      {
+        "count": 4,
+        "total": 156,
+        "value_id": "מגורים 3-4 קומות",
+        "value_name": "מגורים 3-4 קומות"
+      },
+      {
+        "count": 3,
+        "total": 156,
+        "value_id": "משרדים (מבא\"ת)",
+        "value_name": "משרדים (מבא\"ת)"
+      },
+      {
+        "count": 3,
+        "total": 156,
+        "value_id": "מסחר (מבא\"ת)",
+        "value_name": "מסחר (מבא\"ת)"
+      },
+      {
+        "count": 3,
+        "total": 156,
+        "value_id": "מגורים א' (מבא\"ת)",
+        "value_name": "מגורים א' (מבא\"ת)"
+      },
+      {
+        "count": 3,
+        "total": 156,
+        "value_id": "אזור מסחר ושירותים",
+        "value_name": "אזור מסחר ושירותים"
+      },
+      {
+        "count": 2,
+        "total": 156,
+        "value_id": "אזור מגורים משולב",
+        "value_name": "אזור מגורים משולב"
+      },
+      {
+        "count": 2,
+        "total": 156,
+        "value_id": "אזור מגורים ב",
+        "value_name": "אזור מגורים ב"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 218,
+    "property_kind": [
+      {
+        "count": 95,
+        "total": 192,
+        "value_id": "מרפאות פ.",
+        "value_name": "מרפאות פ."
+      },
+      {
+        "count": 60,
+        "total": 192,
+        "value_id": "מרפאות פרטיות",
+        "value_name": "מרפאות פרטיות"
+      },
+      {
+        "count": 15,
+        "total": 192,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 6,
+        "total": 192,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 5,
+        "total": 192,
+        "value_id": "מגורים",
+        "value_name": "מגורים"
+      },
+      {
+        "count": 3,
+        "total": 192,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 2,
+        "total": 192,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 2,
+        "total": 192,
+        "value_id": "משרד מעל ק.ק",
+        "value_name": "משרד מעל ק.ק"
+      },
+      {
+        "count": 2,
+        "total": 192,
+        "value_id": "מוקד רפואה דחופה",
+        "value_name": "מוקד רפואה דחופה"
+      },
+      {
+        "count": 2,
+        "total": 192,
+        "value_id": "מ.מרפאה",
+        "value_name": "מ.מרפאה"
+      }
+    ],
+    "sign_count": 7,
+    "sign_id": [
+      "928353000000006",
+      "904867000000004",
+      "928353000000024",
+      "966276000000004",
+      "911148300000010",
+      "940381000000005",
+      "971755000000012",
+      "966276000000002",
+      "904836000000005",
+      "966272000000005"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 268.17,
+      "ב": 170.665
+    }
+  },
+  {
+    "business_kind_count": 152,
+    "business_kind_name": "מסגריה או זכוכית",
+    "demand_category": [
+      [
+        "דברים לבית",
+        "מסגרות וזכוכית"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 60,
+        "total": 135,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 27,
+        "total": 135,
+        "value_id": "אזור מלאכה ותעשיה זעירה",
+        "value_name": "אזור מלאכה ותעשיה זעירה"
+      },
+      {
+        "count": 10,
+        "total": 135,
+        "value_id": "אזור תעשיה ומלאכה",
+        "value_name": "אזור תעשיה ומלאכה"
+      },
+      {
+        "count": 8,
+        "total": 135,
+        "value_id": "שטח לתכנון בעתיד",
+        "value_name": "שטח לתכנון בעתיד"
+      },
+      {
+        "count": 5,
+        "total": 135,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 4,
+        "total": 135,
+        "value_id": "מרכז מטרופוליני",
+        "value_name": "מרכז מטרופוליני"
+      },
+      {
+        "count": 4,
+        "total": 135,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 4,
+        "total": 135,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 2,
+        "total": 135,
+        "value_id": "תעשיה קלה ומלאכה (מבא\"ת)",
+        "value_name": "תעשיה קלה ומלאכה (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 135,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      },
+      {
+        "count": 2,
+        "total": 135,
+        "value_id": "דרך קיימת/מאושרת",
+        "value_name": "דרך קיימת/מאושרת"
+      },
+      {
+        "count": 2,
+        "total": 135,
+        "value_id": "דיור מיוחד(מבא\"ת)",
+        "value_name": "דיור מיוחד(מבא\"ת)"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 13,
+        "total": 20,
+        "value_id": "10.14ג",
+        "value_name": "10.14ג"
+      },
+      {
+        "count": 3,
+        "total": 20,
+        "value_id": "10.14ו",
+        "value_name": "10.14ו"
+      },
+      {
+        "count": 2,
+        "total": 20,
+        "value_id": "10.14א",
+        "value_name": "10.14א"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 20,
+        "total": 56,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 20,
+        "total": 56,
+        "value_id": "economy",
+        "value_name": "economy"
+      },
+      {
+        "count": 16,
+        "total": 56,
+        "value_id": "environment",
+        "value_name": "environment"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 591,
+    "property_kind": [
+      {
+        "count": 148,
+        "total": 181,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 23,
+        "total": 181,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 4,
+        "total": 181,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 3,
+        "total": 181,
+        "value_id": "קרקע תפוסה",
+        "value_name": "קרקע תפוסה"
+      },
+      {
+        "count": 2,
+        "total": 181,
+        "value_id": "מחסן מסחר פח + עץ",
+        "value_name": "מחסן מסחר פח + עץ"
+      }
+    ],
+    "sign_count": 7,
+    "sign_id": [
+      "979316000000010",
+      "925590300000008",
+      "924931600000001",
+      "979503000000005",
+      "980202300000006",
+      "979478000000005",
+      "979386700000027",
+      "979686000000023",
+      "921510000000005",
+      "979316000000015"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 147,
+    "business_kind_name": "מסעדה",
+    "demand_category": [
+      [
+        "מסעדות ובתי קפה",
+        "מסעדה טבעונית צמחונית"
+      ],
+      [
+        "מסעדות ובתי קפה",
+        "מסעדת שף"
+      ],
+      [
+        "מסעדות ובתי קפה",
+        "המבורגר"
+      ],
+      [
+        "מסעדות ובתי קפה",
+        "סושיה"
+      ],
+      [
+        "מסעדות ובתי קפה",
+        "חומוסיה"
+      ],
+      [
+        "מסעדות ובתי קפה",
+        "שיפודיה סטקייה"
+      ],
+      [
+        "מסעדות ובתי קפה",
+        "בר סלטים"
+      ],
+      [
+        "מסעדות ובתי קפה",
+        "מסעדת אוכל בית"
+      ],
+      [
+        "מסעדות ובתי קפה",
+        "פיצה פיצריה"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 23,
+        "total": 134,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 13,
+        "total": 134,
+        "value_id": "אזור משולב תעשיה, מלאכה ומסחר",
+        "value_name": "אזור משולב תעשיה, מלאכה ומסחר"
+      },
+      {
+        "count": 12,
+        "total": 134,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 9,
+        "total": 134,
+        "value_id": "מגורים ומסחר (מבא\"ת)",
+        "value_name": "מגורים ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 9,
+        "total": 134,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      },
+      {
+        "count": 8,
+        "total": 134,
+        "value_id": "דיור מיוחד ומסחר (מבא\"ת)",
+        "value_name": "דיור מיוחד ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 6,
+        "total": 134,
+        "value_id": "שטח ציבורי פתוח (מבא\"ת)",
+        "value_name": "שטח ציבורי פתוח (מבא\"ת)"
+      },
+      {
+        "count": 6,
+        "total": 134,
+        "value_id": "מסחר (מבא\"ת)",
+        "value_name": "מסחר (מבא\"ת)"
+      },
+      {
+        "count": 6,
+        "total": 134,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 5,
+        "total": 134,
+        "value_id": "שטח לבנייני ציבור",
+        "value_name": "שטח לבנייני ציבור"
+      },
+      {
+        "count": 4,
+        "total": 134,
+        "value_id": "מרכז תחבורה",
+        "value_name": "מרכז תחבורה"
+      },
+      {
+        "count": 3,
+        "total": 134,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 3,
+        "total": 134,
+        "value_id": "מגורים מיוחד משולב במסחר",
+        "value_name": "מגורים מיוחד משולב במסחר"
+      },
+      {
+        "count": 3,
+        "total": 134,
+        "value_id": "מגורים (מבא\"ת)",
+        "value_name": "מגורים (מבא\"ת)"
+      },
+      {
+        "count": 3,
+        "total": 134,
+        "value_id": "אזור מגורים א",
+        "value_name": "אזור מגורים א"
+      },
+      {
+        "count": 2,
+        "total": 134,
+        "value_id": "תעשיה עתירת ידע (מבא\"ת)",
+        "value_name": "תעשיה עתירת ידע (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 134,
+        "value_id": "שטח ציבורי פתוח",
+        "value_name": "שטח ציבורי פתוח"
+      },
+      {
+        "count": 2,
+        "total": 134,
+        "value_id": "שטח לתכנון בעתיד",
+        "value_name": "שטח לתכנון בעתיד"
+      },
+      {
+        "count": 2,
+        "total": 134,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      },
+      {
+        "count": 2,
+        "total": 134,
+        "value_id": "אזור משולב מסחר שרותים תעשייה ומלאכה",
+        "value_name": "אזור משולב מסחר שרותים תעשייה ומלאכה"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 27,
+        "total": 46,
+        "value_id": "4.2 א",
+        "value_name": "4.2 א"
+      },
+      {
+        "count": 13,
+        "total": 46,
+        "value_id": "4.2 ב",
+        "value_name": "4.2 ב"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 45,
+        "total": 129,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 43,
+        "total": 129,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 41,
+        "total": 129,
+        "value_id": "police",
+        "value_name": "police"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1512,
+    "property_kind": [
+      {
+        "count": 125,
+        "total": 246,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 56,
+        "total": 246,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 19,
+        "total": 246,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 17,
+        "total": 246,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 13,
+        "total": 246,
+        "value_id": "ע.עתיקה פאבים מ.לילה בתי אוכל",
+        "value_name": "ע.עתיקה פאבים מ.לילה בתי אוכל"
+      },
+      {
+        "count": 13,
+        "total": 246,
+        "value_id": "מסחר/משרד עץ-פח",
+        "value_name": "מסחר/משרד עץ-פח"
+      }
+    ],
+    "sign_count": 14,
+    "sign_id": [
+      "905026000000004",
+      "925681000000019",
+      "930021500000011",
+      "927822000000003",
+      "930012300000020",
+      "926342100000001",
+      "925044000000016",
+      "925044000000012",
+      "966113000000007",
+      "927853000000007"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 120,
+    "business_kind_name": "מכשירי חשמל ואלקטרוניקה",
+    "demand_category": [
+      [
+        "דברים לבית",
+        "חנות מחשבים"
+      ],
+      [
+        "דברים לבית",
+        "אלקטרוניקה וחשמל"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 18,
+        "total": 90,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 9,
+        "total": 90,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 9,
+        "total": 90,
+        "value_id": "דיור מיוחד ומסחר (מבא\"ת)",
+        "value_name": "דיור מיוחד ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 7,
+        "total": 90,
+        "value_id": "תעשיה עתירת ידע (מבא\"ת)",
+        "value_name": "תעשיה עתירת ידע (מבא\"ת)"
+      },
+      {
+        "count": 6,
+        "total": 90,
+        "value_id": "אזור משולב תעשיה, מלאכה ומסחר",
+        "value_name": "אזור משולב תעשיה, מלאכה ומסחר"
+      },
+      {
+        "count": 4,
+        "total": 90,
+        "value_id": "מרכז תחבורה",
+        "value_name": "מרכז תחבורה"
+      },
+      {
+        "count": 4,
+        "total": 90,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 4,
+        "total": 90,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 3,
+        "total": 90,
+        "value_id": "שטח ציבורי פתוח (מבא\"ת)",
+        "value_name": "שטח ציבורי פתוח (מבא\"ת)"
+      },
+      {
+        "count": 3,
+        "total": 90,
+        "value_id": "אזור משולב מסחר שרותים תעשייה ומלאכה",
+        "value_name": "אזור משולב מסחר שרותים תעשייה ומלאכה"
+      },
+      {
+        "count": 2,
+        "total": 90,
+        "value_id": "חניה ציבורית",
+        "value_name": "חניה ציבורית"
+      },
+      {
+        "count": 2,
+        "total": 90,
+        "value_id": "אזור משולב מסחר ותעשיה",
+        "value_name": "אזור משולב מסחר ותעשיה"
+      },
+      {
+        "count": 2,
+        "total": 90,
+        "value_id": "אזור משולב לתעשיה עתירת ידע, משרדים ומסחר",
+        "value_name": "אזור משולב לתעשיה עתירת ידע, משרדים ומסחר"
+      },
+      {
+        "count": 2,
+        "total": 90,
+        "value_id": "אזור מלאכה ותעשיה זעירה משולב במסחר",
+        "value_name": "אזור מלאכה ותעשיה זעירה משולב במסחר"
+      }
+    ],
+    "license_item": [],
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 767,
+    "property_kind": [
+      {
+        "count": 91,
+        "total": 163,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 40,
+        "total": 163,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 22,
+        "total": 163,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 7,
+        "total": 163,
+        "value_id": "ת. ומלאכה (פארק ההיי-טק",
+        "value_name": "ת. ומלאכה (פארק ההיי-טק"
+      },
+      {
+        "count": 2,
+        "total": 163,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      }
+    ],
+    "sign_count": 13,
+    "sign_id": [
+      "925047000000011",
+      "971112200000001",
+      "925024000000037",
+      "978882000000004",
+      "968522000000002",
+      "925024000000001",
+      "925024000000010",
+      "971543000000055",
+      "925034000000004",
+      "925047000000006"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 101,
+    "business_kind_name": "מכולת",
+    "demand_category": [
+      [
+        "מצרכים ומוצרים",
+        "מכולת"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 29,
+        "total": 83,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 13,
+        "total": 83,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      },
+      {
+        "count": 7,
+        "total": 83,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      },
+      {
+        "count": 6,
+        "total": 83,
+        "value_id": "מגורים ג+חז.מסחרית",
+        "value_name": "מגורים ג+חז.מסחרית"
+      },
+      {
+        "count": 5,
+        "total": 83,
+        "value_id": "שטח לבנייני ציבור",
+        "value_name": "שטח לבנייני ציבור"
+      },
+      {
+        "count": 5,
+        "total": 83,
+        "value_id": "אזור מגורים א",
+        "value_name": "אזור מגורים א"
+      },
+      {
+        "count": 3,
+        "total": 83,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 2,
+        "total": 83,
+        "value_id": "מסחר (מבא\"ת)",
+        "value_name": "מסחר (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 83,
+        "value_id": "מגורים מיוחד+חז.מסחרית",
+        "value_name": "מגורים מיוחד+חז.מסחרית"
+      },
+      {
+        "count": 2,
+        "total": 83,
+        "value_id": "אזור משולב מסחר ומגורים מיוחד",
+        "value_name": "אזור משולב מסחר ומגורים מיוחד"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 26,
+        "total": 34,
+        "value_id": "4.7 ב",
+        "value_name": "4.7 ב"
+      },
+      {
+        "count": 4,
+        "total": 34,
+        "value_id": "4.8",
+        "value_name": "4.8"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 34,
+        "total": 69,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 29,
+        "total": 69,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 6,
+        "total": 69,
+        "value_id": "police",
+        "value_name": "police"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1448,
+    "property_kind": [
+      {
+        "count": 98,
+        "total": 130,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 22,
+        "total": 130,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 6,
+        "total": 130,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 2,
+        "total": 130,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      }
+    ],
+    "sign_count": 13,
+    "sign_id": [
+      "926046000000012",
+      "927673000000010",
+      "929004000000017",
+      "926538000000040",
+      "927814500000019",
+      "965227000000007",
+      "926643000000001",
+      "927420000000008",
+      "926799500000014",
+      "929004000000018"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 93,
+    "business_kind_name": "נגריה/מנסרה",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 44,
+        "total": 85,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 9,
+        "total": 85,
+        "value_id": "אזור מלאכה ותעשיה זעירה",
+        "value_name": "אזור מלאכה ותעשיה זעירה"
+      },
+      {
+        "count": 7,
+        "total": 85,
+        "value_id": "מרכז מטרופוליני",
+        "value_name": "מרכז מטרופוליני"
+      },
+      {
+        "count": 5,
+        "total": 85,
+        "value_id": "שטח לשימוש כללי",
+        "value_name": "שטח לשימוש כללי"
+      },
+      {
+        "count": 3,
+        "total": 85,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 3,
+        "total": 85,
+        "value_id": "אזור תעשיה ומלאכה",
+        "value_name": "אזור תעשיה ומלאכה"
+      },
+      {
+        "count": 2,
+        "total": 85,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 2,
+        "total": 85,
+        "value_id": "מסחר ומשרדים (מבא\"ת)",
+        "value_name": "מסחר ומשרדים (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 85,
+        "value_id": "דרך קיימת/מאושרת",
+        "value_name": "דרך קיימת/מאושרת"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 5,
+        "total": 8,
+        "value_id": "10.16ב",
+        "value_name": "10.16ב"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 7,
+        "total": 20,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 6,
+        "total": 20,
+        "value_id": "environment",
+        "value_name": "environment"
+      },
+      {
+        "count": 6,
+        "total": 20,
+        "value_id": "economy",
+        "value_name": "economy"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 755,
+    "property_kind": [
+      {
+        "count": 92,
+        "total": 114,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 16,
+        "total": 114,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 3,
+        "total": 114,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 2,
+        "total": 114,
+        "value_id": "קרקע תפוסה",
+        "value_name": "קרקע תפוסה"
+      }
+    ],
+    "sign_count": 8,
+    "sign_id": [
+      "979967100000004",
+      "980000200000007",
+      "979575600000063",
+      "925290100000017",
+      "979615700000023",
+      "979615700000034",
+      "979615700000015",
+      "979710700000006",
+      "979660000020014",
+      "979939900000001"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 88,
+    "business_kind_name": "גן ילדים",
+    "demand_category": [
+      [
+        "הורים וילדים",
+        "גנים"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 38,
+        "total": 87,
+        "value_id": "אזור מגורים א",
+        "value_name": "אזור מגורים א"
+      },
+      {
+        "count": 9,
+        "total": 87,
+        "value_id": "שטח ציבורי פתוח",
+        "value_name": "שטח ציבורי פתוח"
+      },
+      {
+        "count": 9,
+        "total": 87,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      },
+      {
+        "count": 7,
+        "total": 87,
+        "value_id": "שטח לבנייני ציבור",
+        "value_name": "שטח לבנייני ציבור"
+      },
+      {
+        "count": 7,
+        "total": 87,
+        "value_id": "מגורים א' (מבא\"ת)",
+        "value_name": "מגורים א' (מבא\"ת)"
+      },
+      {
+        "count": 7,
+        "total": 87,
+        "value_id": "אזור מגורים ב",
+        "value_name": "אזור מגורים ב"
+      },
+      {
+        "count": 2,
+        "total": 87,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      },
+      {
+        "count": 2,
+        "total": 87,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 208,
+    "property_kind": [
+      {
+        "count": 80,
+        "total": 94,
+        "value_id": "גני ילדים פרטיים",
+        "value_name": "גני ילדים פרטיים"
+      },
+      {
+        "count": 7,
+        "total": 94,
+        "value_id": "כיתות לימוד",
+        "value_name": "כיתות לימוד"
+      },
+      {
+        "count": 4,
+        "total": 94,
+        "value_id": "מגורים",
+        "value_name": "מגורים"
+      },
+      {
+        "count": 2,
+        "total": 94,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      }
+    ],
+    "sign_count": 2,
+    "sign_id": [
+      "838901500200001",
+      "900115000000004",
+      "900115000000017",
+      "190901000500002",
+      "190901000500001",
+      "7506500300002",
+      "900115000000010",
+      "900115000000008",
+      "424100600000001",
+      "112904930100001"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "": 91.995
+    }
+  },
+  {
+    "business_kind_count": 80,
+    "business_kind_name": "סופר",
+    "demand_category": [
+      [
+        "מצרכים ומוצרים",
+        "סופרמרקט"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 18,
+        "total": 69,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 5,
+        "total": 69,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      },
+      {
+        "count": 4,
+        "total": 69,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 4,
+        "total": 69,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      },
+      {
+        "count": 3,
+        "total": 69,
+        "value_id": "מרכז שכונתי",
+        "value_name": "מרכז שכונתי"
+      },
+      {
+        "count": 3,
+        "total": 69,
+        "value_id": "מסחר (מבא\"ת)",
+        "value_name": "מסחר (מבא\"ת)"
+      },
+      {
+        "count": 3,
+        "total": 69,
+        "value_id": "מגורים ומסחר (מבא\"ת)",
+        "value_name": "מגורים ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 3,
+        "total": 69,
+        "value_id": "מגורים ג+חז.מסחרית",
+        "value_name": "מגורים ג+חז.מסחרית"
+      },
+      {
+        "count": 3,
+        "total": 69,
+        "value_id": "דיור מיוחד ומסחר (מבא\"ת)",
+        "value_name": "דיור מיוחד ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 69,
+        "value_id": "שטח לבנייני ציבור",
+        "value_name": "שטח לבנייני ציבור"
+      },
+      {
+        "count": 2,
+        "total": 69,
+        "value_id": "מסחר , תעשיה קלה ומלאכה (מבא\"ת)",
+        "value_name": "מסחר , תעשיה קלה ומלאכה (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 69,
+        "value_id": "מגורים 3-4 קומות",
+        "value_name": "מגורים 3-4 קומות"
+      },
+      {
+        "count": 2,
+        "total": 69,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 2,
+        "total": 69,
+        "value_id": "אזור משולב תעשיה, מלאכה ומסחר",
+        "value_name": "אזור משולב תעשיה, מלאכה ומסחר"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 18,
+        "total": 25,
+        "value_id": "4.7 ב",
+        "value_name": "4.7 ב"
+      },
+      {
+        "count": 5,
+        "total": 25,
+        "value_id": "4.7 ד",
+        "value_name": "4.7 ד"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 25,
+        "total": 51,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 23,
+        "total": 51,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 2,
+        "total": 51,
+        "value_id": "police",
+        "value_name": "police"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1861,
+    "property_kind": [
+      {
+        "count": 38,
+        "total": 164,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 34,
+        "total": 164,
+        "value_id": "מ.ע.ג.מוס.",
+        "value_name": "מ.ע.ג.מוס."
+      },
+      {
+        "count": 28,
+        "total": 164,
+        "value_id": "ע.ג מוסדות",
+        "value_name": "ע.ג מוסדות"
+      },
+      {
+        "count": 22,
+        "total": 164,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 20,
+        "total": 164,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 14,
+        "total": 164,
+        "value_id": "ע.ג.מוסדות",
+        "value_name": "ע.ג.מוסדות"
+      },
+      {
+        "count": 3,
+        "total": 164,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      }
+    ],
+    "sign_count": 25,
+    "sign_id": [
+      "928219000000020",
+      "927671000000044",
+      "928046000000006",
+      "928126000000010",
+      "927733000000007",
+      "978700208020015",
+      "927912000000041",
+      "926380000000007",
+      "425201801010005",
+      "927538000000014"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 79,
+    "business_kind_name": "חנות חפצי נוי וכלי בית",
+    "demand_category": [
+      [
+        "דברים לבית",
+        "חנות כלי בית"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 15,
+        "total": 64,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 10,
+        "total": 64,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 6,
+        "total": 64,
+        "value_id": "דיור מיוחד ומסחר (מבא\"ת)",
+        "value_name": "דיור מיוחד ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 5,
+        "total": 64,
+        "value_id": "אזור משולב לתעשיה עתירת ידע, משרדים ומסחר",
+        "value_name": "אזור משולב לתעשיה עתירת ידע, משרדים ומסחר"
+      },
+      {
+        "count": 4,
+        "total": 64,
+        "value_id": "מגורים ומסחר (מבא\"ת)",
+        "value_name": "מגורים ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 4,
+        "total": 64,
+        "value_id": "אזור משולב תעשיה, מלאכה ומסחר",
+        "value_name": "אזור משולב תעשיה, מלאכה ומסחר"
+      },
+      {
+        "count": 3,
+        "total": 64,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      },
+      {
+        "count": 2,
+        "total": 64,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 2,
+        "total": 64,
+        "value_id": "מסחר ותיירות (מבא\"ת)",
+        "value_name": "מסחר ותיירות (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 64,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 2,
+        "total": 64,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      }
+    ],
+    "license_item": [],
+    "licensing_agency": [
+      {
+        "count": 2,
+        "total": 5,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 2,
+        "total": 5,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1437,
+    "property_kind": [
+      {
+        "count": 74,
+        "total": 112,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 25,
+        "total": 112,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 7,
+        "total": 112,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 2,
+        "total": 112,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      }
+    ],
+    "sign_count": 13,
+    "sign_id": [
+      "926784000000007",
+      "930011800000013",
+      "914400000000046",
+      "973420300000005",
+      "904645300000009",
+      "940171000000010",
+      "964403500000025",
+      "914400000000059",
+      "978700208000005",
+      "964403500000037"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 68,
+    "business_kind_name": "חנות רהיטים, שטיחים ועיצוב הבית",
+    "demand_category": [
+      [
+        "דברים לבית",
+        "חנות רהיטים"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 9,
+        "total": 63,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 8,
+        "total": 63,
+        "value_id": "אזור מלאכה ותעשיה זעירה משולב במסחר",
+        "value_name": "אזור מלאכה ותעשיה זעירה משולב במסחר"
+      },
+      {
+        "count": 7,
+        "total": 63,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 7,
+        "total": 63,
+        "value_id": "מסחר ותעסוקה (מב\"את)",
+        "value_name": "מסחר ותעסוקה (מב\"את)"
+      },
+      {
+        "count": 6,
+        "total": 63,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 5,
+        "total": 63,
+        "value_id": "מרכז מטרופוליני",
+        "value_name": "מרכז מטרופוליני"
+      },
+      {
+        "count": 5,
+        "total": 63,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 5,
+        "total": 63,
+        "value_id": "אזור מלאכה ומסחר",
+        "value_name": "אזור מלאכה ומסחר"
+      },
+      {
+        "count": 3,
+        "total": 63,
+        "value_id": "שטח פרטי פתוח (מבא\"ת)",
+        "value_name": "שטח פרטי פתוח (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 63,
+        "value_id": "מסחר ותיירות (מבא\"ת)",
+        "value_name": "מסחר ותיירות (מבא\"ת)"
+      }
+    ],
+    "license_item": [],
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1738,
+    "property_kind": [
+      {
+        "count": 67,
+        "total": 92,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 21,
+        "total": 92,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 3,
+        "total": 92,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      }
+    ],
+    "sign_count": 21,
+    "sign_id": [
+      "924601000000037",
+      "925760000000051",
+      "925734000000044",
+      "924627000000025",
+      "924007000000001",
+      "925690000000005",
+      "925611000000001",
+      "964396500000006",
+      "925689000000010",
+      "925767000000005"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 64,
+    "business_kind_name": "תכשיטים ומדליות",
+    "demand_category": [
+      [
+        "אופנה וטיפוח",
+        "חנות תכשיטים"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 15,
+        "total": 58,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 15,
+        "total": 58,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 9,
+        "total": 58,
+        "value_id": "דיור מיוחד ומסחר (מבא\"ת)",
+        "value_name": "דיור מיוחד ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 3,
+        "total": 58,
+        "value_id": "אזור משולב תעשיה, מלאכה ומסחר",
+        "value_name": "אזור משולב תעשיה, מלאכה ומסחר"
+      },
+      {
+        "count": 3,
+        "total": 58,
+        "value_id": "אזור מלונאות ונופש",
+        "value_name": "אזור מלונאות ונופש"
+      },
+      {
+        "count": 2,
+        "total": 58,
+        "value_id": "מרכז תחבורה",
+        "value_name": "מרכז תחבורה"
+      },
+      {
+        "count": 2,
+        "total": 58,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 514,
+    "property_kind": [
+      {
+        "count": 59,
+        "total": 72,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 10,
+        "total": 72,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 3,
+        "total": 72,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      }
+    ],
+    "sign_count": 14,
+    "sign_id": [
+      "915220000000015",
+      "971576000000006",
+      "971713000000013",
+      "971712500000019",
+      "915220000000005",
+      "971522000000010",
+      "930009000000014",
+      "902410200000013",
+      "971575000000020",
+      "914570000000002"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 60,
+    "business_kind_name": "מאפיה",
+    "demand_category": [
+      [
+        "מסעדות ובתי קפה",
+        "מאפיה קונדיטוריה"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 22,
+        "total": 55,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 5,
+        "total": 55,
+        "value_id": "שטח לבנייני ציבור",
+        "value_name": "שטח לבנייני ציבור"
+      },
+      {
+        "count": 5,
+        "total": 55,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      },
+      {
+        "count": 3,
+        "total": 55,
+        "value_id": "מסחר (מבא\"ת)",
+        "value_name": "מסחר (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 55,
+        "value_id": "מגורים ומסחר (מבא\"ת)",
+        "value_name": "מגורים ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 55,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 10,
+        "total": 21,
+        "value_id": "4.2 ב",
+        "value_name": "4.2 ב"
+      },
+      {
+        "count": 5,
+        "total": 21,
+        "value_id": "4.7 ב",
+        "value_name": "4.7 ב"
+      },
+      {
+        "count": 3,
+        "total": 21,
+        "value_id": "4.2 ג",
+        "value_name": "4.2 ג"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 21,
+        "total": 55,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 20,
+        "total": 55,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 11,
+        "total": 55,
+        "value_id": "police",
+        "value_name": "police"
+      },
+      {
+        "count": 2,
+        "total": 55,
+        "value_id": "environment",
+        "value_name": "environment"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1507,
+    "property_kind": [
+      {
+        "count": 41,
+        "total": 98,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 37,
+        "total": 98,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 12,
+        "total": 98,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 4,
+        "total": 98,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 2,
+        "total": 98,
+        "value_id": "ע.עתיקה פאבים מ.לילה בתי אוכל",
+        "value_name": "ע.עתיקה פאבים מ.לילה בתי אוכל"
+      }
+    ],
+    "sign_count": 15,
+    "sign_id": [
+      "979732000000018",
+      "927824500000034",
+      "913941000000026",
+      "929121000000003",
+      "979732000000060",
+      "926904000000013",
+      "926615000000008",
+      "929121000000001",
+      "927670000000003",
+      "928241000000008"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 59,
+    "business_kind_name": "מכון ליופי וקוסמטיקה",
+    "demand_category": [
+      [
+        "אופנה וטיפוח",
+        "מכון להסרת שיער לייזר"
+      ],
+      [
+        "אופנה וטיפוח",
+        "מניקור פדיקור"
+      ],
+      [
+        "אופנה וטיפוח",
+        "קוסמטיקאית"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 13,
+        "total": 55,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 9,
+        "total": 55,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 4,
+        "total": 55,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 4,
+        "total": 55,
+        "value_id": "מגורים ומסחר (מבא\"ת)",
+        "value_name": "מגורים ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 4,
+        "total": 55,
+        "value_id": "דיור מיוחד ומסחר (מבא\"ת)",
+        "value_name": "דיור מיוחד ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 4,
+        "total": 55,
+        "value_id": "אזור מגורים א",
+        "value_name": "אזור מגורים א"
+      },
+      {
+        "count": 3,
+        "total": 55,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      },
+      {
+        "count": 2,
+        "total": 55,
+        "value_id": "מגורים ג+חז.מסחרית",
+        "value_name": "מגורים ג+חז.מסחרית"
+      },
+      {
+        "count": 2,
+        "total": 55,
+        "value_id": "מגורים ב' (מבא\"ת)",
+        "value_name": "מגורים ב' (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 55,
+        "value_id": "אזור מלונאות ונופש",
+        "value_name": "אזור מלונאות ונופש"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 8,
+        "total": 10,
+        "value_id": "1.4 א",
+        "value_name": "1.4 א"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 22,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 10,
+        "total": 22,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 716,
+    "property_kind": [
+      {
+        "count": 56,
+        "total": 66,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 4,
+        "total": 66,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 3,
+        "total": 66,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      }
+    ],
+    "sign_count": 10,
+    "sign_id": [
+      "906870000000004",
+      "904798000000001",
+      "904671900000004",
+      "972019000000019",
+      "927868500000002",
+      "911130200000006",
+      "927869000000031",
+      "972019000000031",
+      "926032000000002",
+      "927869000000032"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 58,
+    "business_kind_name": "ירקן",
+    "demand_category": [
+      [
+        "מצרכים ומוצרים",
+        "חנות ירקות ופירות"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 5,
+        "total": 18,
+        "value_id": "חניה ציבורית",
+        "value_name": "חניה ציבורית"
+      },
+      {
+        "count": 4,
+        "total": 18,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 3,
+        "total": 18,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      },
+      {
+        "count": 2,
+        "total": 18,
+        "value_id": "מסחר ומשרדים (מבא\"ת)",
+        "value_name": "מסחר ומשרדים (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 18,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 6,
+        "total": 6,
+        "value_id": "4.7 ב",
+        "value_name": "4.7 ב"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 6,
+        "total": 12,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 6,
+        "total": 12,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1173,
+    "property_kind": [
+      {
+        "count": 55,
+        "total": 68,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 6,
+        "total": 68,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 5,
+        "total": 68,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      }
+    ],
+    "sign_count": 7,
+    "sign_id": [
+      "973570100000001",
+      "969410000500001",
+      "965471100000016",
+      "926230000000002",
+      "926638000000001",
+      "926565000000002",
+      "965472000000006",
+      "926638000000006",
+      "965709000000003",
+      "926638000000007"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 55,
+    "business_kind_name": "מעבדות",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 7,
+        "total": 36,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 5,
+        "total": 36,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 3,
+        "total": 36,
+        "value_id": "דיור מיוחד ומסחר (מבא\"ת)",
+        "value_name": "דיור מיוחד ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 36,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 2,
+        "total": 36,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 2,
+        "total": 36,
+        "value_id": "אזור מלאכה ותעשיה זעירה",
+        "value_name": "אזור מלאכה ותעשיה זעירה"
+      },
+      {
+        "count": 2,
+        "total": 36,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 525,
+    "property_kind": [
+      {
+        "count": 48,
+        "total": 76,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 21,
+        "total": 76,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 5,
+        "total": 76,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      }
+    ],
+    "sign_count": 7,
+    "sign_id": [
+      "927000410000002",
+      "930000003000001",
+      "924631500000004",
+      "927771000000007",
+      "927000410000009",
+      "903261000000009",
+      "928288700000001",
+      "965476000000001",
+      "979620100000018",
+      "914240000000004"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 53,
+    "business_kind_name": "משרד עורכי דין",
+    "demand_category": [
+      [
+        "שירותים מקצועיים",
+        "עורכי דין עריכת דין"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 10,
+        "total": 49,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 9,
+        "total": 49,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 6,
+        "total": 49,
+        "value_id": "אזור מלונאות ונופש",
+        "value_name": "אזור מלונאות ונופש"
+      },
+      {
+        "count": 3,
+        "total": 49,
+        "value_id": "אזור מסחרי מיוחד",
+        "value_name": "אזור מסחרי מיוחד"
+      },
+      {
+        "count": 3,
+        "total": 49,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      },
+      {
+        "count": 2,
+        "total": 49,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 2,
+        "total": 49,
+        "value_id": "מסחר ומשרדים (מבא\"ת)",
+        "value_name": "מסחר ומשרדים (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 49,
+        "value_id": "דרך מוצעת",
+        "value_name": "דרך מוצעת"
+      },
+      {
+        "count": 2,
+        "total": 49,
+        "value_id": "אזור מסחר ושירותים",
+        "value_name": "אזור מסחר ושירותים"
+      },
+      {
+        "count": 2,
+        "total": 49,
+        "value_id": "אזור מגורים ב",
+        "value_name": "אזור מגורים ב"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 244,
+    "property_kind": [
+      {
+        "count": 32,
+        "total": 58,
+        "value_id": "משרד מעל ק.ק",
+        "value_name": "משרד מעל ק.ק"
+      },
+      {
+        "count": 21,
+        "total": 58,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 2,
+        "total": 58,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 2,
+        "total": 58,
+        "value_id": "מ.מש.מעל ק.ק.",
+        "value_name": "מ.מש.מעל ק.ק."
+      }
+    ],
+    "sign_count": 6,
+    "sign_id": [
+      "908331000000003",
+      "972425000000008",
+      "903413600000003",
+      "966202000000002",
+      "969817000000005",
+      "966111000000003",
+      "966972300000001",
+      "972436000000022",
+      "972425000000002",
+      "905688500000003"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 290.95,
+      "ב": 232.92,
+      "ג": 182.55,
+      "ג1": 210.59
+    }
+  },
+  {
+    "business_kind_count": 52,
+    "business_kind_name": "פאב, בר או מועדון",
+    "demand_category": [
+      [
+        "תחביבים ספורט ופנאי",
+        "מועדון"
+      ],
+      [
+        "תחביבים ספורט ופנאי",
+        "פאב או בר"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 8,
+        "total": 45,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 5,
+        "total": 45,
+        "value_id": "אזור משולב מסחר ומגורים מיוחד",
+        "value_name": "אזור משולב מסחר ומגורים מיוחד"
+      },
+      {
+        "count": 4,
+        "total": 45,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 3,
+        "total": 45,
+        "value_id": "שטח לבנייני ציבור",
+        "value_name": "שטח לבנייני ציבור"
+      },
+      {
+        "count": 3,
+        "total": 45,
+        "value_id": "מגורים ומסחר (מבא\"ת)",
+        "value_name": "מגורים ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 3,
+        "total": 45,
+        "value_id": "אזור משולב תעשיה, מלאכה ומסחר",
+        "value_name": "אזור משולב תעשיה, מלאכה ומסחר"
+      },
+      {
+        "count": 2,
+        "total": 45,
+        "value_id": "מרכז מטרופוליני",
+        "value_name": "מרכז מטרופוליני"
+      },
+      {
+        "count": 2,
+        "total": 45,
+        "value_id": "מגורים מסחר ומבנים ומוסדות ציבור (מבא\"ת)",
+        "value_name": "מגורים מסחר ומבנים ומוסדות ציבור (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 45,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      },
+      {
+        "count": 2,
+        "total": 45,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 2,
+        "total": 45,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 6,
+        "total": 11,
+        "value_id": "4.8",
+        "value_name": "4.8"
+      },
+      {
+        "count": 3,
+        "total": 11,
+        "value_id": "4.2 א",
+        "value_name": "4.2 א"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 11,
+        "total": 26,
+        "value_id": "police",
+        "value_name": "police"
+      },
+      {
+        "count": 11,
+        "total": 26,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 4,
+        "total": 26,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1269,
+    "property_kind": [
+      {
+        "count": 30,
+        "total": 85,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 19,
+        "total": 85,
+        "value_id": "ע.עתיקה פאבים מ.לילה בתי אוכל",
+        "value_name": "ע.עתיקה פאבים מ.לילה בתי אוכל"
+      },
+      {
+        "count": 15,
+        "total": 85,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 10,
+        "total": 85,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 6,
+        "total": 85,
+        "value_id": "מסחר/משרד עץ-פח",
+        "value_name": "מסחר/משרד עץ-פח"
+      },
+      {
+        "count": 2,
+        "total": 85,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 2,
+        "total": 85,
+        "value_id": "בתי מלון ובתי  הארחה",
+        "value_name": "בתי מלון ובתי  הארחה"
+      }
+    ],
+    "sign_count": 12,
+    "sign_id": [
+      "979190000000015",
+      "926709200000012",
+      "925111000000042",
+      "919949000000006",
+      "99701700010008",
+      "979190000000008",
+      "978700201770002",
+      "925111500000021",
+      "907700500000005",
+      "926237000000014"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 48,
+    "business_kind_name": "מתפרה",
+    "demand_category": [
+      [
+        "דברים לבית",
+        "תפירה, וילונות ובדים"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 20,
+        "total": 47,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 8,
+        "total": 47,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 4,
+        "total": 47,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 2,
+        "total": 47,
+        "value_id": "מרכז מטרופוליני",
+        "value_name": "מרכז מטרופוליני"
+      },
+      {
+        "count": 2,
+        "total": 47,
+        "value_id": "מגורים מיוחד+חז.מסחרית",
+        "value_name": "מגורים מיוחד+חז.מסחרית"
+      },
+      {
+        "count": 2,
+        "total": 47,
+        "value_id": "מגורים ומסחר (מבא\"ת)",
+        "value_name": "מגורים ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 47,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 666,
+    "property_kind": [
+      {
+        "count": 47,
+        "total": 63,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 11,
+        "total": 63,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 2,
+        "total": 63,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 2,
+        "total": 63,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      }
+    ],
+    "sign_count": 11,
+    "sign_id": [
+      "904907000000005",
+      "908110000000029",
+      "925231300000008",
+      "915861000000005",
+      "965405000000006",
+      "925231300000009",
+      "908110000000061",
+      "904650000000007",
+      "971553500000006",
+      "971553500000007"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 47,
+    "business_kind_name": "מכשירי בטחון ותקשורת",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 7,
+        "total": 33,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 3,
+        "total": 33,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      },
+      {
+        "count": 3,
+        "total": 33,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 3,
+        "total": 33,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      },
+      {
+        "count": 2,
+        "total": 33,
+        "value_id": "דרך מוצעת",
+        "value_name": "דרך מוצעת"
+      },
+      {
+        "count": 2,
+        "total": 33,
+        "value_id": "אזור משולב תעשיה, מלאכה ומסחר",
+        "value_name": "אזור משולב תעשיה, מלאכה ומסחר"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1072,
+    "property_kind": [
+      {
+        "count": 15,
+        "total": 62,
+        "value_id": "מסחר/משרד עץ-פח",
+        "value_name": "מסחר/משרד עץ-פח"
+      },
+      {
+        "count": 13,
+        "total": 62,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 11,
+        "total": 62,
+        "value_id": "מ.ע.ג.מוס.",
+        "value_name": "מ.ע.ג.מוס."
+      },
+      {
+        "count": 8,
+        "total": 62,
+        "value_id": "קרקע תפוסה",
+        "value_name": "קרקע תפוסה"
+      },
+      {
+        "count": 3,
+        "total": 62,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 3,
+        "total": 62,
+        "value_id": "ע.ג מוסדות",
+        "value_name": "ע.ג מוסדות"
+      },
+      {
+        "count": 3,
+        "total": 62,
+        "value_id": "משרד מעל ק.ק",
+        "value_name": "משרד מעל ק.ק"
+      },
+      {
+        "count": 2,
+        "total": 62,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 2,
+        "total": 62,
+        "value_id": "מ. ע.ג מוס.",
+        "value_name": "מ. ע.ג מוס."
+      }
+    ],
+    "sign_count": 15,
+    "sign_id": [
+      "969518500000001",
+      "927819500000007",
+      "971140600000021",
+      "979699000000019",
+      "979699000000006",
+      "971140600000025",
+      "925771000000021",
+      "969518500000011",
+      "979699000000007",
+      "35802400000020"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 218.31,
+      "ב": 187.64,
+      "ג": 164.53,
+      "ג1": 169.66
+    }
+  },
+  {
+    "business_kind_count": 46,
+    "business_kind_name": "מפעל יצור מזון/חלב/בשר/דגים/פי",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 14,
+        "total": 33,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 5,
+        "total": 33,
+        "value_id": "אזור מלאכה ותעשיה זעירה",
+        "value_name": "אזור מלאכה ותעשיה זעירה"
+      },
+      {
+        "count": 4,
+        "total": 33,
+        "value_id": "אזור תעשיה ומלאכה",
+        "value_name": "אזור תעשיה ומלאכה"
+      },
+      {
+        "count": 2,
+        "total": 33,
+        "value_id": "שטח לבנייני ציבור",
+        "value_name": "שטח לבנייני ציבור"
+      },
+      {
+        "count": 2,
+        "total": 33,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      },
+      {
+        "count": 2,
+        "total": 33,
+        "value_id": "אזור משולב תעשיה, מלאכה ומסחר",
+        "value_name": "אזור משולב תעשיה, מלאכה ומסחר"
+      },
+      {
+        "count": 2,
+        "total": 33,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 3,
+        "total": 5,
+        "value_id": "4.6 ו",
+        "value_name": "4.6 ו"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 5,
+        "total": 12,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 4,
+        "total": 12,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 3,
+        "total": 12,
+        "value_id": "environment",
+        "value_name": "environment"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1665,
+    "property_kind": [
+      {
+        "count": 43,
+        "total": 65,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 11,
+        "total": 65,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 3,
+        "total": 65,
+        "value_id": "ע.ג.מוסדות",
+        "value_name": "ע.ג.מוסדות"
+      },
+      {
+        "count": 2,
+        "total": 65,
+        "value_id": "קרקע תפוסה",
+        "value_name": "קרקע תפוסה"
+      },
+      {
+        "count": 2,
+        "total": 65,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 2,
+        "total": 65,
+        "value_id": "מ.ע.ג.מוס.",
+        "value_name": "מ.ע.ג.מוס."
+      }
+    ],
+    "sign_count": 14,
+    "sign_id": [
+      "979136000000029",
+      "979136000000041",
+      "979136000000058",
+      "979136000000037",
+      "979472000000003",
+      "978910000000008",
+      "979168000000002",
+      "979119000000005",
+      "979512000000005",
+      "979512000000009"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 45,
+    "business_kind_name": "חנות קוסמטיקה",
+    "demand_category": [
+      [
+        "אופנה וטיפוח",
+        "מוצרי קוסמטיקה ואיפור"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 13,
+        "total": 42,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 6,
+        "total": 42,
+        "value_id": "דיור מיוחד ומסחר (מבא\"ת)",
+        "value_name": "דיור מיוחד ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 4,
+        "total": 42,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 3,
+        "total": 42,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 3,
+        "total": 42,
+        "value_id": "אזור משולב תעשיה, מלאכה ומסחר",
+        "value_name": "אזור משולב תעשיה, מלאכה ומסחר"
+      },
+      {
+        "count": 2,
+        "total": 42,
+        "value_id": "שטח למגרש מיוחד",
+        "value_name": "שטח למגרש מיוחד"
+      },
+      {
+        "count": 2,
+        "total": 42,
+        "value_id": "אזור מלונאות ונופש",
+        "value_name": "אזור מלונאות ונופש"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 2,
+        "total": 3,
+        "value_id": "1.4 א",
+        "value_name": "1.4 א"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 3,
+        "total": 6,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 3,
+        "total": 6,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1193,
+    "property_kind": [
+      {
+        "count": 41,
+        "total": 60,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 10,
+        "total": 60,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 4,
+        "total": 60,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      }
+    ],
+    "sign_count": 19,
+    "sign_id": [
+      "969606000000002",
+      "966020000000001",
+      "925041000000006",
+      "925013000000046",
+      "971710000000027",
+      "925013000000017",
+      "925068000000019",
+      "924126000000046",
+      "971860000000063",
+      "971860000000046"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 44,
+    "business_kind_name": "מכון כושר",
+    "demand_category": [
+      [
+        "תחביבים ספורט ופנאי",
+        "קבוצת ריצה"
+      ],
+      [
+        "תחביבים ספורט ופנאי",
+        "אימון אישי וכושר"
+      ],
+      [
+        "תחביבים ספורט ופנאי",
+        "מכון כושר"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 6,
+        "total": 37,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 4,
+        "total": 37,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 4,
+        "total": 37,
+        "value_id": "מגורים ג+חז.מסחרית",
+        "value_name": "מגורים ג+חז.מסחרית"
+      },
+      {
+        "count": 3,
+        "total": 37,
+        "value_id": "אזור מגורים א",
+        "value_name": "אזור מגורים א"
+      },
+      {
+        "count": 2,
+        "total": 37,
+        "value_id": "שטח לבנייני ציבור",
+        "value_name": "שטח לבנייני ציבור"
+      },
+      {
+        "count": 2,
+        "total": 37,
+        "value_id": "מרכז מטרופוליני",
+        "value_name": "מרכז מטרופוליני"
+      },
+      {
+        "count": 2,
+        "total": 37,
+        "value_id": "מגורים ומסחר (מבא\"ת)",
+        "value_name": "מגורים ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 37,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 2,
+        "total": 37,
+        "value_id": "אזור משולב מגורים ומסחר",
+        "value_name": "אזור משולב מגורים ומסחר"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 855,
+    "property_kind": [
+      {
+        "count": 41,
+        "total": 46,
+        "value_id": "מתקני נופש",
+        "value_name": "מתקני נופש"
+      },
+      {
+        "count": 2,
+        "total": 46,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      }
+    ],
+    "sign_count": 13,
+    "sign_id": [
+      "902457000000002",
+      "908850100000004",
+      "928299000000062",
+      "925071000000029",
+      "928377000000018",
+      "928290300100003",
+      "928299000000043",
+      "925071000000035",
+      "902457000000007",
+      "925919000000005"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 292.17,
+      "ב": 229.49,
+      "ג": 229.49,
+      "ג1": 207.49
+    }
+  },
+  {
+    "business_kind_count": 41,
+    "business_kind_name": "תחנת דלק",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 5,
+        "total": 35,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 4,
+        "total": 35,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 3,
+        "total": 35,
+        "value_id": "מרכז תחבורה",
+        "value_name": "מרכז תחבורה"
+      },
+      {
+        "count": 3,
+        "total": 35,
+        "value_id": "אזור לשרותי דרך",
+        "value_name": "אזור לשרותי דרך"
+      },
+      {
+        "count": 2,
+        "total": 35,
+        "value_id": "תחנת דלק",
+        "value_name": "תחנת דלק"
+      },
+      {
+        "count": 2,
+        "total": 35,
+        "value_id": "דרך קיימת/מאושרת",
+        "value_name": "דרך קיימת/מאושרת"
+      },
+      {
+        "count": 2,
+        "total": 35,
+        "value_id": "אזור משולב מסחר ותחנת דלק עם שרותי רכב",
+        "value_name": "אזור משולב מסחר ותחנת דלק עם שרותי רכב"
+      },
+      {
+        "count": 2,
+        "total": 35,
+        "value_id": "אזור מלאכה ותעשיה זעירה",
+        "value_name": "אזור מלאכה ותעשיה זעירה"
+      }
+    ],
+    "license_item": [],
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1394,
+    "property_kind": [
+      {
+        "count": 35,
+        "total": 116,
+        "value_id": "מבנים בתחנת דלק",
+        "value_name": "מבנים בתחנת דלק"
+      },
+      {
+        "count": 26,
+        "total": 116,
+        "value_id": "קרקע תפוסה",
+        "value_name": "קרקע תפוסה"
+      },
+      {
+        "count": 15,
+        "total": 116,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 14,
+        "total": 116,
+        "value_id": "מבנים בתחנת דלק -%75 מחסן",
+        "value_name": "מבנים בתחנת דלק -%75 מחסן"
+      },
+      {
+        "count": 12,
+        "total": 116,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 6,
+        "total": 116,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 6,
+        "total": 116,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      }
+    ],
+    "sign_count": 41,
+    "sign_id": [
+      "979800500000008",
+      "926277500000025",
+      "925815800000007",
+      "925180500000026",
+      "926280400000045",
+      "925591500000015",
+      "926748400000058",
+      "924591200000053",
+      "923430000000030",
+      "925591500000006"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "": 396.11
+    }
+  },
+  {
+    "business_kind_count": 39,
+    "business_kind_name": "חניון",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 6,
+        "total": 34,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 3,
+        "total": 34,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 3,
+        "total": 34,
+        "value_id": "מסחר (מבא\"ת)",
+        "value_name": "מסחר (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 34,
+        "value_id": "תעשיה עתירת ידע (מבא\"ת)",
+        "value_name": "תעשיה עתירת ידע (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 34,
+        "value_id": "שטח למגרש מיוחד",
+        "value_name": "שטח למגרש מיוחד"
+      },
+      {
+        "count": 2,
+        "total": 34,
+        "value_id": "שטח לבנייני ציבור",
+        "value_name": "שטח לבנייני ציבור"
+      },
+      {
+        "count": 2,
+        "total": 34,
+        "value_id": "מרכז מטרופוליני",
+        "value_name": "מרכז מטרופוליני"
+      },
+      {
+        "count": 2,
+        "total": 34,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 2,
+        "total": 34,
+        "value_id": "אזור מסחרי מיוחד",
+        "value_name": "אזור מסחרי מיוחד"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 2,
+        "total": 3,
+        "value_id": "8.6 ב",
+        "value_name": "8.6 ב"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 3,
+        "total": 7,
+        "value_id": "police",
+        "value_name": "police"
+      },
+      {
+        "count": 3,
+        "total": 7,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1243,
+    "property_kind": [
+      {
+        "count": 26,
+        "total": 52,
+        "value_id": "חניונים לרכב בתשלום",
+        "value_name": "חניונים לרכב בתשלום"
+      },
+      {
+        "count": 6,
+        "total": 52,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 5,
+        "total": 52,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 3,
+        "total": 52,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 3,
+        "total": 52,
+        "value_id": "קרקע תפוסה",
+        "value_name": "קרקע תפוסה"
+      },
+      {
+        "count": 3,
+        "total": 52,
+        "value_id": "מסחר/משרד עץ-פח",
+        "value_name": "מסחר/משרד עץ-פח"
+      },
+      {
+        "count": 3,
+        "total": 52,
+        "value_id": "מחסן מסחר פח + עץ",
+        "value_name": "מחסן מסחר פח + עץ"
+      },
+      {
+        "count": 2,
+        "total": 52,
+        "value_id": "מ.מש.מעל ק.ק.",
+        "value_name": "מ.מש.מעל ק.ק."
+      }
+    ],
+    "sign_count": 18,
+    "sign_id": [
+      "940129500000008",
+      "969518000000052",
+      "972005000000039",
+      "966704000000002",
+      "969518000000056",
+      "972005000000029",
+      "940129500000001",
+      "965240000000005",
+      "969518000000063",
+      "969518000000028"
+    ],
+    "tariff_zone": "חניון",
+    "tariffs": {
+      "": 16.11
+    }
+  },
+  {
+    "business_kind_count": 39,
+    "business_kind_name": "בית ספר פרטי/מכון לימוד",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 9,
+        "total": 38,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 7,
+        "total": 38,
+        "value_id": "שטח לבנייני ציבור",
+        "value_name": "שטח לבנייני ציבור"
+      },
+      {
+        "count": 4,
+        "total": 38,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 3,
+        "total": 38,
+        "value_id": "מגורים ומסחר (מבא\"ת)",
+        "value_name": "מגורים ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 3,
+        "total": 38,
+        "value_id": "אזור מסחרי מיוחד",
+        "value_name": "אזור מסחרי מיוחד"
+      },
+      {
+        "count": 3,
+        "total": 38,
+        "value_id": "אזור מלונאות ונופש",
+        "value_name": "אזור מלונאות ונופש"
+      },
+      {
+        "count": 2,
+        "total": 38,
+        "value_id": "אזור משולב מגורים ומסחר",
+        "value_name": "אזור משולב מגורים ומסחר"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 677,
+    "property_kind": [
+      {
+        "count": 18,
+        "total": 54,
+        "value_id": "כיתות לימוד",
+        "value_name": "כיתות לימוד"
+      },
+      {
+        "count": 15,
+        "total": 54,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 9,
+        "total": 54,
+        "value_id": "גני ילדים פרטיים",
+        "value_name": "גני ילדים פרטיים"
+      },
+      {
+        "count": 4,
+        "total": 54,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 2,
+        "total": 54,
+        "value_id": "קרקע תפוסה",
+        "value_name": "קרקע תפוסה"
+      },
+      {
+        "count": 2,
+        "total": 54,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 2,
+        "total": 54,
+        "value_id": "משרד מעל ק.ק",
+        "value_name": "משרד מעל ק.ק"
+      }
+    ],
+    "sign_count": 16,
+    "sign_id": [
+      "940382000000004",
+      "907545000000001",
+      "930020100000001",
+      "908323000000013",
+      "903602000000030",
+      "907545000000020",
+      "910340000000002",
+      "926064000000040",
+      "967410100000002",
+      "968019000000008"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "": 91.995
+    }
+  },
+  {
+    "business_kind_count": 36,
+    "business_kind_name": "חנות למוצרי צריכה",
+    "demand_category": [
+      [
+        "הורים וילדים",
+        "חנות מתנות"
+      ],
+      [
+        "דברים לבית",
+        "חנות תאורה"
+      ],
+      [
+        "דברים לבית",
+        "מוצרי בישול ואפיה"
+      ],
+      [
+        "תחביבים ספורט ופנאי",
+        "ציוד ספורט ומחנאות"
+      ],
+      [
+        "דברים לבית",
+        "כלי יצירה ואמנות"
+      ],
+      [
+        "הורים וילדים",
+        "חנות ספרים"
+      ],
+      [
+        "תחביבים ספורט ופנאי",
+        "חנות כלי נגינה"
+      ],
+      [
+        "דברים לבית",
+        "חנות כלבו סטוק"
+      ],
+      [
+        "הורים וילדים",
+        "מוצרי תינוקות"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 5,
+        "total": 31,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 5,
+        "total": 31,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 4,
+        "total": 31,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 4,
+        "total": 31,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 3,
+        "total": 31,
+        "value_id": "חניה ציבורית",
+        "value_name": "חניה ציבורית"
+      },
+      {
+        "count": 2,
+        "total": 31,
+        "value_id": "מסחר (מבא\"ת)",
+        "value_name": "מסחר (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 31,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      },
+      {
+        "count": 2,
+        "total": 31,
+        "value_id": "אזור משולב לתעשיה עתירת ידע, משרדים ומסחר",
+        "value_name": "אזור משולב לתעשיה עתירת ידע, משרדים ומסחר"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 888,
+    "property_kind": [
+      {
+        "count": 29,
+        "total": 55,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 12,
+        "total": 55,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 5,
+        "total": 55,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 4,
+        "total": 55,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      }
+    ],
+    "sign_count": 15,
+    "sign_id": [
+      "971646000000009",
+      "965260500000001",
+      "940374000000008",
+      "910060000000015",
+      "907584000000013",
+      "919426500000021",
+      "910060000000007",
+      "940374000000019",
+      "919425700000036",
+      "940374000000040"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 35,
+    "business_kind_name": "מעון לילדים, מבוגרים או חוסים",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 20,
+        "total": 29,
+        "value_id": "שטח לבנייני ציבור",
+        "value_name": "שטח לבנייני ציבור"
+      },
+      {
+        "count": 2,
+        "total": 29,
+        "value_id": "מגורים 3-4 קומות",
+        "value_name": "מגורים 3-4 קומות"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 275,
+    "property_kind": [
+      {
+        "count": 33,
+        "total": 36,
+        "value_id": "פ.סעיף 5ה4 מעונות יום",
+        "value_name": "פ.סעיף 5ה4 מעונות יום"
+      },
+      {
+        "count": 2,
+        "total": 36,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      }
+    ],
+    "sign_count": 2,
+    "sign_id": [
+      "81002000000001",
+      "318913300000002",
+      "81002000000003",
+      "81002000000002",
+      "362301800000001",
+      "362301800000002",
+      "318913300000001"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 35,
+    "business_kind_name": "בית מלון או בית ארוח",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 8,
+        "total": 30,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 5,
+        "total": 30,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 3,
+        "total": 30,
+        "value_id": "שטח לשימוש כללי",
+        "value_name": "שטח לשימוש כללי"
+      },
+      {
+        "count": 2,
+        "total": 30,
+        "value_id": "שטח לבנייני ציבור",
+        "value_name": "שטח לבנייני ציבור"
+      },
+      {
+        "count": 2,
+        "total": 30,
+        "value_id": "אזור מגורים משולב",
+        "value_name": "אזור מגורים משולב"
+      },
+      {
+        "count": 2,
+        "total": 30,
+        "value_id": "אזור מגורים א",
+        "value_name": "אזור מגורים א"
+      }
+    ],
+    "license_item": [],
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 475,
+    "property_kind": [
+      {
+        "count": 31,
+        "total": 36,
+        "value_id": "בתי מלון ובתי  הארחה",
+        "value_name": "בתי מלון ובתי  הארחה"
+      },
+      {
+        "count": 3,
+        "total": 36,
+        "value_id": "אכסניה",
+        "value_name": "אכסניה"
+      }
+    ],
+    "sign_count": 7,
+    "sign_id": [
+      "905162000000002",
+      "909855000000018",
+      "979861700000003",
+      "909855000000004",
+      "979861700000016",
+      "906493000000005",
+      "979861700000011",
+      "909855000000003",
+      "979861700000006",
+      "906492000000002"
+    ],
+    "tariff_zone": "בית מלון",
+    "tariffs": {
+      "": 81.19
+    }
+  },
+  {
+    "business_kind_count": 34,
+    "business_kind_name": "צעצועים",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 7,
+        "total": 26,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 3,
+        "total": 26,
+        "value_id": "דיור מיוחד ומסחר (מבא\"ת)",
+        "value_name": "דיור מיוחד ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 26,
+        "value_id": "מגורים ומסחר (מבא\"ת)",
+        "value_name": "מגורים ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 26,
+        "value_id": "מגורים ג+חז.מסחרית",
+        "value_name": "מגורים ג+חז.מסחרית"
+      },
+      {
+        "count": 2,
+        "total": 26,
+        "value_id": "חניה ציבורית",
+        "value_name": "חניה ציבורית"
+      },
+      {
+        "count": 2,
+        "total": 26,
+        "value_id": "אזור משולב תעשיה, מלאכה ומסחר",
+        "value_name": "אזור משולב תעשיה, מלאכה ומסחר"
+      },
+      {
+        "count": 2,
+        "total": 26,
+        "value_id": "אזור משולב מסחר שרותים תעשייה ומלאכה",
+        "value_name": "אזור משולב מסחר שרותים תעשייה ומלאכה"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 2,
+        "total": 2,
+        "value_id": "4.7 ב",
+        "value_name": "4.7 ב"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 2,
+        "total": 4,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 2,
+        "total": 4,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1393,
+    "property_kind": [
+      {
+        "count": 34,
+        "total": 52,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 14,
+        "total": 52,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 4,
+        "total": 52,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      }
+    ],
+    "sign_count": 12,
+    "sign_id": [
+      "924588000000047",
+      "930010100000006",
+      "925063000000015",
+      "971816000000010",
+      "924588000000043",
+      "940027000000005",
+      "924588000000048",
+      "925042000000016",
+      "925063000000020",
+      "940027000000001"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 31,
+    "business_kind_name": "חנות מכירת חומרי בניין",
+    "demand_category": [
+      [
+        "דברים לבית",
+        "טמבוריה עשה זאת בעצמך"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 16,
+        "total": 28,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 3,
+        "total": 28,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 2,
+        "total": 28,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 2,
+        "total": 28,
+        "value_id": "אזור תעשיה ומלאכה",
+        "value_name": "אזור תעשיה ומלאכה"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1566,
+    "property_kind": [
+      {
+        "count": 27,
+        "total": 62,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 15,
+        "total": 62,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 9,
+        "total": 62,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 4,
+        "total": 62,
+        "value_id": "קרקע תפוסה",
+        "value_name": "קרקע תפוסה"
+      },
+      {
+        "count": 4,
+        "total": 62,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 2,
+        "total": 62,
+        "value_id": "מחסן מסחר פח + עץ",
+        "value_name": "מחסן מסחר פח + עץ"
+      }
+    ],
+    "sign_count": 16,
+    "sign_id": [
+      "979715500000002",
+      "979867000000004",
+      "979710600000009",
+      "924510400000010",
+      "919780000000001",
+      "979921500000009",
+      "979968900000004",
+      "979968900000035",
+      "979734200000004",
+      "979710600000031"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 30,
+    "business_kind_name": "סוכנות/מגרש רכב/השכרה מכירה",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 7,
+        "total": 29,
+        "value_id": "אזור מלאכה ותעשיה ומתקני שרות",
+        "value_name": "אזור מלאכה ותעשיה ומתקני שרות"
+      },
+      {
+        "count": 6,
+        "total": 29,
+        "value_id": "אזור מלאכה ותעשיה זעירה",
+        "value_name": "אזור מלאכה ותעשיה זעירה"
+      },
+      {
+        "count": 3,
+        "total": 29,
+        "value_id": "מרכז מטרופוליני",
+        "value_name": "מרכז מטרופוליני"
+      },
+      {
+        "count": 2,
+        "total": 29,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 2,
+        "total": 29,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 2,
+        "total": 3,
+        "value_id": "8.6 ג",
+        "value_name": "8.6 ג"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 3,
+        "total": 4,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1813,
+    "property_kind": [
+      {
+        "count": 25,
+        "total": 62,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 12,
+        "total": 62,
+        "value_id": "קרקע תפוסה",
+        "value_name": "קרקע תפוסה"
+      },
+      {
+        "count": 10,
+        "total": 62,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 5,
+        "total": 62,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 5,
+        "total": 62,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 3,
+        "total": 62,
+        "value_id": "מחסן מסחר פח + עץ",
+        "value_name": "מחסן מסחר פח + עץ"
+      }
+    ],
+    "sign_count": 37,
+    "sign_id": [
+      "925710100000020",
+      "925954000000010",
+      "925860000000055",
+      "766001500000011",
+      "925161000000027",
+      "925710100000046",
+      "924574600000054",
+      "925472300000035",
+      "925860000000007",
+      "925954500000040"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 30,
+    "business_kind_name": "משרד קבלני בניה",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 3,
+        "total": 24,
+        "value_id": "תעשיה עתירת ידע (מבא\"ת)",
+        "value_name": "תעשיה עתירת ידע (מבא\"ת)"
+      },
+      {
+        "count": 3,
+        "total": 24,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 2,
+        "total": 24,
+        "value_id": "מגורים א' (מבא\"ת)",
+        "value_name": "מגורים א' (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 24,
+        "value_id": "אזור משולב מסחר ומגורים מיוחד",
+        "value_name": "אזור משולב מסחר ומגורים מיוחד"
+      },
+      {
+        "count": 2,
+        "total": 24,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 372,
+    "property_kind": [
+      {
+        "count": 9,
+        "total": 39,
+        "value_id": "משרד מעל ק.ק",
+        "value_name": "משרד מעל ק.ק"
+      },
+      {
+        "count": 9,
+        "total": 39,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 8,
+        "total": 39,
+        "value_id": "מסחר/משרד עץ-פח",
+        "value_name": "מסחר/משרד עץ-פח"
+      },
+      {
+        "count": 5,
+        "total": 39,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 4,
+        "total": 39,
+        "value_id": "מחסן מסחר פח + עץ",
+        "value_name": "מחסן מסחר פח + עץ"
+      }
+    ],
+    "sign_count": 11,
+    "sign_id": [
+      "925606000000002",
+      "925606000000027",
+      "925606000000033",
+      "925606000000022",
+      "925606000000006",
+      "925867000000001",
+      "904832000000002",
+      "925606000000047",
+      "925606000000029",
+      "925606000000030"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 290.95,
+      "ב": 232.92,
+      "ג": 182.55,
+      "ג1": 210.59
+    }
+  },
+  {
+    "business_kind_count": 29,
+    "business_kind_name": "חנות משקפי שמש ואופטיקה",
+    "demand_category": [
+      [
+        "אופנה וטיפוח",
+        "חנות משקפי שמש ואופטיקה"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 12,
+        "total": 28,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 4,
+        "total": 28,
+        "value_id": "מגורים ומסחר (מבא\"ת)",
+        "value_name": "מגורים ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 4,
+        "total": 28,
+        "value_id": "אזור משולב תעשיה, מלאכה ומסחר",
+        "value_name": "אזור משולב תעשיה, מלאכה ומסחר"
+      },
+      {
+        "count": 3,
+        "total": 28,
+        "value_id": "דיור מיוחד ומסחר (מבא\"ת)",
+        "value_name": "דיור מיוחד ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 28,
+        "value_id": "שטח למגרש מיוחד",
+        "value_name": "שטח למגרש מיוחד"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1438,
+    "property_kind": [
+      {
+        "count": 27,
+        "total": 36,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 3,
+        "total": 36,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 3,
+        "total": 36,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 2,
+        "total": 36,
+        "value_id": "מרפאות פ.",
+        "value_name": "מרפאות פ."
+      }
+    ],
+    "sign_count": 23,
+    "sign_id": [
+      "971831000000034",
+      "971559000000044",
+      "971578000000009",
+      "980000601000027",
+      "971815000000010",
+      "965243000000005",
+      "980000601000023",
+      "925030500000020",
+      "980000601000059",
+      "971559000000048"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 27,
+    "business_kind_name": "חנות חיות",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 3,
+        "total": 23,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 2,
+        "total": 23,
+        "value_id": "אזור תעשיה ומלאכה",
+        "value_name": "אזור תעשיה ומלאכה"
+      },
+      {
+        "count": 2,
+        "total": 23,
+        "value_id": "אזור מלאכה ותעשיה זעירה",
+        "value_name": "אזור מלאכה ותעשיה זעירה"
+      },
+      {
+        "count": 2,
+        "total": 23,
+        "value_id": "אזור מלאכה ותעשיה זעירה משולב במסחר",
+        "value_name": "אזור מלאכה ותעשיה זעירה משולב במסחר"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 5,
+        "total": 6,
+        "value_id": "3.5 ב",
+        "value_name": "3.5 ב"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 5,
+        "total": 11,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 5,
+        "total": 11,
+        "value_id": "agriculture",
+        "value_name": "agriculture"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1363,
+    "property_kind": [
+      {
+        "count": 25,
+        "total": 39,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 8,
+        "total": 39,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 2,
+        "total": 39,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 2,
+        "total": 39,
+        "value_id": "מבנה חקלאי",
+        "value_name": "מבנה חקלאי"
+      }
+    ],
+    "sign_count": 12,
+    "sign_id": [
+      "979677200000007",
+      "925635000000040",
+      "925112500000005",
+      "964399000000007",
+      "964399000000023",
+      "927825500000001",
+      "979751500000005",
+      "924931500000023",
+      "965204500000011",
+      "925635000000039"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 27,
+    "business_kind_name": "אטליז / קצביה",
+    "demand_category": [
+      [
+        "מצרכים ומוצרים",
+        "חנות דגים"
+      ],
+      [
+        "מצרכים ומוצרים",
+        "קצב קצבייה"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 2,
+        "total": 16,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 2,
+        "total": 16,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      },
+      {
+        "count": 2,
+        "total": 16,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 4,
+        "total": 4,
+        "value_id": "4.7 ג",
+        "value_name": "4.7 ג"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 4,
+        "total": 8,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 4,
+        "total": 8,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1428,
+    "property_kind": [
+      {
+        "count": 24,
+        "total": 42,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 7,
+        "total": 42,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 6,
+        "total": 42,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 3,
+        "total": 42,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      }
+    ],
+    "sign_count": 12,
+    "sign_id": [
+      "979205000000023",
+      "975260100000014",
+      "926634000000007",
+      "909960000000001",
+      "975350100000005",
+      "975190100000001",
+      "909980000000037",
+      "909980000000007",
+      "979414000000007",
+      "975260100000003"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 26,
+    "business_kind_name": "בית דפוס",
+    "demand_category": [
+      [
+        "שירותים מקצועיים",
+        "שרותי צילום והדפסה"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 5,
+        "total": 24,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 4,
+        "total": 24,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 4,
+        "total": 24,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 3,
+        "total": 24,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 2,
+        "total": 24,
+        "value_id": "תעשיה עתירת ידע (מבא\"ת)",
+        "value_name": "תעשיה עתירת ידע (מבא\"ת)"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 718,
+    "property_kind": [
+      {
+        "count": 23,
+        "total": 31,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 6,
+        "total": 31,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 2,
+        "total": 31,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      }
+    ],
+    "sign_count": 7,
+    "sign_id": [
+      "901971600000003",
+      "912601000000001",
+      "901971600000001",
+      "919946000000002",
+      "926832000000005",
+      "901790100000003",
+      "912601000000006",
+      "901971600000004",
+      "979757000000003",
+      "902010500000003"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 25,
+    "business_kind_name": "דוכן אחר ללא אוכל",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 11,
+        "total": 23,
+        "value_id": "דיור מיוחד ומסחר (מבא\"ת)",
+        "value_name": "דיור מיוחד ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 6,
+        "total": 23,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 3,
+        "total": 23,
+        "value_id": "מרכז תחבורה",
+        "value_name": "מרכז תחבורה"
+      },
+      {
+        "count": 2,
+        "total": 23,
+        "value_id": "חניה ציבורית",
+        "value_name": "חניה ציבורית"
+      }
+    ],
+    "license_item": [],
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 204,
+    "property_kind": [
+      {
+        "count": 24,
+        "total": 25,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      }
+    ],
+    "sign_count": 23,
+    "sign_id": [
+      "930009800000057",
+      "930008200000001",
+      "971141300000024",
+      "971717000000024",
+      "971520500000029",
+      "930008800000007",
+      "971141300000033",
+      "930008900000015",
+      "930009800000036",
+      "971717000000031"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 20,
+    "business_kind_name": "משרד מהנדסים",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 17,
+        "total": 20,
+        "value_id": "תעשיה עתירת ידע (מבא\"ת)",
+        "value_name": "תעשיה עתירת ידע (מבא\"ת)"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 68,
+    "property_kind": [
+      {
+        "count": 12,
+        "total": 23,
+        "value_id": "משרד מעל ק.ק",
+        "value_name": "משרד מעל ק.ק"
+      },
+      {
+        "count": 8,
+        "total": 23,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      }
+    ],
+    "sign_count": 4,
+    "sign_id": [
+      "925907000000002",
+      "925872000000006",
+      "925879000000002",
+      "925880500000003",
+      "925880500000004",
+      "925872000000007",
+      "925894000000001",
+      "925883000000003",
+      "925908500000001",
+      "925899300000002"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 290.95,
+      "ב": 232.92,
+      "ג": 182.55,
+      "ג1": 210.59
+    }
+  },
+  {
+    "business_kind_count": 20,
+    "business_kind_name": "כיתות לימוד/מכללה",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 4,
+        "total": 16,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 3,
+        "total": 16,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      }
+    ],
+    "license_item": [],
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 606,
+    "property_kind": [
+      {
+        "count": 13,
+        "total": 21,
+        "value_id": "כיתות לימוד",
+        "value_name": "כיתות לימוד"
+      },
+      {
+        "count": 4,
+        "total": 21,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 2,
+        "total": 21,
+        "value_id": "מרתף משרד",
+        "value_name": "מרתף משרד"
+      }
+    ],
+    "sign_count": 9,
+    "sign_id": [
+      "965602000000005",
+      "966591900000002",
+      "965602000000010",
+      "901928000000011",
+      "901928000000032",
+      "901928000000014",
+      "904881300000002",
+      "901980000000009",
+      "901980000000017",
+      "901928000000030"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "": 91.995
+    }
+  },
+  {
+    "business_kind_count": 19,
+    "business_kind_name": "חנות פרחים או משתלה",
+    "demand_category": [
+      [
+        "דברים לבית",
+        "חנות פרחים"
+      ],
+      [
+        "דברים לבית",
+        "משתלה"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 3,
+        "total": 15,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 2,
+        "total": 15,
+        "value_id": "שטח לבנייני ציבור",
+        "value_name": "שטח לבנייני ציבור"
+      },
+      {
+        "count": 2,
+        "total": 15,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 2,
+        "total": 2,
+        "value_id": "6.7",
+        "value_name": "6.7"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 2,
+        "total": 2,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1542,
+    "property_kind": [
+      {
+        "count": 14,
+        "total": 32,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 6,
+        "total": 32,
+        "value_id": "משתלה,סככה,מחסן,חממה",
+        "value_name": "משתלה,סככה,מחסן,חממה"
+      },
+      {
+        "count": 3,
+        "total": 32,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 2,
+        "total": 32,
+        "value_id": "מבנה חקלאי",
+        "value_name": "מבנה חקלאי"
+      },
+      {
+        "count": 2,
+        "total": 32,
+        "value_id": "אדמה חקלאית",
+        "value_name": "אדמה חקלאית"
+      }
+    ],
+    "sign_count": 11,
+    "sign_id": [
+      "965250000000006",
+      "927820000000002",
+      "905154000000001",
+      "927771500000017",
+      "925670000000021",
+      "971112100000001",
+      "925800000000013",
+      "925800000000007",
+      "925670000000010",
+      "927828000000007"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 18,
+    "business_kind_name": "מרפדיה",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 6,
+        "total": 18,
+        "value_id": "שטח לשימוש כללי",
+        "value_name": "שטח לשימוש כללי"
+      },
+      {
+        "count": 5,
+        "total": 18,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 3,
+        "total": 18,
+        "value_id": "אזור מלאכה ותעשיה זעירה",
+        "value_name": "אזור מלאכה ותעשיה זעירה"
+      },
+      {
+        "count": 2,
+        "total": 18,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 2,
+        "total": 3,
+        "value_id": "10.13",
+        "value_name": "10.13"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 3,
+        "total": 5,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 322,
+    "property_kind": [
+      {
+        "count": 18,
+        "total": 18,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      }
+    ],
+    "sign_count": 7,
+    "sign_id": [
+      "923810000000005",
+      "906491200000002",
+      "907060000000031",
+      "907060000000008",
+      "907060000000012",
+      "920030000000009",
+      "901891000000002",
+      "924515700000003",
+      "907060000000011",
+      "904140000000001"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 17,
+    "business_kind_name": "שטיפת רכב או אביזרי רכב",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 4,
+        "total": 15,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 2,
+        "total": 15,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 2,
+        "total": 15,
+        "value_id": "אזור מלאכה ותעשיה זעירה",
+        "value_name": "אזור מלאכה ותעשיה זעירה"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 2,
+        "total": 2,
+        "value_id": "8.6 ג",
+        "value_name": "8.6 ג"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 2,
+        "total": 2,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 707,
+    "property_kind": [
+      {
+        "count": 12,
+        "total": 28,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 6,
+        "total": 28,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 5,
+        "total": 28,
+        "value_id": "קרקע תפוסה",
+        "value_name": "קרקע תפוסה"
+      },
+      {
+        "count": 3,
+        "total": 28,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      }
+    ],
+    "sign_count": 11,
+    "sign_id": [
+      "923140000000002",
+      "971650000000027",
+      "971650000000009",
+      "971650000000029",
+      "971650000000011",
+      "930039900000019",
+      "930039900000014",
+      "923140000000003",
+      "924931800000005",
+      "930039900000013"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 17,
+    "business_kind_name": "אולם שמחות",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 2,
+        "total": 9,
+        "value_id": "אזור מגורים משולב",
+        "value_name": "אזור מגורים משולב"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 6,
+        "total": 6,
+        "value_id": "7.9",
+        "value_name": "7.9"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 6,
+        "total": 18,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 6,
+        "total": 18,
+        "value_id": "police",
+        "value_name": "police"
+      },
+      {
+        "count": 6,
+        "total": 18,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1322,
+    "property_kind": [
+      {
+        "count": 16,
+        "total": 27,
+        "value_id": "אולמי שמחות",
+        "value_name": "אולמי שמחות"
+      },
+      {
+        "count": 2,
+        "total": 27,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 2,
+        "total": 27,
+        "value_id": "מסחר/משרד עץ-פח",
+        "value_name": "מסחר/משרד עץ-פח"
+      },
+      {
+        "count": 2,
+        "total": 27,
+        "value_id": "אכסניה",
+        "value_name": "אכסניה"
+      }
+    ],
+    "sign_count": 21,
+    "sign_id": [
+      "979210000000032",
+      "913103000000005",
+      "979210000000025",
+      "927795000000017",
+      "979216500000038",
+      "927795000000004",
+      "979216500000044",
+      "979210000000044",
+      "979216500000033",
+      "972400000000031"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 176.57,
+      "ב": 176.57,
+      "ג": 176.57
+    }
+  },
+  {
+    "business_kind_count": 16,
+    "business_kind_name": "תבלינים וקטניות-אריז",
+    "demand_category": [
+      [
+        "מצרכים ומוצרים",
+        "פיצוחים"
+      ],
+      [
+        "מצרכים ומוצרים",
+        "חנות תבלינים"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 3,
+        "total": 9,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 2,
+        "total": 9,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 3,
+        "total": 5,
+        "value_id": "4.7 ב",
+        "value_name": "4.7 ב"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 4,
+        "total": 8,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 3,
+        "total": 8,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1191,
+    "property_kind": [
+      {
+        "count": 15,
+        "total": 24,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 5,
+        "total": 24,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 3,
+        "total": 24,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      }
+    ],
+    "sign_count": 12,
+    "sign_id": [
+      "927855000000018",
+      "927855000000040",
+      "910317000000004",
+      "927855000000028",
+      "919428500000008",
+      "927855000000012",
+      "925031600000009",
+      "969616000000013",
+      "910317000000014",
+      "927855000000029"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 15,
+    "business_kind_name": "תחנת מוניות",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 2,
+        "total": 12,
+        "value_id": "מרכז תחבורה",
+        "value_name": "מרכז תחבורה"
+      },
+      {
+        "count": 2,
+        "total": 12,
+        "value_id": "מבנים ומוסדות ציבור לבריאות (מבא\"ת)",
+        "value_name": "מבנים ומוסדות ציבור לבריאות (מבא\"ת)"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1128,
+    "property_kind": [
+      {
+        "count": 10,
+        "total": 15,
+        "value_id": "מוניות דוכן",
+        "value_name": "מוניות דוכן"
+      },
+      {
+        "count": 4,
+        "total": 15,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      }
+    ],
+    "sign_count": 10,
+    "sign_id": [
+      "904349000000004",
+      "967712000000007",
+      "904349000000005",
+      "927850500000001",
+      "904349000000007",
+      "927850500000008",
+      "926245500000024",
+      "926245500000007",
+      "904349000000013",
+      "926245500000004"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 372.63,
+      "ב": 298.14,
+      "ג": 252.41,
+      "ג1": 269.55
+    }
+  },
+  {
+    "business_kind_count": 15,
+    "business_kind_name": "מכבסה וניקוי יבש",
+    "demand_category": [
+      [
+        "שירותים מקצועיים",
+        "מכבסה"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 4,
+        "total": 13,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      },
+      {
+        "count": 3,
+        "total": 13,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 2,
+        "total": 13,
+        "value_id": "אזור מלאכה ותעשיה זעירה",
+        "value_name": "אזור מלאכה ותעשיה זעירה"
+      }
+    ],
+    "license_item": [],
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 602,
+    "property_kind": [
+      {
+        "count": 15,
+        "total": 15,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      }
+    ],
+    "sign_count": 6,
+    "sign_id": [
+      "926210000000006",
+      "926210000000007",
+      "927411000000004",
+      "978851000000003",
+      "926639000000008",
+      "924555000000005",
+      "927892000000002",
+      "926210000000001",
+      "978851000000007",
+      "926210000000010"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 14,
+    "business_kind_name": "בית משחקים/באולינג/סנוקר/חשמל",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 4,
+        "total": 11,
+        "value_id": "דיור מיוחד ומסחר (מבא\"ת)",
+        "value_name": "דיור מיוחד ומסחר (מבא\"ת)"
+      },
+      {
+        "count": 3,
+        "total": 11,
+        "value_id": "אזור משולב תעשיה, מלאכה ומסחר",
+        "value_name": "אזור משולב תעשיה, מלאכה ומסחר"
+      },
+      {
+        "count": 2,
+        "total": 11,
+        "value_id": "אזור משולב מסחר שרותים תעשייה ומלאכה",
+        "value_name": "אזור משולב מסחר שרותים תעשייה ומלאכה"
+      }
+    ],
+    "license_item": [],
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1183,
+    "property_kind": [
+      {
+        "count": 9,
+        "total": 20,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 4,
+        "total": 20,
+        "value_id": "שטח מסלול באולינג",
+        "value_name": "שטח מסלול באולינג"
+      },
+      {
+        "count": 2,
+        "total": 20,
+        "value_id": "מבנה למעט שטח מסלול משחקיה",
+        "value_name": "מבנה למעט שטח מסלול משחקיה"
+      }
+    ],
+    "sign_count": 14,
+    "sign_id": [
+      "925094000000009",
+      "930020300000011",
+      "930015100000004",
+      "978700209000003",
+      "925072000000010",
+      "924521000000004",
+      "978920000000011",
+      "924571700000003",
+      "978920000000010",
+      "930020300000001"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 13,
+    "business_kind_name": "משרד רואי חשבון או הנהלת חשבונות",
+    "demand_category": [
+      [
+        "שירותים מקצועיים",
+        "הנהלת חשבונות"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 4,
+        "total": 10,
+        "value_id": "אזור משולב לתעשיה עתירת ידע, משרדים ומסחר",
+        "value_name": "אזור משולב לתעשיה עתירת ידע, משרדים ומסחר"
+      },
+      {
+        "count": 3,
+        "total": 10,
+        "value_id": "תעשיה עתירת ידע (מבא\"ת)",
+        "value_name": "תעשיה עתירת ידע (מבא\"ת)"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 89,
+    "property_kind": [
+      {
+        "count": 8,
+        "total": 13,
+        "value_id": "משרד מעל ק.ק",
+        "value_name": "משרד מעל ק.ק"
+      },
+      {
+        "count": 5,
+        "total": 13,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      }
+    ],
+    "sign_count": 10,
+    "sign_id": [
+      "966591000000025",
+      "966591000000012",
+      "966591000000022",
+      "925942500000009",
+      "925933000000001",
+      "966591000000030",
+      "925932000000011",
+      "966591000000005",
+      "925932000000009",
+      "925932000000002"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 290.95,
+      "ב": 232.92,
+      "ג": 182.55,
+      "ג1": 210.59
+    }
+  },
+  {
+    "business_kind_count": 13,
+    "business_kind_name": "חנות ומעבדת סלולר",
+    "demand_category": [
+      [
+        "שירותים מקצועיים",
+        "חנות ומעבדת סלולר"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 4,
+        "total": 12,
+        "value_id": "אזור משולב תעשיה, מלאכה ומסחר",
+        "value_name": "אזור משולב תעשיה, מלאכה ומסחר"
+      },
+      {
+        "count": 3,
+        "total": 12,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1049,
+    "property_kind": [
+      {
+        "count": 13,
+        "total": 17,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 2,
+        "total": 17,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      }
+    ],
+    "sign_count": 20,
+    "sign_id": [
+      "971589000000052",
+      "969525000000012",
+      "971589000000053",
+      "925026300000009",
+      "971719500000013",
+      "978700201620004",
+      "925018000000002",
+      "925018000000011",
+      "971589000000057",
+      "925085000000021"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 11,
+    "business_kind_name": "משרד אדריכלים",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 2,
+        "total": 10,
+        "value_id": "תעשיה עתירת ידע (מבא\"ת)",
+        "value_name": "תעשיה עתירת ידע (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 10,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 2,
+        "total": 10,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 6389,
+    "property_kind": [
+      {
+        "count": 8,
+        "total": 12,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 3,
+        "total": 12,
+        "value_id": "משרד מעל ק.ק",
+        "value_name": "משרד מעל ק.ק"
+      }
+    ],
+    "sign_count": 4,
+    "sign_id": [
+      "925896000000007",
+      "925887000000002",
+      "925884000000001",
+      "925896000000008",
+      "925896000000001",
+      "925896000000003",
+      "925896000000009",
+      "979734600000005",
+      "914830100000002",
+      "979734600000002"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 11,
+    "business_kind_name": "חנות מזון או ממתקים",
+    "demand_category": [
+      [
+        "הורים וילדים",
+        "חנות ממתקים"
+      ],
+      [
+        "מצרכים ומוצרים",
+        "חנות טבע"
+      ],
+      [
+        "מסעדות ובתי קפה",
+        "אוכל מוכן וקייטרינג"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 2,
+        "total": 7,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 2,
+        "total": 3,
+        "value_id": "4.7 ב",
+        "value_name": "4.7 ב"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 3,
+        "total": 6,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 3,
+        "total": 6,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 827,
+    "property_kind": [
+      {
+        "count": 9,
+        "total": 14,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 3,
+        "total": 14,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 2,
+        "total": 14,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      }
+    ],
+    "sign_count": 4,
+    "sign_id": [
+      "926731000000002",
+      "909922000000001",
+      "975130100000002",
+      "909922000000012",
+      "909922000000011",
+      "926462000000002",
+      "909922000000005",
+      "909922000000002",
+      "909922000000008",
+      "909922000000003"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 10,
+    "business_kind_name": "מוקד שירות",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 4,
+        "total": 10,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 2,
+        "total": 10,
+        "value_id": "תעשיה עתירת ידע (מבא\"ת)",
+        "value_name": "תעשיה עתירת ידע (מבא\"ת)"
+      },
+      {
+        "count": 2,
+        "total": 10,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1205,
+    "property_kind": [
+      {
+        "count": 5,
+        "total": 12,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 2,
+        "total": 12,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 2,
+        "total": 12,
+        "value_id": "מרכז ש.טלפוני מעל 4,000 מ\"ר",
+        "value_name": "מרכז ש.טלפוני מעל 4,000 מ\"ר"
+      }
+    ],
+    "sign_count": 26,
+    "sign_id": [
+      "925075000000039",
+      "925605000000043",
+      "928369000000004",
+      "930031801000016",
+      "925075000000007",
+      "925605000000018",
+      "925075000000026",
+      "925075000000011",
+      "925075000000021",
+      "925075000000015"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 9,
+    "business_kind_name": "סטודיו למחול",
+    "demand_category": [
+      [
+        "תחביבים ספורט ופנאי",
+        "יוגה פלאטיס זומבה"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 2,
+        "total": 9,
+        "value_id": "שטח לבנייני ציבור",
+        "value_name": "שטח לבנייני ציבור"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1605,
+    "property_kind": [
+      {
+        "count": 6,
+        "total": 10,
+        "value_id": "גני ילדים פרטיים",
+        "value_name": "גני ילדים פרטיים"
+      },
+      {
+        "count": 2,
+        "total": 10,
+        "value_id": "כיתות לימוד",
+        "value_name": "כיתות לימוד"
+      }
+    ],
+    "sign_count": 16,
+    "sign_id": [
+      "966606000000001",
+      "925632000000007",
+      "924690200000016",
+      "966606000000006",
+      "926090000000009",
+      "925632000000001",
+      "903182500000003",
+      "924690200000009",
+      "925632000000025",
+      "925632000000027"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "": 91.995
+    }
+  },
+  {
+    "business_kind_count": 9,
+    "business_kind_name": "סטארט-אפ או חברת הייט.",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 4,
+        "total": 9,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      },
+      {
+        "count": 2,
+        "total": 9,
+        "value_id": "תעשיה עתירת ידע (מבא\"ת)",
+        "value_name": "תעשיה עתירת ידע (מבא\"ת)"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 501,
+    "property_kind": [
+      {
+        "count": 4,
+        "total": 10,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 4,
+        "total": 10,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 2,
+        "total": 10,
+        "value_id": "ת. ומלאכה (פארק ההיי-טק",
+        "value_name": "ת. ומלאכה (פארק ההיי-טק"
+      }
+    ],
+    "sign_count": 6,
+    "sign_id": [
+      "928288600000003",
+      "924934900000001",
+      "979734000000001",
+      "979734000000003",
+      "979734000000015",
+      "928289200000016",
+      "928288600000002",
+      "928289200000001",
+      "924934900000002",
+      "928289200000013"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 9,
+    "business_kind_name": "משרד תיווך נדל\"ן",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 4,
+        "total": 9,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 171,
+    "property_kind": [
+      {
+        "count": 6,
+        "total": 10,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 3,
+        "total": 10,
+        "value_id": "משרד מעל ק.ק",
+        "value_name": "משרד מעל ק.ק"
+      }
+    ],
+    "sign_count": 8,
+    "sign_id": [
+      "925909600350008",
+      "907559000000013",
+      "925909600350010",
+      "907559000000002",
+      "912452000000002",
+      "925909600350013",
+      "907559000000005",
+      "907559000000009",
+      "925909600350007",
+      "777309300000002"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 9,
+    "business_kind_name": "חנות צילום",
+    "demand_category": [
+      [
+        "תחביבים ספורט ופנאי",
+        "חנות צילום"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 3,
+        "total": 9,
+        "value_id": "מסחרי ב'",
+        "value_name": "מסחרי ב'"
+      },
+      {
+        "count": 2,
+        "total": 9,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 2,
+        "total": 9,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 800,
+    "property_kind": [
+      {
+        "count": 8,
+        "total": 10,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      }
+    ],
+    "sign_count": 14,
+    "sign_id": [
+      "967351000000007",
+      "912180000000001",
+      "971620000000004",
+      "912180000000010",
+      "908250200000008",
+      "971620000000001",
+      "908250200000005",
+      "971620000000025",
+      "901795000000002",
+      "908250200000009"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 9,
+    "business_kind_name": "חברה או סוכנות ביטוח",
+    "demand_category": [],
+    "land_designation": [],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 485,
+    "property_kind": [
+      {
+        "count": 6,
+        "total": 10,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 2,
+        "total": 10,
+        "value_id": "משרד מעל ק.ק",
+        "value_name": "משרד מעל ק.ק"
+      }
+    ],
+    "sign_count": 6,
+    "sign_id": [
+      "926811000000001",
+      "928112000000007",
+      "925943500000004",
+      "926811000000005",
+      "928112000000004",
+      "926811000000004",
+      "925411000000003",
+      "925943500000006",
+      "926811000000006",
+      "925909600200002"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 8,
+    "business_kind_name": "ציוד משרדי וכלי כתיבה",
+    "demand_category": [
+      [
+        "דברים לבית",
+        "ציוד משרדי וכלי כתיבה"
+      ]
+    ],
+    "land_designation": [],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1387,
+    "property_kind": [
+      {
+        "count": 8,
+        "total": 11,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 2,
+        "total": 11,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      }
+    ],
+    "sign_count": 10,
+    "sign_id": [
+      "926026000000004",
+      "924128000000002",
+      "112910400100005",
+      "112910400100001",
+      "926026000000011",
+      "926026000000007",
+      "112910400100010",
+      "112910400100002",
+      "978700203040001",
+      "926026000000009"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 8,
+    "business_kind_name": "כלי-רכב-מכירה והשכרה",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 3,
+        "total": 8,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 2,
+        "total": 8,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1624,
+    "property_kind": [
+      {
+        "count": 8,
+        "total": 12,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 3,
+        "total": 12,
+        "value_id": "קרקע תפוסה",
+        "value_name": "קרקע תפוסה"
+      }
+    ],
+    "sign_count": 20,
+    "sign_id": [
+      "972021500000008",
+      "972021500000006",
+      "972021500000046",
+      "972021500000016",
+      "972021500000023",
+      "972021500000010",
+      "972021500000011",
+      "979561300100001",
+      "979561300100002",
+      "925710000000005"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 8,
+    "business_kind_name": "חנות יין ואלכוהול",
+    "demand_category": [
+      [
+        "מצרכים ומוצרים",
+        "חנות יין ואלכוהול"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 2,
+        "total": 7,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 2,
+        "total": 4,
+        "value_id": "4.7 ב",
+        "value_name": "4.7 ב"
+      },
+      {
+        "count": 2,
+        "total": 4,
+        "value_id": "4.6 ג",
+        "value_name": "4.6 ג"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 4,
+        "total": 8,
+        "value_id": "sanitation",
+        "value_name": "sanitation"
+      },
+      {
+        "count": 4,
+        "total": 8,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 937,
+    "property_kind": [
+      {
+        "count": 6,
+        "total": 13,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 2,
+        "total": 13,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      },
+      {
+        "count": 2,
+        "total": 13,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      },
+      {
+        "count": 2,
+        "total": 13,
+        "value_id": "מ.ע.ג.מוס.",
+        "value_name": "מ.ע.ג.מוס."
+      }
+    ],
+    "sign_count": 13,
+    "sign_id": [
+      "924515200000003",
+      "906014500000004",
+      "979668000000006",
+      "905027000000013",
+      "925615000000031",
+      "979413000000003",
+      "906014500000001",
+      "925615000000012",
+      "979668000000003",
+      "925615000000034"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 8,
+    "business_kind_name": "בית מרקחת",
+    "demand_category": [
+      [
+        "קופת חולים ופארם",
+        "בית מרקחת חנות פארם"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 3,
+        "total": 7,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      },
+      {
+        "count": 2,
+        "total": 7,
+        "value_id": "מגורים מיוחד",
+        "value_name": "מגורים מיוחד"
+      }
+    ],
+    "license_item": [],
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1878,
+    "property_kind": [
+      {
+        "count": 6,
+        "total": 14,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 4,
+        "total": 14,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      }
+    ],
+    "sign_count": 24,
+    "sign_id": [
+      "924157000000016",
+      "915170000000016",
+      "928125000000016",
+      "928022000000004",
+      "928125000000025",
+      "928125000000063",
+      "924157000000023",
+      "928125000000003",
+      "915170000000055",
+      "928021000000005"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 7,
+    "business_kind_name": "סנדלריה",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 3,
+        "total": 5,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 302,
+    "property_kind": [
+      {
+        "count": 7,
+        "total": 7,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      }
+    ],
+    "sign_count": 5,
+    "sign_id": [
+      "904610000000002",
+      "972520100000002",
+      "907586300000020",
+      "907586300000004",
+      "912602000000005",
+      "912602000000002",
+      "912602000000001",
+      "926517000000004",
+      "907586300000018",
+      "912602000000006"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 7,
+    "business_kind_name": "משרד תיירות / הסעות",
+    "demand_category": [],
+    "land_designation": [],
+    "license_item": [],
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 303,
+    "property_kind": [
+      {
+        "count": 7,
+        "total": 8,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      }
+    ],
+    "sign_count": 5,
+    "sign_id": [
+      "928382000000001",
+      "928382000000010",
+      "928382000000008",
+      "928382000000003",
+      "965248000000007",
+      "928382000000005",
+      "928171000000002",
+      "965248000000006",
+      "928382000000007",
+      "926341800000005"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 7,
+    "business_kind_name": "מעבדה לשיניים",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 3,
+        "total": 7,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      }
+    ],
+    "license_item": [],
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 785,
+    "property_kind": [
+      {
+        "count": 5,
+        "total": 8,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      }
+    ],
+    "sign_count": 13,
+    "sign_id": [
+      "926694000000006",
+      "969611000000002",
+      "926694000000010",
+      "969611000000001",
+      "926694000000016",
+      "969611000000007",
+      "926694000000004",
+      "969611000000004",
+      "969611000000005",
+      "926694000000002"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 7,
+    "business_kind_name": "בית אבות",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 2,
+        "total": 6,
+        "value_id": "שטח לבנייני ציבור",
+        "value_name": "שטח לבנייני ציבור"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 711,
+    "property_kind": [
+      {
+        "count": 4,
+        "total": 10,
+        "value_id": "בתי אבות סיעודיים",
+        "value_name": "בתי אבות סיעודיים"
+      },
+      {
+        "count": 3,
+        "total": 10,
+        "value_id": "בית אבות",
+        "value_name": "בית אבות"
+      }
+    ],
+    "sign_count": 16,
+    "sign_id": [
+      "909810000000009",
+      "909810000000005",
+      "927450200000008",
+      "909810000000010",
+      "909810000000003",
+      "909810000000013",
+      "927450200000015",
+      "927450200000017",
+      "927450200000010",
+      "927450200000013"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "": 70.06
+    }
+  },
+  {
+    "business_kind_count": 6,
+    "business_kind_name": "צמיגים",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 2,
+        "total": 5,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      }
+    ],
+    "license_item": [
+      {
+        "count": 2,
+        "total": 2,
+        "value_id": "8.9 ד",
+        "value_name": "8.9 ד"
+      }
+    ],
+    "licensing_agency": [
+      {
+        "count": 2,
+        "total": 4,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 2,
+        "total": 4,
+        "value_id": "economy",
+        "value_name": "economy"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1482,
+    "property_kind": [
+      {
+        "count": 6,
+        "total": 9,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 2,
+        "total": 9,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      }
+    ],
+    "sign_count": 13,
+    "sign_id": [
+      "923670200000011",
+      "924992000000010",
+      "924992000000035",
+      "924992000000040",
+      "924992000000019",
+      "924992000000005",
+      "924992000000037",
+      "924992000000047",
+      "924992000000004",
+      "924992000000022"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 5,
+    "business_kind_name": "מרכז שירות",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 4,
+        "total": 4,
+        "value_id": "אזור תעשיה",
+        "value_name": "אזור תעשיה"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 866,
+    "property_kind": [
+      {
+        "count": 3,
+        "total": 5,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 2,
+        "total": 5,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      }
+    ],
+    "sign_count": 4,
+    "sign_id": [
+      "925795000000004",
+      "925793000000001",
+      "925795000000006",
+      "925795000000005",
+      "925793000000002",
+      "925795000000002",
+      "925795000000001",
+      "925795000000003"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 5,
+    "business_kind_name": "מוצרי קדושה/יודיאקיה",
+    "demand_category": [],
+    "land_designation": [],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 658,
+    "property_kind": [
+      {
+        "count": 3,
+        "total": 5,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 2,
+        "total": 5,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      }
+    ],
+    "sign_count": 5,
+    "sign_id": [
+      "926674000000002",
+      "927835100000007",
+      "912516500000001",
+      "927835100000004",
+      "927835100000008",
+      "927835100000006",
+      "930005402000004",
+      "927835100000003",
+      "930005402000003",
+      "930005402000006"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 5,
+    "business_kind_name": "חנות ממתקים",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 2,
+        "total": 5,
+        "value_id": "אזור משולב מסחר שרותים תעשייה ומלאכה",
+        "value_name": "אזור משולב מסחר שרותים תעשייה ומלאכה"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 737,
+    "property_kind": [
+      {
+        "count": 5,
+        "total": 9,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 3,
+        "total": 9,
+        "value_id": "סככות",
+        "value_name": "סככות"
+      }
+    ],
+    "sign_count": 10,
+    "sign_id": [
+      "971130200000022",
+      "971130200000020",
+      "925085500000007",
+      "925085500000001",
+      "925090300000003",
+      "971130200000001",
+      "925066100000002",
+      "971130200000011",
+      "925066100000006",
+      "971130200000016"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 5,
+    "business_kind_name": "בית ספר לנהיגה",
+    "demand_category": [],
+    "land_designation": [
+      {
+        "count": 3,
+        "total": 5,
+        "value_id": "אזור מסחרי",
+        "value_name": "אזור מסחרי"
+      },
+      {
+        "count": 2,
+        "total": 5,
+        "value_id": "אזור מגורים ג",
+        "value_name": "אזור מגורים ג"
+      }
+    ],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 442,
+    "property_kind": [
+      {
+        "count": 5,
+        "total": 6,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      }
+    ],
+    "sign_count": 8,
+    "sign_id": [
+      "966683000000012",
+      "966632100000002",
+      "966683000000004",
+      "968063000000004",
+      "926389000000003",
+      "966683000000006",
+      "966683000000008",
+      "966632100000005",
+      "966683000000009",
+      "966632100000003"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 5,
+    "business_kind_name": "אומנות גלריה /תערוכה",
+    "demand_category": [],
+    "land_designation": [],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 530,
+    "property_kind": [
+      {
+        "count": 2,
+        "total": 5,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 2,
+        "total": 5,
+        "value_id": "קרית אומנות",
+        "value_name": "קרית אומנות"
+      }
+    ],
+    "sign_count": 6,
+    "sign_id": [
+      "925659000000008",
+      "925659000000006",
+      "925659000000012",
+      "925659000000002",
+      "925659000000009",
+      "911910500000001",
+      "925659000000004",
+      "925659000000001",
+      "925659000000003",
+      "925659000000007"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 4,
+    "business_kind_name": "משרד כח אדם",
+    "demand_category": [],
+    "land_designation": [],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 406,
+    "property_kind": [
+      {
+        "count": 4,
+        "total": 4,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      }
+    ],
+    "sign_count": 4,
+    "sign_id": [
+      "969801000000006",
+      "969801000000002",
+      "972434000000004",
+      "972434000000003",
+      "972434000000001",
+      "969801000000007",
+      "902430000000001",
+      "972434000000005",
+      "972434000000006",
+      "969801000000005"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 4,
+    "business_kind_name": "בריכה או קאנטרי",
+    "demand_category": [
+      [
+        "תחביבים ספורט ופנאי",
+        "בריכת שחיה"
+      ]
+    ],
+    "land_designation": [],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 893,
+    "property_kind": [
+      {
+        "count": 3,
+        "total": 7,
+        "value_id": "מתקני נופש",
+        "value_name": "מתקני נופש"
+      }
+    ],
+    "sign_count": 6,
+    "sign_id": [
+      "927778700000007",
+      "979083000000001",
+      "927869500000001",
+      "927778700000004",
+      "927869500000004",
+      "927869500000008",
+      "927778700000003",
+      "927869500000002",
+      "927778700000006",
+      "927778700000001"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 292.17,
+      "ב": 229.49,
+      "ג": 229.49,
+      "ג1": 207.49
+    }
+  },
+  {
+    "business_kind_count": 4,
+    "business_kind_name": "אולם ארועים",
+    "demand_category": [],
+    "land_designation": [],
+    "license_item": [],
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1870,
+    "property_kind": [
+      {
+        "count": 4,
+        "total": 6,
+        "value_id": "אולמי שמחות",
+        "value_name": "אולמי שמחות"
+      },
+      {
+        "count": 2,
+        "total": 6,
+        "value_id": "חניונים לרכב בתשלום",
+        "value_name": "חניונים לרכב בתשלום"
+      }
+    ],
+    "sign_count": 15,
+    "sign_id": [
+      "966011000000014",
+      "980000800000013",
+      "980000800000015",
+      "980000800000018",
+      "979171000000005",
+      "979171000000012",
+      "979171000000014",
+      "966011000000013",
+      "980000800000014",
+      "980000800000010"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 176.57,
+      "ב": 176.57,
+      "ג": 176.57
+    }
+  },
+  {
+    "business_kind_count": 3,
+    "business_kind_name": "סטודיו לקעקועים",
+    "demand_category": [
+      [
+        "אופנה וטיפוח",
+        "קעקועים ופירסינג"
+      ]
+    ],
+    "land_designation": [
+      {
+        "count": 2,
+        "total": 3,
+        "value_id": "מסחרי א'",
+        "value_name": "מסחרי א'"
+      }
+    ],
+    "license_item": [],
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 576,
+    "property_kind": [
+      {
+        "count": 3,
+        "total": 5,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      },
+      {
+        "count": 2,
+        "total": 5,
+        "value_id": "מחסן מסחר/משרד",
+        "value_name": "מחסן מסחר/משרד"
+      }
+    ],
+    "sign_count": 10,
+    "sign_id": [
+      "915270000000011",
+      "904644500000006",
+      "915270000000013",
+      "904644500000001",
+      "915270000000010",
+      "904644500000005",
+      "915270000000009",
+      "915270000000014",
+      "915270000000004",
+      "904644500000003"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 3,
+    "business_kind_name": "מרפאה ווטרינרית",
+    "demand_category": [],
+    "land_designation": [],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1448,
+    "property_kind": [
+      {
+        "count": 2,
+        "total": 4,
+        "value_id": "מרפאות פרטיות",
+        "value_name": "מרפאות פרטיות"
+      }
+    ],
+    "sign_count": 15,
+    "sign_id": [
+      "965564000000012",
+      "965564000000020",
+      "965564000000030",
+      "925634000000005",
+      "965564000000017",
+      "965564000000027",
+      "875901900110003",
+      "925634000000003",
+      "965564000000007",
+      "965564000000021"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "ג": 245.85,
+      "ג1": 222.28
+    }
+  },
+  {
+    "business_kind_count": 3,
+    "business_kind_name": "מעבדה לבדיקות כימיות",
+    "demand_category": [],
+    "land_designation": [],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 105,
+    "property_kind": [
+      {
+        "count": 3,
+        "total": 7,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 2,
+        "total": 7,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      }
+    ],
+    "sign_count": 4,
+    "sign_id": [
+      "925665000000002",
+      "979806300000005",
+      "979806300000004",
+      "979806300000006",
+      "979806300000001",
+      "979806300000003",
+      "979806300000002",
+      "925665000000001"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 3,
+    "business_kind_name": "ייצור ומכירה דודי שמש",
+    "demand_category": [],
+    "land_designation": [],
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 785,
+    "property_kind": [
+      {
+        "count": 2,
+        "total": 4,
+        "value_id": "תעשיה ומלאכה",
+        "value_name": "תעשיה ומלאכה"
+      },
+      {
+        "count": 2,
+        "total": 4,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      }
+    ],
+    "sign_count": 20,
+    "sign_id": [
+      "904580100000050",
+      "904580100000031",
+      "904580100000034",
+      "904580100000045",
+      "904580100000035",
+      "904580100000012",
+      "908340000000008",
+      "904580100000028",
+      "904580100000009",
+      "904580100000044"
+    ],
+    "tariff_zone": "תעשיה",
+    "tariffs": {
+      "א": 100.86333333333333,
+      "ב": 75.565,
+      "ג": 75.565
+    }
+  },
+  {
+    "business_kind_count": 3,
+    "business_kind_name": "חנות אופניים או אופניים חשמליות",
+    "demand_category": [
+      [
+        "תחביבים ספורט ופנאי",
+        "חנות אופניים"
+      ],
+      [
+        "תחביבים ספורט ופנאי",
+        "השכרת אופניים קורקינט"
+      ]
+    ],
+    "land_designation": null,
+    "license_item": null,
+    "licensing_agency": [
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 1041,
+    "property_kind": [
+      {
+        "count": 3,
+        "total": 3,
+        "value_id": "מסחר/משרד ושרותים",
+        "value_name": "מסחר/משרד ושרותים"
+      }
+    ],
+    "sign_count": 5,
+    "sign_id": [
+      "926245000000002",
+      "926245000000008",
+      "926244100000002",
+      "926245000000005",
+      "926245000000009",
+      "926245000000006",
+      "926245000000001",
+      "926245000000004",
+      "926244100000001",
+      "926245000000003"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 335.11,
+      "ב": 273.795,
+      "ג": 273.84,
+      "ג1": 251.96
+    }
+  },
+  {
+    "business_kind_count": 3,
+    "business_kind_name": "בית קולנוע",
+    "demand_category": [
+      [
+        "תחביבים ספורט ופנאי",
+        "קולנוע"
+      ]
+    ],
+    "land_designation": [],
+    "license_item": [],
+    "licensing_agency": [
+      {
+        "count": 2,
+        "total": 4,
+        "value_id": "police",
+        "value_name": "police"
+      },
+      {
+        "count": 2,
+        "total": 4,
+        "value_id": "fire-dept",
+        "value_name": "fire-dept"
+      },
+      {
+        "count": 10,
+        "total": 10,
+        "value_id": "engineering",
+        "value_name": "engineering"
+      }
+    ],
+    "max_sign_area": 6535,
+    "property_kind": [
+      {
+        "count": 3,
+        "total": 4,
+        "value_id": "בתי קולנוע",
+        "value_name": "בתי קולנוע"
+      }
+    ],
+    "sign_count": 34,
+    "sign_id": [
+      "978700207000051",
+      "978700207000011",
+      "978700207000001",
+      "966630600000003",
+      "978700207000012",
+      "978700207000017",
+      "978700207000041",
+      "978700207000046",
+      "978700207000038",
+      "978700207000034"
+    ],
+    "tariff_zone": "משרד, שירותים ומסחר",
+    "tariffs": {
+      "א": 104.34,
+      "ב": 83.43,
+      "ג": 83.43
+    }
+  }
+]

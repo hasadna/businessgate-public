@@ -1,0 +1,1353 @@
+{
+  "s": [
+    {
+      "description": "Main Script",
+      "name": "main",
+      "snippets": [
+        {
+          "name": "intro",
+          "steps": [
+            {
+              "goto": "introduction",
+              "uid": "56e97451d1"
+            },
+            {
+              "goto": "select-business-kind",
+              "uid": "63340613fc"
+            },
+            {
+              "goto": "select-location",
+              "uid": "2bf2150bd8"
+            },
+            {
+              "do": {
+                "cmd": "stacks_button_visible"
+              },
+              "uid": "9a86966e7b"
+            }
+          ],
+          "uid": "4012236bf2"
+        },
+        {
+          "name": "introduction",
+          "steps": [
+            {
+              "img": {
+                "mobile": {
+                  "asset": "assets/img/bot-hi.png",
+                  "justify_content": "flex-start",
+                  "width": "40%"
+                }
+              },
+              "uid": "b952412688"
+            },
+            {
+              "say": "קוראים לי BR7, אני בוט קטן שמתמחה בעסקים קטנים בעיריית באר שבע",
+              "uid": "869e1e653f"
+            },
+            {
+              "say": "עשרות מומחים בעירייה עבדו איתי במשך חודשים ויצרנו יחד מאות כרטיסים שונים שנוגעים בכל היבט של פתיחת עסק: רישוי, ארנונה, שילוט, תכנון, חניה, ביקושים, מה לא…\n",
+              "uid": "aa270111c3"
+            },
+            {
+              "say": "אני אשאל אותך כמה שאלות בסיסיות ואציג לך כרטיסים שממוקדים במיוחד בסיפור הפתיחה של העסק שלך\t\n",
+              "uid": "9bea7f55c6"
+            },
+            {
+              "say": "אז שנתחיל?",
+              "uid": "33b6df2a8e"
+            },
+            {
+              "uid": "6f81f18678",
+              "wait": {
+                "options": [
+                  {
+                    "show": "בטח"
+                  }
+                ]
+              }
+            },
+            {
+              "say": "תוך 10 דקות בערך כל התהליך של פתיחת עסק יהפוך לברור הרבה יותר\t&#9889;\n",
+              "uid": "f90dff7131"
+            },
+            {
+              "html-say": "אתן לך כאן מידע ראשוני (לפי <a href='javascript:;' onclick='document.location.hash=\"eula\";'>תנאי השימוש שלי</a>)\n - את התהליך המלא מומלץ להמשיך אחר כך עם אנשי מקצוע שינחו אותך בניואנסים הקטנים\n",
+              "uid": "bacdab6a94"
+            },
+            {
+              "say": "בהמשך גם אכיר לך את דקלה מיעדים שתוכל ללוות אותך הלאה",
+              "uid": "139461b49c"
+            }
+          ],
+          "uid": "558221da5e"
+        },
+        {
+          "name": "select-business-kind",
+          "steps": [
+            {
+              "say": "אבל קודם כל אצטרך שנזהה יחד את סוג העסק שלך מתוך הרשימה",
+              "uid": "0ec779a16f"
+            },
+            {
+              "uid": "593a64349d",
+              "wait": {
+                "options": [
+                  {
+                    "echo": false,
+                    "show": "יאללה",
+                    "steps": [
+                      {
+                        "select-from-list": {
+                          "placeholder": "חיפוש (מסעדה, מוסך, משרד…)",
+                          "response": "בחרתי {{סוג_עסק}}",
+                          "source": "business_kinds",
+                          "variable": "business_kind",
+                          "variable2": "סוג_עסק"
+                        },
+                        "uid": "c59f2ae4a6"
+                      },
+                      {
+                        "say": "נהדר!",
+                        "uid": "17e8ed8c8c"
+                      },
+                      {
+                        "do": {
+                          "cmd": "check_for_opportunity",
+                          "variable": "_has_opportunity"
+                        },
+                        "uid": "8e4e197eed"
+                      },
+                      {
+                        "switch": {
+                          "arg": "_has_opportunity",
+                          "cases": [
+                            {
+                              "match": true,
+                              "steps": [
+                                {
+                                  "say": "למעשה יש כרגע כמה מקומות בעיר שבהם כדאי במיוחד להקים {{סוג_עסק}} וגם כמה הזדמנויות שהעירייה מקדמת",
+                                  "uid": "47ecad77e6"
+                                },
+                                {
+                                  "say": "האם יעניין אותך לשמוע על הזדמנויות או שכבר בחרת מיקום?",
+                                  "uid": "ac7ff7488b"
+                                }
+                              ],
+                              "uid": "d8aa0e50e5"
+                            },
+                            {
+                              "default": true,
+                              "steps": [
+                                {
+                                  "say": "האם יעניין אותך לשמוע על מתחמים עסקיים או שכבר בחרת מיקום?",
+                                  "uid": "f340df23f6"
+                                }
+                              ],
+                              "uid": "d133c3b874"
+                            }
+                          ]
+                        },
+                        "uid": "d47d052934"
+                      }
+                    ],
+                    "uid": "5de1688398"
+                  },
+                  {
+                    "class": "grayed",
+                    "show": "עוד לא החלטתי מה לפתוח",
+                    "steps": [
+                      {
+                        "say": "בסדר גמור",
+                        "uid": "dcb934736f"
+                      },
+                      {
+                        "say": "יש לי כבר לא מעט מה לספר לך גם ככה",
+                        "uid": "868761a03f"
+                      },
+                      {
+                        "say": "ואם ישארו לך שאלות בסוף, דקלה תשמח לעזור",
+                        "uid": "f3ec53f2e8"
+                      },
+                      {
+                        "say": "האם יעניין אותך לשמוע על מתחמים עסקיים או שכבר בחרת מיקום?",
+                        "uid": "ee54cbc4d5"
+                      }
+                    ],
+                    "uid": "206376a523"
+                  }
+                ]
+              }
+            }
+          ],
+          "uid": "864874702b"
+        },
+        {
+          "name": "select-location",
+          "steps": [
+            {
+              "uid": "d93b477c86",
+              "wait": {
+                "options": [
+                  {
+                    "do": {
+                      "cmd": "select_commercial_area"
+                    },
+                    "echo": false,
+                    "show": "אשמח לשמוע"
+                  },
+                  {
+                    "echo": false,
+                    "show": "כבר בחרתי מקום",
+                    "steps": [
+                      {
+                        "select-from-list": {
+                          "placeholder": "חיפוש (כתובת העסק או שם מתחם עסקי…)",
+                          "response": "בחרתי {{מיקום.שם}}",
+                          "source": "locations",
+                          "variable": "location",
+                          "variable2": "מיקום"
+                        },
+                        "uid": "b25c0de498"
+                      },
+                      {
+                        "say": "נהדר!",
+                        "uid": "09a18ed076"
+                      }
+                    ],
+                    "uid": "b19324d643"
+                  },
+                  {
+                    "class": "grayed",
+                    "show": "אבחר אחר כך",
+                    "steps": [
+                      {
+                        "say": "אין בעיה",
+                        "uid": "966af0c470"
+                      }
+                    ],
+                    "uid": "56e573e461"
+                  }
+                ]
+              }
+            },
+            {
+              "do": {
+                "cmd": "calculate_locations",
+                "params": [
+                  "record"
+                ]
+              },
+              "uid": "abc6be88ba"
+            }
+          ],
+          "uid": "9c80968cb6"
+        },
+        {
+          "name": "business-licensing",
+          "steps": [
+            {
+              "switch": {
+                "arg": "סוג_עסק",
+                "cases": [
+                  {
+                    "steps": [
+                      {
+                        "pop": "default",
+                        "uid": "918c48d722"
+                      }
+                    ],
+                    "uid": "508a648fd3",
+                    "undefined": true
+                  },
+                  {
+                    "default": true
+                  }
+                ]
+              },
+              "uid": "63816aef95"
+            },
+            {
+              "do": {
+                "cmd": "check_needs_licensing",
+                "params": [
+                  "record"
+                ],
+                "variable": "_needs_licensing"
+              },
+              "uid": "5f0843568d"
+            },
+            {
+              "switch": {
+                "arg": "_needs_licensing",
+                "cases": [
+                  {
+                    "match": true,
+                    "steps": [
+                      {
+                        "say": "פתיחת {{סוג_עסק}} דורשת אישור ממספר גופים שונים",
+                        "uid": "e14b0ad624"
+                      },
+                      {
+                        "say": "בנוסף, קרוב לוודאי שידרש רשיון עבור העסק",
+                        "uid": "5ec3e91670"
+                      },
+                      {
+                        "say": "נושא רישוי העסק הוא אחד האתגרים המרכזיים בהקמת עסק, אבל יש אנשי מקצוע שיוכלו לעזור עם זה, הכנו לך מדריך קצר.",
+                        "uid": "762c5b4b0c"
+                      },
+                      {
+                        "cards": {
+                          "stack": "business-licensing-tutorial"
+                        },
+                        "uid": "93f30bc822"
+                      },
+                      {
+                        "say": "ריכזנו עבורך {{_num_licensing_agencies}} כרטיסים - אחד עבור כל גורם שאמור לאשר את רשיון העסק שלך",
+                        "uid": "a72b1fdc88"
+                      },
+                      {
+                        "say": "אפשר להציץ בפרטים של כל כרטיס גם עכשיו וגם אחר כך, אנחנו אוספים ושומרים לך את כולם",
+                        "uid": "20cc80c163"
+                      },
+                      {
+                        "cards": {
+                          "stacksFrom": "_licensing_agencies_stacks"
+                        },
+                        "uid": "319e9c5bfd"
+                      }
+                    ],
+                    "uid": "784bfef64f"
+                  },
+                  {
+                    "match": false,
+                    "steps": [
+                      {
+                        "say": "פתיחת {{סוג_עסק}} לרוב אינה דורשת רישוי עסקים",
+                        "uid": "2192829895"
+                      },
+                      {
+                        "say": "למרות זאת, ייתכן ותצטרך לעמוד בתנאים נוספים בהתאם לתקנות העירוניות",
+                        "uid": "73130b48e6"
+                      },
+                      {
+                        "cards": {
+                          "stack": "common"
+                        },
+                        "uid": "8bfc859e49"
+                      }
+                    ],
+                    "uid": "584fdda688"
+                  }
+                ]
+              },
+              "uid": "c5695b3f18"
+            }
+          ],
+          "uid": "c69992a98b"
+        },
+        {
+          "name": "arnona",
+          "steps": [
+            {
+              "switch": {
+                "arg": "סוג_עסק",
+                "cases": [
+                  {
+                    "steps": [
+                      {
+                        "pop": "default",
+                        "uid": "2ccd107a59"
+                      }
+                    ],
+                    "uid": "4a4e5b5e3c",
+                    "undefined": true
+                  },
+                  {
+                    "default": true
+                  }
+                ]
+              },
+              "uid": "8108b702a1"
+            },
+            {
+              "switch": {
+                "arg": "מיקום",
+                "cases": [
+                  {
+                    "steps": [
+                      {
+                        "pop": "default",
+                        "uid": "6f7e3df492"
+                      }
+                    ],
+                    "uid": "58d5996957",
+                    "undefined": true
+                  },
+                  {
+                    "default": true
+                  }
+                ]
+              },
+              "uid": "fb31d4c090"
+            },
+            {
+              "say": "אנחנו יודעים שבכוונתך לפתוח {{סוג_עסק}} ב{{מיקום.שם}}, ננסה עכשיו להבין כמה תעלה הארנונה",
+              "uid": "799aa2dcae"
+            },
+            {
+              "say": "האם כבר ידוע לך גודל הנכס?",
+              "uid": "14a555073d"
+            },
+            {
+              "uid": "8957f836fc",
+              "wait": {
+                "options": [
+                  {
+                    "echo": false,
+                    "show": "כן, יש לי גודל מדוייק",
+                    "steps": [
+                      {
+                        "uid": "b6e861d4ce",
+                        "wait": {
+                          "input-kind": "number",
+                          "input-max": 100000,
+                          "input-min": 1,
+                          "placeholder": "גודל הנכס במ״ר",
+                          "variable": "גודל_נכס"
+                        }
+                      },
+                      {
+                        "say": "אוקיי, אם כך אציג לך ארנונה ל{{סוג_עסק}} לפי {{גודל_נכס}} מ״ר",
+                        "uid": "8bef549cc5"
+                      }
+                    ],
+                    "uid": "d397f76271"
+                  },
+                  {
+                    "echo": false,
+                    "show": "לא, אבל אתן גודל משוער",
+                    "steps": [
+                      {
+                        "uid": "04a9babab5",
+                        "wait": {
+                          "input-kind": "number",
+                          "input-max": 100000,
+                          "input-min": 1,
+                          "placeholder": "גודל הנכס המשוער במ״ר",
+                          "variable": "גודל_נכס"
+                        }
+                      },
+                      {
+                        "say": "אוקיי, אם כך אציג לך ארנונה ל{{סוג_עסק}} לפי {{גודל_נכס}} מ״ר בערך",
+                        "uid": "1488a3939c"
+                      }
+                    ],
+                    "uid": "b7a4345f93"
+                  },
+                  {
+                    "class": "grayed",
+                    "show": "אין לי מושג",
+                    "steps": [
+                      {
+                        "say": "אוקיי, אם כך אציג לך ארנונה ל{{סוג_עסק}} לפי מחיר למ״ר",
+                        "uid": "2224aff60d"
+                      }
+                    ],
+                    "uid": "33f75dad1c"
+                  }
+                ]
+              }
+            },
+            {
+              "do": {
+                "cmd": "calculate_arnona",
+                "params": [
+                  "record"
+                ]
+              },
+              "uid": "3142e4bc39"
+            },
+            {
+              "cards": {
+                "stack": "arnona"
+              },
+              "uid": "4699269c6d"
+            }
+          ],
+          "uid": "5bb4cb675d"
+        },
+        {
+          "name": "signage",
+          "steps": [
+            {
+              "switch": {
+                "arg": "סוג_עסק",
+                "cases": [
+                  {
+                    "steps": [
+                      {
+                        "pop": "default",
+                        "uid": "b6535ba1a7"
+                      }
+                    ],
+                    "uid": "ea53a85f34",
+                    "undefined": true
+                  },
+                  {
+                    "default": true
+                  }
+                ]
+              },
+              "uid": "40c0317000"
+            },
+            {
+              "do": {
+                "cmd": "check_needs_signage",
+                "params": [
+                  "record"
+                ],
+                "variable": "_needs_signage"
+              },
+              "uid": "8767f9dcce"
+            },
+            {
+              "switch": {
+                "arg": "_needs_signage",
+                "cases": [
+                  {
+                    "match": true,
+                    "steps": [
+                      {
+                        "say": "בכל אופן, כיוון שמדובר על {{סוג_עסק}}, הייתי רוצה לדבר איתך על שילוט",
+                        "uid": "678c1b98ea"
+                      }
+                    ],
+                    "uid": "7e7d042bb0"
+                  },
+                  {
+                    "match": false,
+                    "steps": [
+                      {
+                        "say": "רוב בעלי {{סוג_עסק}} לא מתקינים שלט לעסק",
+                        "uid": "7fe7ac7e5d"
+                      },
+                      {
+                        "uid": "5651da5a07",
+                        "wait": {
+                          "options": [
+                            {
+                              "show": "גם לי אין כוונה כזו",
+                              "steps": [
+                                {
+                                  "pop": "default",
+                                  "uid": "14bc8238d7"
+                                }
+                              ],
+                              "uid": "df7036a683"
+                            },
+                            {
+                              "show": "שילוט דווקא כן מעניין אותי"
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "uid": "5be693da99"
+                  }
+                ]
+              },
+              "uid": "7649516475"
+            },
+            {
+              "cards": {
+                "stack": "signage"
+              },
+              "uid": "312adea886"
+            }
+          ],
+          "uid": "0d0ef8676e"
+        },
+        {
+          "name": "demand",
+          "steps": [
+            {
+              "do": {
+                "cmd": "check_needs_demand",
+                "params": [
+                  "record"
+                ],
+                "variable": "_needs_demand"
+              },
+              "uid": "9698c59dda"
+            },
+            {
+              "say": "מדי פעם העירייה עורכת סקר ביקושים בעיר",
+              "uid": "59d30ad884"
+            },
+            {
+              "switch": {
+                "arg": "סוג_עסק",
+                "cases": [
+                  {
+                    "steps": [
+                      {
+                        "say": "אם מעניין אותך ללמוד על הביקוש לבתי קפה, מכוני כושר, חנויות פארם וכדו׳ אשמח להציג לך את המידע\n",
+                        "uid": "ce164a8b12"
+                      },
+                      {
+                        "say": "איזו קטגוריה מעניינת אותך?",
+                        "uid": "11f58da68c"
+                      }
+                    ],
+                    "uid": "51fec938b1",
+                    "undefined": true
+                  },
+                  {
+                    "default": true,
+                    "steps": [
+                      {
+                        "switch": {
+                          "arg": "_needs_demand",
+                          "cases": [
+                            {
+                              "match": false,
+                              "steps": [
+                                {
+                                  "say": "האמת שלא שאלנו על {{סוג_עסק}} אבל אם בכל זאת מעניין אותך ללמוד על הביקוש לבתי קפה, מכוני כושר, חנויות פארם וכדו׳ אשמח להציג לך את המידע\n",
+                                  "uid": "f6d8004117"
+                                },
+                                {
+                                  "say": "איזו קטגוריה מעניינת אותך?",
+                                  "uid": "5428a227e3"
+                                }
+                              ],
+                              "uid": "6155c5393e"
+                            },
+                            {
+                              "match": true,
+                              "steps": [
+                                {
+                                  "say": "בטח יעניין אותך ללמוד על הביקוש ל{{סוג_עסק}} ב{{מיקום.שם}} ביחס למקומות אחרים בעיר \n",
+                                  "uid": "c0150d0534"
+                                }
+                              ],
+                              "uid": "33cf0da286"
+                            }
+                          ]
+                        },
+                        "uid": "7afb371b09"
+                      }
+                    ],
+                    "uid": "ce8c5d261f"
+                  }
+                ]
+              },
+              "uid": "0fc95aa582"
+            },
+            {
+              "cards": {
+                "stacksFrom": "demand-stacks"
+              },
+              "uid": "47268d4617"
+            }
+          ],
+          "uid": "e8c971903e"
+        },
+        {
+          "name": "geo-insights",
+          "steps": [
+            {
+              "switch": {
+                "arg": "מיקום",
+                "cases": [
+                  {
+                    "steps": [
+                      {
+                        "pop": "default",
+                        "uid": "21dbda6db0"
+                      }
+                    ],
+                    "uid": "8deebc8424",
+                    "undefined": true
+                  },
+                  {
+                    "default": true
+                  }
+                ]
+              },
+              "uid": "bc083b3c2e"
+            },
+            {
+              "say": "אני רוצה עכשיו להציע לך כמה תובנות שמבוססות על המידע הגיאוגרפי שקיים אצלנו בעירייה\n",
+              "uid": "e0ac375938"
+            },
+            {
+              "do": {
+                "cmd": "prepare_geo_insights",
+                "params": [
+                  "record"
+                ],
+                "variable": "show_institutions"
+              },
+              "uid": "3941013d2a"
+            },
+            {
+              "switch": {
+                "arg": "show_institutions",
+                "cases": [
+                  {
+                    "match": true,
+                    "steps": [
+                      {
+                        "say": "גורמים שונים משפיעים על תנועת אנשים ברחוב. מבני ציבור, מרכזי קניות, תחב״צ, חניה… שנפתח מפה?\n",
+                        "uid": "2501ca3a74"
+                      },
+                      {
+                        "cards": {
+                          "stack": "institutions"
+                        },
+                        "uid": "201ee19c35"
+                      }
+                    ],
+                    "uid": "0b16722150"
+                  }
+                ]
+              },
+              "uid": "8add778444"
+            },
+            {
+              "say": "צעירים? מבוגרים? עולים חדשים? הנתונים שיש לנו עוזרים ללמוד קצת על אופי השכונה ביחס לאחרות.\n",
+              "uid": "91c8405a7d"
+            },
+            {
+              "cards": {
+                "stack": "demographics"
+              },
+              "uid": "aab7c36721"
+            },
+            {
+              "say": "העיר שלנו משתנה כל הזמן. וחשוב לתכנן לא רק להווה, אלא גם לעתיד.\n",
+              "uid": "23916fad93"
+            },
+            {
+              "say": "איך נכון לחשוב על העתיד?\n",
+              "uid": "db786e7add"
+            },
+            {
+              "cards": {
+                "stack": "future_plans"
+              },
+              "uid": "98816cdd0d"
+            }
+          ],
+          "uid": "65d45551ec"
+        },
+        {
+          "name": "tips",
+          "steps": [
+            {
+              "say": "כל עוד הם מתניידים ברכב פרטי, גם הלקוחות וגם העובדים בעסק שלך מושפעים מהנגישות לחניה",
+              "uid": "0486ad0f01"
+            },
+            {
+              "say": "הכנו כרטיס כדי לבחון את סוגיית החניה באיזור {{מיקום.שם}}",
+              "uid": "59dde0e802"
+            },
+            {
+              "cards": {
+                "stack": "business_tips.חנייה"
+              },
+              "uid": "f7b633d215"
+            },
+            {
+              "say": "אספתי כמה טיפים נוספים שיוכלו אולי לעניין אותך",
+              "uid": "331d7562e9"
+            },
+            {
+              "cards": {
+                "stacks": [
+                  "business_tips.פתיחת_העסק",
+                  "business_tips.שיווק_דיגיטלי",
+                  "business_tips.טיפים_כלליים",
+                  "bzm.הוצאות_לא_צפויות",
+                  "ICT.מערכות_מידע",
+                  "business-operation"
+                ]
+              },
+              "uid": "a68c33bae2"
+            }
+          ],
+          "uid": "202faa0a8e"
+        },
+        {
+          "name": "outro",
+          "steps": [
+            {
+              "say": "זהו זה",
+              "uid": "5382e33e71"
+            },
+            {
+              "say": "באמת לפתוח עסק זה לא משחק ילדים, אבל אנחנו בסיפור הזה ביחד!\n",
+              "uid": "71f78674fb"
+            },
+            {
+              "say": "לפני שנפרד, אני אשמח להעביר הודעה בשמך לדקלה מיעדים\n",
+              "uid": "2f63740b44"
+            },
+            {
+              "say": "היא ה-מומחית לפתיחת עסקים בעיר והיא תוכל ללוות אותך יותר טוב מכל אחד אחר\n",
+              "uid": "31336f9f93"
+            },
+            {
+              "say": "מעבר לזה, נשמח לשמוע איך היה לך לדבר איתי היום, כי כמו כל בוט אני תמיד רוצה להשתפר\n",
+              "uid": "4fa59877e6"
+            },
+            {
+              "say": "מתאים?",
+              "uid": "76d73d7def"
+            },
+            {
+              "uid": "e3fff452a4",
+              "wait": {
+                "options": [
+                  {
+                    "echo": false,
+                    "show": "אכתוב כמה מילים",
+                    "steps": [
+                      {
+                        "uid": "a76ad0f998",
+                        "wait": {
+                          "long": true,
+                          "placeholder": "מה להעביר לדקלה? נשמח לשמוע גם ביקורת בונה…",
+                          "variable": "_feedback"
+                        }
+                      },
+                      {
+                        "say": "מצויין, אני אעביר את זה ואבקש שיצרו איתך בקשר במייל בימים הקרובים\n",
+                        "uid": "50617b8226"
+                      }
+                    ],
+                    "uid": "313bccbae6"
+                  },
+                  {
+                    "show": "פשוט שתהיה איתי בקשר",
+                    "steps": [
+                      {
+                        "say": "מצויין, אני אעביר בקשה ליצור איתך קשר במייל בימים הקרובים\n",
+                        "uid": "68116ea081"
+                      }
+                    ],
+                    "uid": "3e12382cc6"
+                  },
+                  {
+                    "class": "grayed",
+                    "show": "אין צורך בשלב זה",
+                    "steps": [
+                      {
+                        "say": "בסדר גמור",
+                        "uid": "5789ec2779"
+                      }
+                    ],
+                    "uid": "30394df27d"
+                  }
+                ]
+              }
+            },
+            {
+              "say": "מפה לשם אספנו {{stack_count}} כרטיסים במיוחד עבור העסק שלך…",
+              "uid": "a81e26ef99"
+            },
+            {
+              "say": "אני אשלח לך גם קישור אישי, כדי שהכרטיסים והשיחה שלנו יהיו זמינים לך גם אחר כך\t\n",
+              "uid": "2c17b9301b"
+            },
+            {
+              "switch": {
+                "arg": "email_address",
+                "cases": [
+                  {
+                    "default": true
+                  },
+                  {
+                    "steps": [
+                      {
+                        "uid": "d209d9d66f",
+                        "wait": {
+                          "options": [
+                            {
+                              "echo": false,
+                              "show": "רשמו את האימייל שלי",
+                              "steps": [
+                                {
+                                  "goto": "outro-get-email",
+                                  "uid": "71a244e94d"
+                                }
+                              ],
+                              "uid": "828bf1b9c5"
+                            },
+                            {
+                              "class": "grayed",
+                              "show": "ביטול",
+                              "steps": [
+                                {
+                                  "say": "ללא כתובת אימייל לא נוכל לשלוח לך את הקישור או לשמור איתך על קשר…\n",
+                                  "uid": "c6da32b8bb"
+                                },
+                                {
+                                  "uid": "febfb69cc7",
+                                  "wait": {
+                                    "options": [
+                                      {
+                                        "echo": false,
+                                        "show": "אופס, רישמו את האימייל",
+                                        "steps": [
+                                          {
+                                            "goto": "outro-get-email",
+                                            "uid": "1eec758382"
+                                          }
+                                        ],
+                                        "uid": "991063f6cf"
+                                      },
+                                      {
+                                        "class": "grayed",
+                                        "show": "אני לא רוצה לקבל אימייל",
+                                        "steps": [
+                                          {
+                                            "say": "בסדר, לא נעלבתי. בכל מקרה, הנה הקישור האישי שלך שיהיה לך…",
+                                            "uid": "c1499b6082"
+                                          }
+                                        ],
+                                        "uid": "3de6534398"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ],
+                              "uid": "8df22bbdb3"
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "uid": "d0176ddb16",
+                    "undefined": true
+                  }
+                ]
+              },
+              "uid": "3ed273880c"
+            },
+            {
+              "switch": {
+                "arg": "email_address",
+                "cases": [
+                  {
+                    "default": true,
+                    "steps": [
+                      {
+                        "say": "תודה, הנה הקישור והוא כבר בדרך אליך",
+                        "uid": "9061ee7666"
+                      }
+                    ],
+                    "uid": "d3384dceb1"
+                  },
+                  {
+                    "undefined": true
+                  }
+                ]
+              },
+              "uid": "d2a46500b6"
+            },
+            {
+              "copy-link": null,
+              "uid": "c4350579ac"
+            },
+            {
+              "cards": {
+                "stack": "links.קישורים"
+              },
+              "uid": "65b8a8bc56"
+            },
+            {
+              "say": "אנחנו נשמח להיות איתך בקשר טלפוני, זה לפעמים הרבה יותר פשוט מאימייל. רוצה?",
+              "uid": "23320b6163"
+            },
+            {
+              "uid": "6da78da1b4",
+              "wait": {
+                "options": [
+                  {
+                    "show": "כן, תודה",
+                    "steps": [
+                      {
+                        "uid": "728f331bfd",
+                        "wait": {
+                          "placeholder": "מספר הטלפון שלך",
+                          "validation": "[-+0-9]+",
+                          "variable": "phone_number"
+                        }
+                      },
+                      {
+                        "say": "מעולה ממש!",
+                        "uid": "1392bb23d9"
+                      }
+                    ],
+                    "uid": "efc8eabead"
+                  },
+                  {
+                    "class": "grayed",
+                    "show": "לא תודה",
+                    "steps": [
+                      {
+                        "say": "בסדר גמור :)",
+                        "uid": "6d9d8ecfe9"
+                      }
+                    ],
+                    "uid": "fdd123f4c9"
+                  }
+                ]
+              }
+            },
+            {
+              "switch": {
+                "arg": "email_address",
+                "cases": [
+                  {
+                    "default": true,
+                    "steps": [
+                      {
+                        "switch": {
+                          "arg": "_crm_email_receipt",
+                          "cases": [
+                            {
+                              "steps": [
+                                {
+                                  "do": {
+                                    "cmd": "send_crm_email",
+                                    "params": [
+                                      "record"
+                                    ],
+                                    "variable": "_crm_email_receipt"
+                                  },
+                                  "uid": "0976d448b5"
+                                }
+                              ],
+                              "uid": "4946f17ab7",
+                              "undefined": true
+                            },
+                            {
+                              "default": true
+                            }
+                          ]
+                        },
+                        "uid": "2064ea5d54"
+                      }
+                    ],
+                    "uid": "c95416162d"
+                  },
+                  {
+                    "undefined": true
+                  }
+                ]
+              },
+              "uid": "ee09af87b5"
+            },
+            {
+              "say": "דבר אחרון, אנחנו נשמח לעזור לעוד אנשים שרוצים לפתוח עסקים בעיר שלנו",
+              "uid": "45490729c1"
+            },
+            {
+              "say": "אפשר אולי לבקש איזה שיתוף קטן של האתר עם איזו מילה טובה?",
+              "uid": "5996e786a7"
+            },
+            {
+              "uid": "da1c5488dc",
+              "wait": {
+                "options": [
+                  {
+                    "echo": false,
+                    "show": "בשמחה רבה",
+                    "steps": [
+                      {
+                        "share-dialog": null,
+                        "uid": "8890884669"
+                      },
+                      {
+                        "say": "תודה ענקית מכולנו וממני במיוחד!",
+                        "uid": "720ae496ce"
+                      }
+                    ],
+                    "uid": "817ac60b8a"
+                  },
+                  {
+                    "class": "grayed",
+                    "show": "לא כרגע",
+                    "steps": [
+                      {
+                        "say": "אין בעיה",
+                        "uid": "b1ed09b79a"
+                      }
+                    ],
+                    "uid": "c08b11a984"
+                  }
+                ]
+              }
+            },
+            {
+              "say": "אשמח מאוד שנשמור על קשר",
+              "uid": "ed58b27cad"
+            },
+            {
+              "say": "והכי חשוב, שיהיה המון בהצלחה!",
+              "uid": "bad0976d29"
+            },
+            {
+              "img": {
+                "desktop": {
+                  "asset": "assets/img/bye-desktop.png",
+                  "justify_content": "flex-start",
+                  "width": "40%"
+                },
+                "mobile": {
+                  "asset": "assets/img/bot-bye.png",
+                  "justify_content": "flex-start",
+                  "width": "40%"
+                }
+              },
+              "uid": "8b2eb53aeb"
+            },
+            {
+              "do": {
+                "cmd": "save"
+              },
+              "uid": "a4ed0c52a9"
+            },
+            {
+              "uid": "aa10c4f56b",
+              "wait": {
+                "options": [
+                  {
+                    "class": "grayed",
+                    "show": "שיחה חדשה",
+                    "steps": [
+                      {
+                        "do": {
+                          "cmd": "new_chat"
+                        },
+                        "uid": "b3729a73ac"
+                      }
+                    ],
+                    "uid": "4b4b15ad0f"
+                  }
+                ]
+              }
+            }
+          ],
+          "uid": "fd0deac609"
+        },
+        {
+          "name": "outro-get-email",
+          "steps": [
+            {
+              "uid": "7f5a2dcfb6",
+              "wait": {
+                "input-kind": "email",
+                "placeholder": "כתובת המייל שלך",
+                "variable": "email_address"
+              }
+            }
+          ],
+          "uid": "01127cdc7d"
+        },
+        {
+          "name": "default",
+          "steps": [
+            {
+              "goto": "intro",
+              "uid": "a715bc68aa"
+            },
+            {
+              "goto": "business-licensing",
+              "uid": "2e9dda2b6d"
+            },
+            {
+              "goto": "demand",
+              "uid": "bba53ffd8a"
+            },
+            {
+              "goto": "geo-insights",
+              "uid": "8a68d318d1"
+            },
+            {
+              "goto": "arnona",
+              "uid": "a42787b0cf"
+            },
+            {
+              "goto": "signage",
+              "uid": "d9297a5a06"
+            },
+            {
+              "goto": "tips",
+              "uid": "455480fff8"
+            },
+            {
+              "goto": "outro",
+              "uid": "1c4edf0469"
+            }
+          ],
+          "uid": "8b6b65abba"
+        }
+      ]
+    },
+    {
+      "description": "More Info Script",
+      "name": "more-info",
+      "snippets": [
+        {
+          "name": "default",
+          "steps": [
+            {
+              "say": "בשמחה, במה אוכל לעזור?",
+              "uid": "3b24671f94"
+            },
+            {
+              "uid": "5aa13fa442",
+              "wait": {
+                "long": true,
+                "placeholder": "אפשר לכתוב כאן בכמה מילים…",
+                "variable": "question"
+              }
+            },
+            {
+              "do": {
+                "cmd": "process_question",
+                "params": [
+                  "record"
+                ]
+              },
+              "uid": "6bee41c2a5"
+            },
+            {
+              "say": "אוקיי. אשמח לברר ולחזור אליך לגבי זה באימייל.\n",
+              "uid": "401ca6f268"
+            },
+            {
+              "switch": {
+                "arg": "email_address",
+                "cases": [
+                  {
+                    "default": true
+                  },
+                  {
+                    "steps": [
+                      {
+                        "goto": "get-email",
+                        "uid": "73b3897437"
+                      }
+                    ],
+                    "uid": "11e045bc51",
+                    "undefined": true
+                  }
+                ]
+              },
+              "uid": "52981e5c18"
+            },
+            {
+              "say": "מצויין, תודה. אני אהיה איתך בקשר באימייל לגבי זה תוך כמה ימים,  בכתובת {{email_address}}.\n",
+              "uid": "74bd916e7a"
+            },
+            {
+              "goto": "finalize",
+              "uid": "455480fff8"
+            }
+          ],
+          "uid": "8b6b65abba"
+        },
+        {
+          "name": "finalize",
+          "steps": [
+            {
+              "say": "יש עוד משהו שרצית לשאול בנושא?",
+              "uid": "91bc6a17d9"
+            },
+            {
+              "uid": "25175f4623",
+              "wait": {
+                "options": [
+                  {
+                    "show": "לא, זהו בינתיים"
+                  },
+                  {
+                    "show": "אה, כן… יש לי עוד שאלה",
+                    "steps": [
+                      {
+                        "goto": "default",
+                        "uid": "50b37f1a2a"
+                      }
+                    ],
+                    "uid": "d7a70285b5"
+                  },
+                  {
+                    "show": "תיקון כתובת האימייל",
+                    "steps": [
+                      {
+                        "goto": "get-email",
+                        "uid": "33190a9297"
+                      },
+                      {
+                        "goto": "finalize",
+                        "uid": "463962a2b0"
+                      }
+                    ],
+                    "uid": "798c248089"
+                  }
+                ]
+              }
+            }
+          ],
+          "uid": "6713d80218"
+        },
+        {
+          "name": "get-email",
+          "steps": [
+            {
+              "say": "באיזו כתובת אוכל ליצור איתך קשר?",
+              "uid": "d91674f8ea"
+            },
+            {
+              "uid": "dd3be09152",
+              "wait": {
+                "input-kind": "email",
+                "placeholder": "כתובת האימייל שלך",
+                "variable": "email_address"
+              }
+            },
+            {
+              "say": "אוקיי, אשלח ל-{{email_address}}",
+              "uid": "25d255aa2f"
+            }
+          ],
+          "uid": "f0a0dc38c2"
+        }
+      ]
+    },
+    {
+      "keys": [
+        {
+          "name": "siteTitle",
+          "show": "שער לעסקים"
+        },
+        {
+          "name": "inputPlaceholder",
+          "show": {
+            ".tx": {
+              "_": "הקלידו כאן",
+              "en": "Type Here"
+            }
+          }
+        }
+      ],
+      "name": "config"
+    }
+  ]
+}
